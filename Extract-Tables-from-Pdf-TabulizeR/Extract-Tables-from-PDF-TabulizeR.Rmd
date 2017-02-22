@@ -5,14 +5,50 @@ date: "2/22/2017"
 output: html_document
 ---
 
-sudo rm -fr /Library/Internet\ Plug-Ins/JavaAppletPlugin.plugin 
-sudo rm -fr /Library/PreferencePanes/JavaControlPanel.prefPane 
-sudo rm -fr ~/Library/Application\ Support/Java
+# sudo rm -fr /Library/Internet\ Plug-Ins/JavaAppletPlugin.plugin 
+# sudo rm -fr /Library/PreferencePanes/JavaControlPanel.prefPane 
+# sudo rm -fr ~/Library/Application\ Support/Java
 
+Install Latest Java first.
+https://java.com/en/download/
 ```{r}
 require(pacman)
-p_load(rJava)
+install.packages('rJava')
+install.packages('png')
+p_load(png)
+p_load(rJava, knitr, data.table, dplyr)
 p_load(ghit)
-ghit::install_github(c("ropenscilabs/tabulizerjars", "ropenscilabs/tabulizer"))
+ghit::install_github(c("leeper/tabulizerjars", "leeper/tabulizer"), verbose = TRUE, INSTALL_opts = "--no-multiarch", dependencies = c("Depends", "Imports"))
+# ghit::install_github(c("ropenscilabs/tabulizerjars", "ropenscilabs/tabulizer"))
+# ghit::install_github(c("leeper/tabulizerjars", "leeper/tabulizer"), verbose = TRUE)
+# devtools::install_github(c("leeper/tabulizerjars", "leeper/tabulizer"), verbose = TRUE, args = "--no-multiarch", dependencies = c("Depends", "Imports"))
 ```
+
+```{r}
+# Nijnekamsk Reports
+location<- 'nijnekamskNH.pdf'
+out <- extract_tables(location, pages = 49) # exract the first page
+
+table1 <- out[[1]] %>% as.data.table # first table on the page
+table1
+names(table1) <- c('Позиция','Ден сред', 'Деб зад','Кред зад', 'Кред получ', 'Бал позиц' )
+table1 <- table1[-c(1:5),]
+write.csv(table1, 'NK-table.csv', row.names = F)
+```
+
+```{r}
+### Nalogovaya - Memorial
+p_load(tabulizer)
+
+location<- 'example.pdf'
+out <- extract_tables(location, pages = 1) # exract the first page
+
+df <- data.frame(matrix(unlist(out), nrow=37, byrow=T),stringsAsFactors=FALSE)
+
+names(df)<- c("Col1", "Col2")
+write.csv(df, 'example-table.csv')
+```
+
+
+
 
