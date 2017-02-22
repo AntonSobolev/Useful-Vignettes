@@ -1,0 +1,18 @@
+---
+title: "ExtractTablesTabulizer"
+author: "Anton Sobolev"
+date: "2/22/2017"
+output: html_document
+---
+
+sudo rm -fr /Library/Internet\ Plug-Ins/JavaAppletPlugin.plugin 
+sudo rm -fr /Library/PreferencePanes/JavaControlPanel.prefPane 
+sudo rm -fr ~/Library/Application\ Support/Java
+
+```{r}
+require(pacman)
+p_load(rJava)
+p_load(ghit)
+ghit::install_github(c("ropenscilabs/tabulizerjars", "ropenscilabs/tabulizer"))
+```
+
