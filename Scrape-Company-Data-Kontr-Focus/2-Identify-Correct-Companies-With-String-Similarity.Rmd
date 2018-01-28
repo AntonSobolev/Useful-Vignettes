@@ -1,0 +1,108 @@
+---
+title: "Productivity Data"
+author: "Anton Sobolev"
+date: "4/12/2017"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+#install.packages('pacman')
+if (!require("pacman")) install.packages("pacman")
+p_load(data.table, dplyr, tidyr, stringr, methods, stringdist) # Packages for text mining
+#p_load(ggplot2, ggjoy) # Packages for graphic
+p_load(qdapRegex)
+```
+
+```{r}
+clean_up <- function (x){
+  x <- gsub("[[:punct:]]"," ", x)
+  x <- gsub("\r", "", x)
+  x <- gsub("\n", "", x)
+  x <- gsub("\\s+", " ", x)
+  x <- gsub("^\\s+", "", x)
+  x <- gsub("\\s+$", "", x)
+  # x <- gsub("[ ]", "+", x)
+  return(x)
+}
+
+clean_up2 <- function (x){
+  x <- gsub(";"," ", x)
+  return(x)
+}
+```
+
+```{r}
+d <- read.csv("218-scrape-results.csv", stringsAsFactors = F,sep = "\t", header = F) %>% data.table()
+names(d) <- c("company_real","region_real","company","region","zip","address","ogrn","inn")
+d
+```
+
+```{r}
+d$num <- 1
+d[,group_position:=cumsum(num), by=c("company_real","region_real")]
+d[,group_position_mean:=mean(group_position), by=c("company_real","region_real")]
+d
+d <- d[group_position_mean==1]
+hist(d.mean$group_position)
+
+```
+
+
+# Perform string Similarity on test data
+```{r}
+d.test <- d[1:100,]
+d.test[, company_dist:= stringdist(company_real,company)]
+d.test[, region_dist:= stringdist(region_real,region)]
+d.test[, prediction:= company_dist*region_dist] # composite index
+
+d.test
+```
+# Identify A scraped company with lowest score (min sima distance )
+```{r}
+d.test[, min_prediction:=min(prediction, na.rm=T), by=c("company_real","region_real")]
+```
+# Keep only rows with best predictions
+```{r}
+d.test<- d.test[d.test$prediction==d.test$min_prediction]
+d.test[5:15,]
+```
+
+# Perform string Similarity on FULL data
+```{r}
+d[, company_dist:= stringdist(company_real,company)]
+d[, region_dist:= stringdist(region_real,region)]
+d[, prediction:= company_dist*region_dist] # composite index
+```
+# Identify A scraped company with lowest score (min sima distance )
+```{r}
+d[, min_prediction:=min(prediction, na.rm=T), by=c("company_real","region_real")]
+```
+# Keep only rows with best predictions
+```{r}
+d<- d[prediction==min_prediction,]
+d
+d[5:15,]
+```
+
+```{r}
+d$num <- 1
+d[,group_size:=cumsum(num), by=c("company_real","region_real")]
+```
+# Groups with the only maximum candidate
+```{r}
+d.unique <- d[group_size==1,c("company_real", "region_real","company", "region"), with = F]
+d.unique <- d.unique[with(d.unique, order(company_real, region_real)),]
+```
+# Write tab;e
+```{r}
+write.table(d.unique, "218-unique-predictions.csv", append = F, quote=F, row.names = FALSE, col.names = T, sep = "\t")
+```
+# Identify companies with more than 1 candidate
+```{r}
+d.candidates <- d[group_size > 1,c("company_real", "region_real","company", "region"), with = F]
+d.candidates <- d.candidates[with(d.candidates, order(company_real, region_real)),]
+```
+
+```{r}
+write.table(d.candidates, "218-candidates-predictions.csv", append = F, quote=F, row.names = FALSE, col.names = T, sep = "\t")
+```

@@ -1,0 +1,48 @@
+---
+title: "Productivity Data"
+author: "Anton Sobolev"
+date: "4/12/2017"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+#install.packages('pacman')
+require(pacman)
+p_load(data.table, dplyr, tidyr, stringr) # Packages for text mining
+```
+
+```{r}
+clean_up <- function (x){
+  x <- gsub("[[:punct:]]"," ", x)
+  x <- gsub("\r", "", x)
+  x <- gsub("\n", "", x)
+  x <- gsub("\\s+", " ", x)
+  x <- gsub("^\\s+", "", x)
+  x <- gsub("\\s+$", "", x)
+  # x <- gsub("[ ]", "+", x)
+  return(x)
+}
+```
+
+```{r}
+d <- read.csv("result.csv", stringsAsFactors = F, sep = ";") %>% data.table()
+```
+
+```{r}
+d$company_real <- sapply(d$company_real, clean_up)
+```
+
+```{r}
+write.table(d, "result.csv", append = F, row.names = F, quote = F, sep = ";")
+```
+
+```{r}
+names(d)
+company.list <- d[,c("company_real", "region_real"), with = F]
+company.list <- unique(company.list)
+nrow(unique(company.list))
+```
+
+```{r}
+write.table(company.list, "companies-218.csv", append = F, row.names = F, quote = F, sep = ";")
+```
