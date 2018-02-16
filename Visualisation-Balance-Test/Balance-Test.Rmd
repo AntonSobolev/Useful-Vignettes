@@ -1,0 +1,76 @@
+---
+title: "ExtractTablesTabulizer"
+author: "Anton Sobolev"
+date: "2/22/2017"
+output: html_document
+---
+
+# sudo rm -fr /Library/Internet\ Plug-Ins/JavaAppletPlugin.plugin 
+# sudo rm -fr /Library/PreferencePanes/JavaControlPanel.prefPane 
+# sudo rm -fr ~/Library/Application\ Support/Java
+
+Install Latest Java first.
+https://java.com/en/download/
+```{r}
+if (!require("pacman")) install.packages("pacman")
+p_load(data.table, tidyr, ggplot2)
+```
+# Real Data
+```{r}
+d <- fread("Balance_1870.csv", stringsAsFactors = F)
+```
+
+```{r}
+variables <- c("all_prison","lntotpop_1870","urban_1870","log_MA_cost70_DH","lnmfglabor_1870","L_to_pop","annual_wage_1870","K_over_wL_1870","share_black_1870","share_fb_1870","share_illit_1870","share_school_1870","lnmfgout_1870","avfarval_1870","lnvfprod_1870","lntax_1870","lndebt_1870","lnwealth_1870","lnchurches_1870","region_south_DH","region_northeast_DH","region_midwest_DH")
+d <- d[,variables, with = F]
+```
+
+```{r}
+d <- d[all_prison!='NA',]
+d$type <- 'All Data'
+d
+```
+
+```{r}
+d.trim <- fread("Balance_1870.csv", stringsAsFactors = F)
+d.trim <- d.trim[TRIMMED_SAMPLE==1,]
+d.trim <- d.trim[,variables, with = F]
+```
+
+```{r}
+d.trim <- d.trim[all_prison!='NA',]
+d.trim$type <- 'Trimmed Data'
+```
+
+```{r}
+d.list <- list(d, d.trim)
+d <- rbindlist(d.list)
+
+group <- d$all_prison
+group[group==1] <- 'treated'
+group[group==0] <- 'control'
+
+type <- d$type
+
+d<- d[,-c("all_prison", "type"), with = F]
+
+d <- scale(d)
+
+d.final <- cbind(group, type, d) %>% data.table()
+```
+
+```{r}
+d.tidy <- d.final %>% gather(variable, value, -c("group","type"))
+d.tidy$value <- as.numeric(d.tidy$value)
+```
+
+```{r}
+table(d.final$type,d.final$group)
+p2 <- ggplot(data=d.tidy,aes(x=variable,y=value,color=group)) + 
+geom_boxplot(width=0.5, outlier.shape = NA) + theme_bw() + coord_flip() + ylim(-3,3) +
+  facet_grid(~type) + theme(legend.position = "bottom")
+# Only all data
+p2 <- ggplot(data=d.tidy[d.tidy$type=='All Data',],aes(x=variable,y=value,color=group)) + 
+geom_boxplot(width=0.5, outlier.shape = NA) + theme_bw() + coord_flip() + ylim(-3,3) +
+  theme(legend.position = "bottom")
+```
