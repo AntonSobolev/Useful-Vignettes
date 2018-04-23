@@ -1,0 +1,108 @@
+---
+title: "3 Classify Protesters Manually"
+author: "Anton Sobolev"
+output:
+  html_document: default
+  pdf_document: default
+---
+### Prepare data
+### Packages
+```{r, include=FALSE}
+getwd()
+
+# run brew in terminal to install imagemagick:
+# brew install imagemagick
+if (!require("pacman")) install.packages("pacman")
+if (!require("gganimate")) devtools::install_github("dgrtwo/gganimate")
+p_load(data.table, dplyr, haven, ggplot2,tidyr, tibble, ggmap, gganimate, magick,geohash, animation)
+p_load(imputeTS)
+```
+### Load data
+```{r}
+d <- fread("../Data/WM_March_merged_data_geo_data_only.csv", stringsAsFactors = FALSE)
+```
+Subset `latitude` and `longitude`
+```{r}
+d <- d[,c("ID","utc_timestamp","latitude", "longitude"), with = F]
+```
+### Determine time span
+```{r}
+# Addjust to the first observation at t = 0
+d$utc_timestamp <- d$utc_timestamp - min(d$utc_timestamp)
+d[,hour:=utc_timestamp / (60*60) ][,hour:=round(hour, digits = 0),] # calculate hours 
+# Reduce to hour level
+d.by.hour <- d[,.(longitude = mean(longitude),
+                        latitude = mean(latitude)),
+                        by = c("ID", "hour")
+                        ]
+# Keep only hours 13 to 19
+d.by.hour  <- d.by.hour[hour >=10 & hour<=20,] # reduce to 13:19 after imputations
+d.by.hour$num <- 1
+d.by.hour[,observations_for_ID:=sum(num), by=c("ID")]
+# Keep observations with at least three time-stamps during this day
+d.by.hour <- d.by.hour[d.by.hour$observations_for_ID>=3,,]
+d.by.hour[,num:=NULL]
+d.by.hour[,observations_for_ID:=NULL]
+```
+### Expand the grid of time, to get all missing hours for each ID
+```{r}
+# Expand grid to such that all ID had the same number of observations
+expanded.grid <- expand.grid(hour = c(10:20), ID = unique(d.by.hour$ID))
+
+# merge the grid to original data
+d.by.hour <- merge(expanded.grid, d.by.hour, by = c("ID","hour"), all = TRUE) %>% data.table()
+```
+### Visualize Missings
+```{r}
+# Long to wide data
+d.by.hour.wide <- d.by.hour[hour >=13 & hour<=19,]
+d.by.hour.wide <- reshape(d.by.hour.wide, idvar = "ID", timevar = "hour", direction = "wide") %>% data.table()
+
+p_load(VIM) # Package to visualize missings
+aggr_plot <- aggr(d.by.hour.wide, col=c('navyblue','red'), numbers=TRUE, sortVars=FALSE, labels=names(d.by.hour.wide), cex.axis=.7, gap=3, ylab=c("Histogram of missing data","Pattern"))
+```
+
+### Load protest ID-variable
+```{r}
+protest.IDs <- fread("3-core-protesters-ID-manual.csv", stringsAsFactors = FALSE) 
+non.protest.IDs <- fread("3-definite-non-protesters-ID.csv", stringsAsFactors = FALSE) 
+```
+# Keep core-protesters only
+```{r}
+d.by.hour.wide <- d.by.hour.wide[d.by.hour.wide$ID %in% protest.IDs$ID]
+d.by.hour
+```
+
+
+
+
+
+
+# Interpolate on missing observations: "Linear method"
+```{r}
+d.by.hour[,lon_imputed:=na.interpolation(longitude), by = c("ID")]
+d.by.hour[,lat_imputed:=na.interpolation(latitude), by = c("ID")]
+
+d.by.hour.imputed.linear <- d.by.hour[,c("ID","hour", "lon_imputed", "lat_imputed"), with = F]
+names(d.by.hour.imputed.linear) <- c("ID", "hour","longitude","latitude")
+
+d.by.hour.imputed.linear  <- d.by.hour.imputed.linear[hour >=13 & hour<=19,]
+#plotNA.distributionBar(d.by.hour.$longitude)
+```
+# Interpolate on missing observations: "Kalman method"
+```{r}
+# d.by.hour[,lon_imputed:=na.kalman(longitude), by = c("ID")]
+# d.by.hour[,lat_imputed:=na.kalman(latitude), by = c("ID")]
+# 
+# d.by.hour.imputed.kalman <- d.by.hour[,c("ID","hour", "lon_imputed", "lat_imputed"), with = F]
+# names(d.by.hour.imputed.kalman) <- c("ID", "hour","longitude","latitude")
+```
+# Long-To-Wide Data
+```{r}
+d.by.hour.imputed.linear.long <- reshape(d.by.hour.imputed.linear, idvar = "ID", timevar = "hour", direction = "wide")
+```
+
+```{r}
+fwrite(d.by.hour.imputed.linear.long,"5-imputed-linear-long-data-for-deep-learning.csv", row.names = F, quote = F, append = F)
+```
+

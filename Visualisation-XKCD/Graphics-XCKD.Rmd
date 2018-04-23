@@ -1,0 +1,71 @@
+---
+title: "Data"
+author: "Anton Sobolev"
+date: "4/12/2017"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+#install.packages('pacman')
+if (!require("pacman")) install.packages("pacman")
+p_load(data.table, dplyr, tidyr, stringr, methods) # Packages for text mining
+#p_load(ggplot2, ggjoy) # Packages for graphic
+p_load(xkcd, extrafont)
+```
+
+```{r}
+ download.file("http://simonsoftware.se/other/xkcd.ttf",
+               dest="xkcd.ttf", mode="wb")
+# install "xkcd.tff" manually (click on the file)
+```
+
+```{r}
+# datalines <- data.frame(xbegin=23, xend = 17, ybegin=4.8, yend = 4)
+```
+
+```{r}
+p <- ggplot(data=mtcars, aes(mpg, wt)) + geom_point( ) +
+  geom_smooth(se = F) +
+  annotate("text", label = "This is my awsome OLS", x = 25, y = 5.3, family="xkcd", size = 8) +
+  geom_segment(x=23, y=4.8, xend=17, yend=4, arrow=arrow(),
+               size=2, color="red") +
+  xkcdaxis(xrange,yrange) +
+  theme_xkcd()
+p
+```
+
+```{r}
+dataman <- data.frame( x= c(28), y=c(4.5),
+                       scale = c(0.51) ,
+                       ratioxy = ratioxy,
+                       angleofspine =  -pi/2,
+                       anglerighthumerus = c(-pi/6, -pi/6),
+                       anglelefthumerus = c(-pi/2 - pi/6),
+                       anglerightradius = c(-pi/1.3),
+                       angleleftradius = c(-pi/1.2),
+                       angleleftleg = 3*pi/2  + pi / 12 ,
+                       anglerightleg = 3*pi/2  - pi / 12,
+                       angleofneck = runif(1, 3*pi/2-pi/10, 3*pi/2+pi/10))
+xrange <- range(mtcars$mpg)
+yrange <- range(mtcars$wt)
+ratioxy <-  diff(xrange) / diff(yrange)
+
+mapping <- aes(x, y, scale, ratioxy, angleofspine,
+               anglerighthumerus, anglelefthumerus,
+                anglerightradius, angleleftradius,
+                anglerightleg, angleleftleg, angleofneck)
+```
+
+
+```{r}
+p <- ggplot(data=mtcars, aes(mpg, wt)) + geom_point( ) +
+  geom_smooth(se = F) +
+  annotate("text", label = "This is my awsome OLS", x = 25, y = 5.3, family="xkcd", size = 8) +
+  geom_segment(x=23, y=4.8, xend=17, yend=4, arrow=arrow(),
+               size=2, color="red") +
+  xkcdman(mapping, dataman) +
+  xkcdaxis(xrange,yrange) +
+  theme_xkcd()
+p
+```
+
