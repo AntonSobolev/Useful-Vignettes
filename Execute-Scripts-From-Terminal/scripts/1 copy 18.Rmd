@@ -1,0 +1,21 @@
+---
+title: "Data"
+author: "Anton Sobolev"
+date: "4/12/2017"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+#install.packages('pacman')
+if (!require("pacman")) install.packages("pacman")
+p_load(data.table)
+```
+
+```{r}
+r <- sample(1:10,10) 
+```
+
+```{r}
+write.table(r, "results.csv", col.names = F, row.names = F, append = T)
+```
+

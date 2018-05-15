@@ -1,0 +1,29 @@
+---
+title: "Data"
+author: "Anton Sobolev"
+date: "4/12/2017"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+#install.packages('pacman')
+if (!require("pacman")) install.packages("pacman")
+p_load(data.table, methods, dplyr, stringr, pbapply) # Packages for text mining
+#p_load(ggplot2, ggjoy) # Packages for graphic
+```
+
+```{r}
+source("source_rmd_function.R")
+```
+
+
+```{r}
+setwd("scripts")
+list.of.scripts <- list.files() %>% str_subset(".Rmd")
+```
+
+```{r}
+setwd("scripts")
+pblapply(list.of.scripts, function(x) source_rmd(x))
+```
+
