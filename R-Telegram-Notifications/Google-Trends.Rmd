@@ -1,0 +1,59 @@
+---
+title: ""
+author: "Anton Sobolev"
+output:
+  html_document: default
+  pdf_document: default
+---
+### Prepare data
+### Packages
+```{r, include=FALSE}
+if (!require("pacman")) install.packages("pacman")
+p_load(telegram, here, dplyr)
+```
+### Load data
+```{r}
+bot <- TGBot$new(token = bot_token('anton_jobs_bot'))
+bot$getMe()
+```
+
+```{r}
+new_messages <- bot$getUpdates()
+ new_messages$message
+```
+
+```{r}
+bot$set_default_chat_id(232776850)
+```
+
+```{r}
+bot$sendMessage('hello')
+```
+
+
+
+# Chunk together
+```{r}
+p_load(telegram, rstudioapi)
+executed.script <- rstudioapi::getActiveDocumentContext()$path
+executed.script <- strsplit(executed.script, "/") %>% unlist()
+executed.script <- tail(executed.script,1)
+bot <- TGBot$new(token = bot_token('anton_jobs_bot'))
+bot$getMe()
+bot$set_default_chat_id(232776850)
+bot$sendMessage(paste('Done!', executed.script))
+```
+
+
+```{r}
+p_load(telegram)
+# executed.script <- rstudioapi::getActiveDocumentContext()$path
+# executed.script <- strsplit(executed.script, "/") %>% unlist()
+# executed.script <- tail(executed.script,1)
+bot <- TGBot$new(token = bot_token('anton_jobs_bot'))
+bot$getMe()
+bot$set_default_chat_id(232776850)
+bot$sendMessage(paste('Done!',"LP-1"))
+```
+
+
