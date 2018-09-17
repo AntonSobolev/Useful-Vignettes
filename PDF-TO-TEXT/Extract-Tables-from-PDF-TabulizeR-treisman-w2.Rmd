@@ -1,0 +1,43 @@
+---
+title: "ExtractTablesTabulizer"
+author: "Anton Sobolev"
+date: "2/22/2017"
+output: html_document
+---
+
+# sudo rm -fr /Library/Internet\ Plug-Ins/JavaAppletPlugin.plugin 
+# sudo rm -fr /Library/PreferencePanes/JavaControlPanel.prefPane 
+# sudo rm -fr ~/Library/Application\ Support/Java
+
+Install Latest Java first.
+https://java.com/en/download/
+```{r}
+require(pacman)
+# install.packages('rJava')
+# install.packages('png')
+# p_load(png)
+# p_load(rJava, knitr, data.table, dplyr)
+# p_load(ghit)
+# ghit::install_github(c("ropensci/tabulizerjars", "ropensci/tabulizer"), verbose = TRUE, INSTALL_opts = "--no-multiarch", dependencies = c("Depends", "Imports"))
+# p_load(tabulizer)
+# ghit::install_github(c("ropenscilabs/tabulizerjars", "ropenscilabs/tabulizer"))
+# ghit::install_github(c("leeper/tabulizerjars", "leeper/tabulizer"), verbose = TRUE)
+# devtools::install_github(c("leeper/tabulizerjars", "leeper/tabulizer"), verbose = TRUE, args = "--no-multiarch", dependencies = c("Depends", "Imports"))
+p_load("pdftools")
+```
+
+```{r}
+p_load(tesseract)
+eng <- tesseract("eng")
+```
+
+
+
+```{r}
+pngfile <- pdftools::pdf_convert('Syl-D-A.pdf', dpi = 600)
+```
+```{r}
+text <- tesseract::ocr(pngfile)
+cat(text)
+```
+
