@@ -1,0 +1,72 @@
+---
+author: "Anton Sobolev"
+bintitle: 'Effect of Troll Intervention: RD Bins 5'
+date: "2/14/2017"
+output:
+  pdf_document: default
+  html_document: default
+---
+```{r setup, include=FALSE}
+if (!require("pacman")) install.packages("pacman")
+p_load(data.table, dplyr, plyr, tidyr)
+p_load(wordcloud, gmailr, devtools)
+p_load(rlang)
+#remotes::install_github("r-lib/rlang")
+#devtools::install_github("jimhester/gmailr")
+#library(gmailr)
+library(gmailr)
+```
+
+```{r}
+list.mails <- fread("list.csv", stringsAsFactors = F)
+```
+
+```{r}
+list.mails <- data.table(name = "Natalia", mail = "natalia.lamberova@gmail.com")
+```
+
+```{r}
+main.text <- "
+I'm doing a practice job talk in the large conference room next Wednsday (Oct 16, 12:30-1:45) in Bunche Hall 4276. It would be great if you could stop by. Here is the abstract of my job market paper. <br>
+<br>
+<i>Why do some leaders devote significant funds to research and development (R&D) eventhough such investments are risky, less visible to the public than many other investments, and typically bear fruit only after the incumbent has already left office?  This paper suggests that investing in R&D improves the incumbent’s perceived competence among voters. Using a formal model of signalling, survey experiments conducted in the US and Russia, and corroborating cross-country evidence, I demonstrate that investment in R&D improves perceptions of incumbent competence and approval of the government among the citizenry. <br>
+<br>
+Best, <br>
+Natalia<br>
+<a href='www.NataliaLamberova.com'>www.NataliaLamberova.com</a>
+"
+```
+
+```{r}
+# Open https://developers.google.com/gmail/api/quickstart/python
+# Save json with credentials
+gm_auth_configure(path = "credentials.json")
+# usethis::edit_r_environ()
+gm_auth()
+```
+
+
+
+
+```{r}
+text_title <- "Natalia's Practice Job Talk:The Puzzling Politics of R&D: Signaling Competence through Risky Projects"
+```
+
+```{r}
+i = 1
+for(i in 1:nrow(list.mails)){
+print(i)
+first.line <- paste0("Dear ", list.mails$name[i], ",<br><br>")
+text <- paste(first.line, main.text)
+mime() %>%
+  to(paste0(list.mails$mail[i])) %>%
+  from("natalam@ucla.edu") %>%
+  subject(text_title) %>%
+  html_body(text) -> text_msg
+
+send_message(text_msg)  
+}
+```
+
+
+
