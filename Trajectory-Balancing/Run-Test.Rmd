@@ -1,0 +1,31 @@
+---
+author: "Anton Sobolev"
+bintitle: 'Effect of Troll Intervention: RD Bins 5'
+date: "2/14/2017"
+output:
+  pdf_document: default
+  html_document: default
+---
+```{r setup, include=FALSE}
+if (!require("pacman")) install.packages("pacman")
+p_load(data.table, dplyr, plyr)
+# install.packages('devtools', repos = 'http://cran.us.r-project.org') # if not already installed
+# devtools::install_github('chadhazlett/kbal')
+# devtools::install_github('xuyiqing/tjbal')
+# devtools::install_github('xuyiqing/panelView')
+p_load(ggplot2, foreach, doParallel, parallel, panelView, tjbal, kbal)
+```
+
+```{r}
+d.nat <- fread("imputed_data.csv", stringsAsFactors = F)
+```
+
+```{r}
+out.mbal <- tjbal(log.gross_profit ~ win + connected, data = d.nat,
+  index = c("inn","time"), demean = FALSE, estimator = "mean",
+  vce = "jackknife")
+out.mbal
+plot(out.mbal)
+plot(out.mbal, type = "counterfactual", count = FALSE)
+```
+
