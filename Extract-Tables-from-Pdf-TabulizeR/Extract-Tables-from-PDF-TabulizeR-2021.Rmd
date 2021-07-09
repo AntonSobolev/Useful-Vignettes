@@ -1,0 +1,52 @@
+---
+title: "ExtractTablesTabulizer"
+author: "Anton Sobolev"
+date: "2/22/2017"
+output: html_document
+---
+
+# sudo rm -fr /Library/Internet\ Plug-Ins/JavaAppletPlugin.plugin 
+# sudo rm -fr /Library/PreferencePanes/JavaControlPanel.prefPane 
+# sudo rm -fr ~/Library/Application\ Support/Java
+
+Install Latest Java first.
+https://java.com/en/download/
+```{r}
+Sys.setenv(JAVA_HOME='/Library/Java/JavaVirtualMachines/jdk-11.0.9.jdk/Contents/Home')
+require(pacman)
+# install.packages('rJava')
+# install.packages('png')
+# install.packages('BiocManager')
+p_load(png)
+p_load(rJava, knitr, data.table, dplyr, devtools)
+#p_load(ghit)
+p_load(tabulizer)
+
+# install_github(c("leeper/tabulizerjars", "leeper/tabulizer"), verbose = TRUE, INSTALL_opts = "--no-multiarch", dependencies = c("Depends", "Imports"))
+# install_github(c("ropenscilabs/tabulizerjars", "ropenscilabs/tabulizer"))
+# ghit::install_github(c("leeper/tabulizerjars", "leeper/tabulizer"), verbose = TRUE)
+# devtools::install_github(c("leeper/tabulizerjars", "leeper/tabulizer"), verbose = TRUE, args = "--no-multiarch", dependencies = c("Depends", "Imports"))
+
+
+
+# ghit::install_github(c("leeper/tabulizerjars", "leeper/tabulizer"), verbose = TRUE, INSTALL_opts = "--no-multiarch", dependencies = c("Depends", "Imports"))
+# ghit::install_github(c("ropenscilabs/tabulizerjars", "ropenscilabs/tabulizer"))
+# ghit::install_github(c("leeper/tabulizerjars", "leeper/tabulizer"), verbose = TRUE)
+# devtools::install_github(c("leeper/tabulizerjars", "leeper/tabulizer"), verbose = TRUE, args = "--no-multiarch", dependencies = c("Depends", "Imports"))
+```
+
+```{r}
+location<- '218hw1.pdf'
+out <- extract_tables(location, pages = 1) # exract the first page
+
+table1 <- out[[1]] %>% as.data.table # first table on the page
+table1
+
+col.names <- table1[1,] %>% as.character()
+
+names(table1) <- col.names
+
+
+table1 <- table1[-c(1),]
+write.csv(table1, '218-f-table.csv', row.names = F)
+```
