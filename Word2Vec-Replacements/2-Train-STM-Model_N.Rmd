@@ -1,0 +1,278 @@
+```{r setup, include=FALSE}
+if (!require("pacman")) install.packages("pacman")
+p_load(data.table, dplyr, plyr, tidyr, broom)
+p_load(tm, textreg, tidytext, parallel)
+p_load(topicmodels, ggplot2)
+p_load(stm)
+p_load(quanteda)
+p_load(R.utils)
+`%+%` <- function(x,y){ paste0(x, y)}
+```
+
+```{r}
+path <- "0-Compiled-Data/tidy.csv"
+d <-  fread(path, sep = ";", header= TRUE, stringsAsFactors = F)
+```
+
+```{r}
+d$group<-0
+d[id<2001,]$group<-1
+d[id>=2001 & id<2006,]$group<-2
+d[id>=2006 & id<2011,]$group<-3
+d[id>=2011,]$group<-4
+#d$id<-NULL
+d %>% 
+  group_by(group) %>% 
+  summarise(n = sum(n))
+```
+
+```{r}
+g1<-d[group==1,]
+```
+
+
+```{r}
+new.stop.words <- c("now", "year", "make", "world", "people", "much",
+                    "state", "states", "will", "support", "may", "new",
+                    "public", "countries", "first", "percent", "one",
+                    "also", "interntal", "right", "way","even", "preside",
+                    "interest", "become", "can", "maniac", "help", "term",
+                    "force", "end", "like", "use", "current", "region",
+                    "need", "increase", "take", "today", "time", "develop",
+                    "come", "must", "govern", "econometric", "just", "high",
+                    "less", "nation", "include", "however", "although",
+                    "two","problem", "continual","remain", "relate", "major",
+                    "s", "internal", "well", "still","made", "since", "rather",
+                    "place","foreign","clear","official","call","example","good","great","success","long","strategic","system","leader","large", "provide","effort","order","chang","among","administration","washington","create","recent","without", "law","yet","issuance", "might","far","effect","work","american","last","general","control","differ","another","power","group","require","policies","within","part","chinese","seem","go","role","member", "historian", "consider","rule", "back","years", "three", "plan", "open","believe", "think","lead","toward","get","past","number", "future","often","challenge","want","social", "opera", "action","view","process","unit"," better", "build","hard","earlier","point","case","mean","critic", "middle", "whether", "especially","base","see","program", "million","level","regime","response","approach","former","better","fact","share","limit", "move", "local","domestic","result","posit","decision","organ","say","little","influence", "allow"," around","democrat","second", "leadership","give","start","import","policies","one","foreign","american","global","defense","secure","service","war","said","al" 
+                    )
+
+g1<- g1[!word %in% new.stop.words,]
+```
+
+
+DTM Matrix
+```{r}
+g1.dfm.stm <- g1 %>% cast_dfm(id, word, n)
+# saveRDS(d.dfm.stm, "STM-dfm-stm-original.rds")
+```
+Trimm this matrix
+```{r}
+g1.dfm.stm <- dfm_trim(g1.dfm.stm, min_termfreq = 20)
+
+
+#d.dfm.stm <- dfm_trim(d.dfm.stm)
+# saveRDS(d.dfm.stm, "STM-dfm-stm-trimmed.rds")
+```
+A single run of STM-model
+```{r}
+set.seed(1234)
+system.time(
+topic_model1 <- stm(g1.dfm.stm, K = 3, 
+                   verbose = FALSE, init.type = "LDA" ,sigma.prior=0.5,
+                   control = list(alpha = .5))
+)
+```
+
+```{r}
+# Extract predictions
+d.predictions1 <- topic_model1$theta %>%
+                      round(digits = 3) %>% 
+                      data.table()
+
+d.predictions.names1 <- "t" %+% 1:ncol(d.predictions1)
+names(d.predictions1) <- d.predictions.names1
+
+g1.dfm.stm <- convert(g1.dfm.stm, to = "stm")
+g1.predictions <- data.table(post_id= names(g1.dfm.stm$documents),
+                            d.predictions1
+                            ) 
+```
+
+
+
+```{r}
+plot.STM(topic_model1, type = "summary", xlim = c(0, 1))
+labelTopics(topic_model1, n=7)
+plot(topic_model1,type="labels",n=7)
+plot(topic_model1,type="hist")
+```
+
+
+# Group 2
+```{r}
+g2<-d[group==2,]
+g2<- g2[!word %in% new.stop.words,]
+```
+
+
+DTM Matrix
+```{r}
+g2.dfm.stm <- g2 %>% cast_dfm(id, word, n)
+# saveRDS(d.dfm.stm, "STM-dfm-stm-original.rds")
+```
+Trimm this matrix
+```{r}
+g2.dfm.stm <- dfm_trim(g2.dfm.stm, min_termfreq = 20)
+
+
+#d.dfm.stm <- dfm_trim(d.dfm.stm)
+# saveRDS(d.dfm.stm, "STM-dfm-stm-trimmed.rds")
+```
+A single run of STM-model
+```{r}
+set.seed(2234)
+system.time(
+topic_model2 <- stm(g2.dfm.stm, K = 3, 
+                   verbose = FALSE, init.type = "LDA" ,sigma.prior=0.5,
+                   control = list(alpha = .5))
+)
+```
+
+```{r}
+# Extract predictions
+d.predictions2 <- topic_model2$theta %>%
+                      round(digits = 3) %>% 
+                      data.table()
+
+d.predictions.names2 <- "t" %+% 1:ncol(d.predictions2)
+names(d.predictions2) <- d.predictions.names2
+
+g2.dfm.stm <- convert(g2.dfm.stm, to = "stm")
+g2.predictions <- data.table(post_id= names(g2.dfm.stm$documents),
+                            d.predictions2
+                            ) 
+```
+
+
+
+```{r}
+plot.STM(topic_model2, type = "summary", xlim = c(0, 2))
+labelTopics(topic_model2, n=7)
+plot(topic_model2,type="labels")
+plot(topic_model2,type="hist")
+```
+# Group 3
+```{r}
+g3<-d[group==3,]
+g3<- g3[!word %in% new.stop.words,]
+```
+
+
+DTM Matrix
+```{r}
+g3.dfm.stm <- g3 %>% cast_dfm(id, word, n)
+# saveRDS(d.dfm.stm, "STM-dfm-stm-original.rds")
+```
+Trimm this matrix
+```{r}
+g3.dfm.stm <- dfm_trim(g3.dfm.stm, min_termfreq = 20)
+
+
+#d.dfm.stm <- dfm_trim(d.dfm.stm)
+# saveRDS(d.dfm.stm, "STM-dfm-stm-trimmed.rds")
+```
+A single run of STM-model
+```{r}
+set.seed(3334)
+system.time(
+topic_model3 <- stm(g3.dfm.stm, K = 3, 
+                   verbose = FALSE, init.type = "LDA" ,sigma.prior=0.5,
+                   control = list(alpha = .5))
+)
+```
+
+```{r}
+# Extract predictions
+d.predictions3 <- topic_model3$theta %>%
+                      round(digits = 3) %>% 
+                      data.table()
+
+d.predictions.names3 <- "t" %+% 1:ncol(d.predictions3)
+names(d.predictions3) <- d.predictions.names3
+
+g3.dfm.stm <- convert(g3.dfm.stm, to = "stm")
+g3.predictions <- data.table(post_id= names(g3.dfm.stm$documents),
+                            d.predictions3
+                            ) 
+```
+
+
+
+```{r}
+plot.STM(topic_model3, type = "summary", xlim = c(0, 3))
+labelTopics(topic_model3, n=7)
+plot(topic_model3,type="labels")
+plot(topic_model3,type="hist")
+```
+
+
+# Group 4
+```{r}
+g4<-d[group==4,]
+g4<- g4[!word %in% new.stop.words,]
+```
+
+
+DTM Matrix
+```{r}
+g4.dfm.stm <- g4 %>% cast_dfm(id, word, n)
+# saveRDS(d.dfm.stm, "STM-dfm-stm-original.rds")
+```
+Trimm this matrix
+```{r}
+g4.dfm.stm <- dfm_trim(g4.dfm.stm, min_termfreq = 40)
+
+
+#d.dfm.stm <- dfm_trim(d.dfm.stm)
+# saveRDS(d.dfm.stm, "STM-dfm-stm-trimmed.rds")
+```
+A single run of STM-model
+```{r}
+set.seed(4434)
+system.time(
+topic_model4 <- stm(g4.dfm.stm, K = 3, 
+                   verbose = FALSE, init.type = "LDA" ,sigma.prior=0.5,
+                   control = list(alpha = .5))
+)
+```
+
+```{r}
+# Extract predictions
+d.predictions4 <- topic_model4$theta %>%
+                      round(digits = 3) %>% 
+                      data.table()
+
+d.predictions.names4 <- "t" %+% 1:ncol(d.predictions4)
+names(d.predictions4) <- d.predictions.names4
+
+g4.dfm.stm <- convert(g4.dfm.stm, to = "stm")
+g4.predictions <- data.table(post_id= names(g4.dfm.stm$documents),
+                            d.predictions4
+                            ) 
+```
+
+
+
+```{r}
+plot.STM(topic_model4, type = "summary", xlim = c(0, 4))
+labelTopics(topic_model4, n=7)
+plot(topic_model4,type="labels")
+plot(topic_model4,type="hist")
+```
+
+
+
+
+
+
+
+
+
+
+
+# Save workspace
+```{r}
+save(topic_model,
+  file = "posts-model-topics-stm_N.RData")
+```
+
