@@ -53,5 +53,6 @@ plot(fit1, 'original') +
     axis.title = element_text(size = 10),
     plot.title = element_text(size = 10, hjust = 0.50)
   )
+plot(fit1)
 ```
 
