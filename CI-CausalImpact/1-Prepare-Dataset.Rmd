@@ -1,0 +1,57 @@
+```{r setup, include=FALSE}
+if (!require("pacman")) install.packages("pacman")
+p_load(data.table, dplyr, tidyr)
+p_load(ggplot2)
+p_load(CausalImpact)
+`%+%` <- function(x,y){ paste0(x, y)}
+```
+
+```{r}
+path <- '0-Data/doge-data-1.csv'
+dat <- fread(path) 
+dat[,date := as.POSIXct(date, tz = 'UTC')]
+```
+
+```{r}
+tweets <- as.POSIXct(
+  c(
+  '2021-01-28 22:47:00 UTC',
+  '2021-02-04 07:29:00 UTC',
+  '2021-02-04 08:15:00 UTC',
+  '2021-02-04 07:57:00 UTC',
+  '2021-02-04 08:27:00 UTC'
+  ), tz = 'UTC'
+)
+ 
+fit_model <- function(datsel, tweet_time) {
+  doge <- filter(datsel, crypto == 'Dogecoin')
+  bit <- filter(datsel, crypto == 'Bitcoin')
+  
+  times <- doge$date
+  tofit <- zoo(cbind(doge$price, bit$price), times)
+  
+  tweet_ix <- which(times == tweet_time)
+  fit <- CausalImpact(
+    tofit, times[c(1, tweet_ix)], times[c(tweet_ix + 1, length(times))]
+  )
+  
+  fit
+}
+ 
+# Select subset of data for analysis
+start_analysis <- as.POSIXct('2021-01-28 11:00:00 UTC', tz = 'UTC')
+end_analysis <- as.POSIXct('2021-01-29 01:00:00 UTC', tz = 'UTC')
+datsel <- filter(dat, between(date, start_analysis, end_analysis))
+ 
+fit1 <- fit_model(datsel, tweets[1])
+plot(fit1, 'original') +
+  xlab('Time') +
+  ylab('Price (€)') +
+  ggtitle('Tweeting about Dogecoin (28th January)') +
+  theme(
+    axis.text = element_text(size = 10),
+    axis.title = element_text(size = 10),
+    plot.title = element_text(size = 10, hjust = 0.50)
+  )
+```
+
