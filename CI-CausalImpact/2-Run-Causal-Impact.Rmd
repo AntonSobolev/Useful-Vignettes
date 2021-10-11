@@ -11,28 +11,7 @@ path <- '0-Data/doge-data-1.csv'
 d <- fread(path) 
 d[,date := as.POSIXct(date, tz = 'UTC')]
 ```
-# Clean
-```{r}
-d.doge <- d[crypto %in% 'Dogecoin',]
-d.bit <- d[crypto %in% 'Bitcoin',]
-
-d.bit[,price := (price - mean(price))/sd(price)]
-d.bit[,price := (low - mean(low))/sd(low)]
-d.doge[,price := (price - mean(price))/sd(price)]
-
-d <- data.table(date = d.bit$date,
-                dodge_price = d.doge$price,
-                google_interest = d.bit$price,
-                google_interest_musk = d.bit$low
-                )
-```
-
-```{r}
-path <- "0-Data/causal-impact-dogecoin.csv"
-fwrite(d, path)
-```
-
-
+# Interventions (Events)
 ```{r}
 tweets <- as.POSIXct(
   c(
@@ -45,7 +24,20 @@ tweets <- as.POSIXct(
 )
 ```
 # Compile Datasets
+```{r}
+d.doge <- d[crypto %in% 'Dogecoin',]
+d.bit <- d[crypto %in% 'Bitcoin',]
 
+d.bit[,price := (price - mean(price))/sd(price)]
+d.bit[,price := (low - mean(low))/sd(low)]
+d.doge[,price := (price - mean(price))/sd(price)]
+
+d <- data.table(dodge_price = d.doge$price,
+                google_interest = d.bit$price,
+                google_interest_musk = d.bit$low,
+                date = d.bit$date
+                )
+```
 
 ```{r}
 ggplot(d) +
