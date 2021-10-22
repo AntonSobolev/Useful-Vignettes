@@ -1,8 +1,9 @@
 if (!require("pacman")) install.packages("pacman")
-p_load(data.table, dplyr, plyr, tidyr, devtools) # Packages for text mining
+p_load(data.table, dplyr, plyr, tidyr, devtools, ggpubr) # Packages for text mining
 p_load(ggraph, igraph ,gganimate, graphlayouts, patchwork)
 p_load(gifski, ggrepel)
 p_load(png)  
+theme_set(theme_pubr(border = TRUE))
 # devtools::install_github('thomasp85/ggraph')
 
 # https://www.r-bloggers.com/2021/09/animating-network-evolutions-with-gganimate/
@@ -16,7 +17,7 @@ d <- fread(path)
 true_mean <- mean(d$ransom)
 set.seed(14)
 sampled.results <- data.table() # create empty bin to store the results
-for (i in 1:100){
+for (i in 1:50){
   n <- 20 # Define the size of the sample PLAY WITH THIS NUMBER!: make it small or large and check how the sampling distribution evolves
   sampled.ids <-  sample(d$id, n) # Sample from population data
   d.sample.i <- d[id %in% sampled.ids,] # Subset sampled cases
@@ -32,8 +33,6 @@ sampled.results[,upper_bound:= mean_i + std_error_i * 1.96]
 sampled.results[,`True Mean Within Confidence Intreval` := "No :("]
 sampled.results[lower_bound < true_mean & upper_bound > true_mean,
                 `True Mean Within Confidence Intreval`  := "Yes!"]
-
-sampled.results
 
 d.sampled.results.for.animation <- data.table()
 
@@ -65,7 +64,7 @@ g1 <- ggplot(data = d.sampled.results.for.animation) +
 
 
   
-p.anumated <- animate(g1, duration = 20, height = 1000, width =1500,
+p.anumated <- animate(g1, duration = 30, height = 1000, width = 1500,
                       fps = 5, res = 200,
                       renderer = gifski_renderer())
 anim_save("output2.gif", animation = p.anumated, path = "0-Gif")
