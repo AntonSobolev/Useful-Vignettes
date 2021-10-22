@@ -1,10 +1,11 @@
 if (!require("pacman")) install.packages("pacman")
 p_load(data.table, dplyr, plyr, tidyr, devtools, ggpubr) # Packages for text mining
 p_load(ggraph, igraph ,gganimate, graphlayouts, patchwork)
-p_load(gifski, ggrepel)
+p_load(gifski, ggrepel,transformr)
 p_load(png)  
 theme_set(theme_pubr(border = TRUE))
 # devtools::install_github('thomasp85/ggraph')
+# devtools::install_github("thomasp85/transformr")
 
 # https://www.r-bloggers.com/2021/09/animating-network-evolutions-with-gganimate/
 `%+%` <- function(x,y){ paste0(x, y)}
@@ -17,7 +18,7 @@ d <- fread(path)
 true_mean <- mean(d$ransom)
 set.seed(14)
 sampled.results <- data.table() # create empty bin to store the results
-for (i in 1:50){
+for (i in 1:1000){
   n <- 20 # Define the size of the sample PLAY WITH THIS NUMBER!: make it small or large and check how the sampling distribution evolves
   sampled.ids <-  sample(d$id, n) # Sample from population data
   d.sample.i <- d[id %in% sampled.ids,] # Subset sampled cases
@@ -44,7 +45,9 @@ for(index.i in sampled.results$index){
 }
 
 
-g1 <- ggplot(data = d.sampled.results.for.animation) +
+# Confidence Interval
+
+g1 <- ggplot(data = d.sampled.results.for.animation[index.i %in% 1:50]) +
   geom_segment(size=1, alpha = .4,
                aes(x=index, xend=index, y=lower_bound,  yend=upper_bound,
                    col = `True Mean Within Confidence Intreval`), 
@@ -69,7 +72,63 @@ p.anumated <- animate(g1, duration = 30, height = 1000, width = 1500,
                       renderer = gifski_renderer())
 anim_save("output2.gif", animation = p.anumated, path = "0-Gif")
 
+unique(d.sampled.results.for.animation$frame_i)
+
+
+# Mean Histogram
+frames.in.plot <- seq(1,1000, 50)
+
+
+g1 <- ggplot(data = d.sampled.results.for.animation[frame_i %in% frames.in.plot,],
+             aes(x = mean_i)
+             ) +
+  geom_histogram(fill = "navy", alpha = .1, col = "black", binwidth = 0.1) + 
+  geom_vline(xintercept = true_mean,
+             col = "darkgreen", alpha = .8, size = 1, linetype = 1) +
+  xlab("Mean Sample i") +
+  transition_states(
+    frame_i,
+    transition_length = 1,
+    state_length = 1
+  ) +
+  enter_fade() + 
+  exit_shrink() +
+  ease_aes('sine-in-out') + xlim(0,20)
 
 
 
+
+p.anumated <- animate(g1, height = 1000, width = 1500,
+                      fps = 20, res = 200, nframes = 100,
+                      renderer = gifski_renderer()) 
+anim_save("sampling-distribution-histogram.gif", animation = p.anumated, path = "0-Gif")
+
+
+# Mean Histogram
+frames.in.plot <- seq(1,1000, 50)
+
+
+g1 <- ggplot(data = d.sampled.results.for.animation[frame_i %in% frames.in.plot,],
+             aes(x = mean_i)
+) +
+  geom_density(fill = "orange", alpha = .1, col = "black") + 
+  geom_vline(xintercept = true_mean,
+             col = "darkgreen", alpha = .8, size = 1, linetype = 1) +
+  xlab("Mean Sample i")  +
+  transition_states(
+    frame_i,
+    transition_length = 1,
+    state_length = 1
+  ) +
+  enter_fade() + 
+  exit_shrink() +
+  ease_aes('sine-in-out') + xlim(0,20) + ylim(0,1)
+
+
+
+
+p.anumated <- animate(g1, height = 1000, width = 1500,
+                      fps = 20, res = 200, nframes = 100,
+                      renderer = gifski_renderer()) 
+anim_save("sampling-density.gif", animation = p.anumated, path = "0-Gif")
 
