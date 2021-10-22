@@ -76,8 +76,7 @@ unique(d.sampled.results.for.animation$frame_i)
 
 
 # Mean Histogram
-frames.in.plot <- seq(1,1000, 50)
-
+frames.in.plot <- seq(1,100, 50)
 
 g1 <- ggplot(data = d.sampled.results.for.animation[frame_i %in% frames.in.plot,],
              aes(x = mean_i)
@@ -105,8 +104,9 @@ anim_save("sampling-distribution-histogram.gif", animation = p.anumated, path = 
 
 
 # Mean Histogram
-frames.in.plot <- seq(1,1000, 50)
-
+frames.in.plot.1 <- seq(1,100, 10)
+frames.in.plot.2 <- seq(200,1000, 100)
+frames.in.plot <- c(frames.in.plot.1,frames.in.plot.2)
 
 g1 <- ggplot(data = d.sampled.results.for.animation[frame_i %in% frames.in.plot,],
              aes(x = mean_i)
@@ -128,7 +128,7 @@ g1 <- ggplot(data = d.sampled.results.for.animation[frame_i %in% frames.in.plot,
 
 
 p.anumated <- animate(g1, height = 1000, width = 1500,
-                      fps = 20, res = 200, nframes = 100,
+                      fps = 20, res = 200, nframes = 500,
                       renderer = gifski_renderer()) 
 anim_save("sampling-density.gif", animation = p.anumated, path = "0-Gif")
 
