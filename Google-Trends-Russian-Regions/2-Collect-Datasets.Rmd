@@ -1,0 +1,62 @@
+---
+title: "Google Trends: Echo-of-Moscow"
+author: "Anton Sobolev"
+output:
+  html_document: default
+  pdf_document: default
+---
+### Prepare data
+### Packages
+```{r, include=FALSE}
+if (!require("pacman")) install.packages("pacman")
+p_load(data.table, dplyr, tidyr, gtrendsR, drat, plyr)
+drat:::add("ghrr") 
+library(gtrendsR)
+library(devtools)
+# install_github('zachokeeffe/gtrendsR',force=T)
+`%+%` <- function(x,y){paste0(x, y)} 
+# devtools::install_github("PMassicotte/gtrendsR@low-search-volume")
+# devtools::install_github('diplodata/gtrendsR')
+```
+### Load data
+
+```{r}
+files <-list.files('0-Data')
+files <- '0-Data/' %+% files
+d <- lapply( files, fread)
+
+d <- rbindlist(d)
+```
+
+```{r}
+years <- substr(d$date,1,4)
+months <- substr(d$date,6,7)
+
+date_correct <- months %+% "_" %+% years
+
+d[,date := date_correct]
+names(d)
+d <- d[,.(location, date, hits, keyword)]
+d[is.na(hits),hits:=0]
+
+d.wide <- d %>% spread(keyword, hits)
+
+names(d)
+
+```
+
+```{r}
+dictionary <- fread('dictionary.csv')
+
+locations <- mapvalues(d.wide$location, from = dictionary$name_source, to = dictionary$name_target)
+
+d.wide[,location:=locations]
+
+names(d.wide) <- c('location', 'date', 'trend_gde_miting', 'trend_dvorez', 'trend_navalny', 'trend_navalny_otravlenie',
+	    'trend_fbk', 'trend_fbk_koshelek'
+	    )
+
+fwrite(d.wide, 'grends.csv')
+```
+
+

@@ -1,0 +1,2823 @@
+date,location,hits,keyword,geo,gprop
+2019-01-01 2019-02-01,Republic of Karelia,100,навальный,RU,web
+2019-01-01 2019-02-01,Pskov Oblast,82,навальный,RU,web
+2019-01-01 2019-02-01,Mari El Republic,54,навальный,RU,web
+2019-01-01 2019-02-01,Perm Krai,47,навальный,RU,web
+2019-01-01 2019-02-01,Tula Oblast,42,навальный,RU,web
+2019-01-01 2019-02-01,Saint Petersburg,40,навальный,RU,web
+2019-01-01 2019-02-01,Chechnya,40,навальный,RU,web
+2019-01-01 2019-02-01,Moscow,35,навальный,RU,web
+2019-01-01 2019-02-01,Voronezh Oblast,35,навальный,RU,web
+2019-01-01 2019-02-01,Lipetsk Oblast,33,навальный,RU,web
+2019-01-01 2019-02-01,Kamchatka Krai,32,навальный,RU,web
+2019-01-01 2019-02-01,Vologda Oblast,32,навальный,RU,web
+2019-01-01 2019-02-01,Dagestan Republic,31,навальный,RU,web
+2019-01-01 2019-02-01,Tambov Oblast,30,навальный,RU,web
+2019-01-01 2019-02-01,Kemerovo Oblast,30,навальный,RU,web
+2019-01-01 2019-02-01,Yamalo-Nenets Autonomous Okrug,29,навальный,RU,web
+2019-01-01 2019-02-01,Saratov Oblast,29,навальный,RU,web
+2019-01-01 2019-02-01,Orenburg Oblast,27,навальный,RU,web
+2019-01-01 2019-02-01,Omsk Oblast,27,навальный,RU,web
+2019-01-01 2019-02-01,Leningrad Oblast,25,навальный,RU,web
+2019-01-01 2019-02-01,Komi Republic,25,навальный,RU,web
+2019-01-01 2019-02-01,Republic of Khakassia,25,навальный,RU,web
+2019-01-01 2019-02-01,Adygea,25,навальный,RU,web
+2019-01-01 2019-02-01,Primorsky Krai,25,навальный,RU,web
+2019-01-01 2019-02-01,Irkutsk Oblast,24,навальный,RU,web
+2019-01-01 2019-02-01,Moscow Oblast,24,навальный,RU,web
+2019-01-01 2019-02-01,Kaluga Oblast,23,навальный,RU,web
+2019-01-01 2019-02-01,Novosibirsk Oblast,22,навальный,RU,web
+2019-01-01 2019-02-01,Kirov Oblast,20,навальный,RU,web
+2019-01-01 2019-02-01,Khanty-Mansi Autonomous Okrug,20,навальный,RU,web
+2019-01-01 2019-02-01,Ulyanovsk Oblast,20,навальный,RU,web
+2019-01-01 2019-02-01,Samara Oblast,19,навальный,RU,web
+2019-01-01 2019-02-01,Rostov Oblast,19,навальный,RU,web
+2019-01-01 2019-02-01,Kurgan Oblast,18,навальный,RU,web
+2019-01-01 2019-02-01,Chelyabinsk Oblast,18,навальный,RU,web
+2019-01-01 2019-02-01,Krasnodar Krai,18,навальный,RU,web
+2019-01-01 2019-02-01,Yaroslavl Oblast,18,навальный,RU,web
+2019-01-01 2019-02-01,Tatarstan,17,навальный,RU,web
+2019-01-01 2019-02-01,Volgograd Oblast,17,навальный,RU,web
+2019-01-01 2019-02-01,Stavropol Krai,17,навальный,RU,web
+2019-01-01 2019-02-01,Altai Krai,16,навальный,RU,web
+2019-01-01 2019-02-01,Smolensk Oblast,15,навальный,RU,web
+2019-01-01 2019-02-01,Udmurt Republic,14,навальный,RU,web
+2019-01-01 2019-02-01,Sverdlovsk Oblast,14,навальный,RU,web
+2019-01-01 2019-02-01,Bryansk Oblast,14,навальный,RU,web
+2019-01-01 2019-02-01,Tomsk Oblast,14,навальный,RU,web
+2019-01-01 2019-02-01,Nizhny Novgorod Oblast,14,навальный,RU,web
+2019-01-01 2019-02-01,Ivanovo Oblast,14,навальный,RU,web
+2019-01-01 2019-02-01,Kaliningrad Oblast,13,навальный,RU,web
+2019-01-01 2019-02-01,Krasnoyarsk Krai,12,навальный,RU,web
+2019-01-01 2019-02-01,Khabarovsk Krai,12,навальный,RU,web
+2019-01-01 2019-02-01,Murmansk Oblast,12,навальный,RU,web
+2019-01-01 2019-02-01,Penza Oblast,12,навальный,RU,web
+2019-01-01 2019-02-01,Ryazan Oblast,12,навальный,RU,web
+2019-01-01 2019-02-01,Arkhangelsk Oblast,11,навальный,RU,web
+2019-01-01 2019-02-01,Vladimir Oblast,9,навальный,RU,web
+2019-01-01 2019-02-01,Republic of Bashkortostan,8,навальный,RU,web
+2019-01-01 2019-02-01,Belgorod Oblast,8,навальный,RU,web
+2019-01-01 2019-02-01,Tyumen Oblast,6,навальный,RU,web
+2019-01-01 2019-02-01,Altai Republic,,навальный,RU,web
+2019-01-01 2019-02-01,Amur Oblast,,навальный,RU,web
+2019-01-01 2019-02-01,Astrakhan Oblast,,навальный,RU,web
+2019-01-01 2019-02-01,Buryatia,,навальный,RU,web
+2019-01-01 2019-02-01,Chukotka Autonomous Okrug,,навальный,RU,web
+2019-01-01 2019-02-01,Chuvashia Republic,,навальный,RU,web
+2019-01-01 2019-02-01,Ingushetia,,навальный,RU,web
+2019-01-01 2019-02-01,Kabardino-Balkaria,,навальный,RU,web
+2019-01-01 2019-02-01,Karachay-Cherkessia,,навальный,RU,web
+2019-01-01 2019-02-01,Kalmykia,,навальный,RU,web
+2019-01-01 2019-02-01,Kostroma Oblast,,навальный,RU,web
+2019-01-01 2019-02-01,Kursk Oblast,,навальный,RU,web
+2019-01-01 2019-02-01,Magadan Oblast,,навальный,RU,web
+2019-01-01 2019-02-01,Mordovia,,навальный,RU,web
+2019-01-01 2019-02-01,Nenets Autonomous Okrug,,навальный,RU,web
+2019-01-01 2019-02-01,Novgorod Oblast,,навальный,RU,web
+2019-01-01 2019-02-01,Oryol Oblast,,навальный,RU,web
+2019-01-01 2019-02-01,Sakha Republic,,навальный,RU,web
+2019-01-01 2019-02-01,Sakhalin Oblast,,навальный,RU,web
+2019-01-01 2019-02-01,North Ossetia–Alania,,навальный,RU,web
+2019-01-01 2019-02-01,Tver Oblast,,навальный,RU,web
+2019-01-01 2019-02-01,Tuva,,навальный,RU,web
+2019-01-01 2019-02-01,Jewish Autonomous Oblast,,навальный,RU,web
+2019-01-01 2019-02-01,Zabaykalsky Krai,,навальный,RU,web
+2019-02-01 2019-03-01,Nenets Autonomous Okrug,100,навальный,RU,web
+2019-02-01 2019-03-01,Tambov Oblast,25,навальный,RU,web
+2019-02-01 2019-03-01,Tver Oblast,24,навальный,RU,web
+2019-02-01 2019-03-01,Ingushetia,24,навальный,RU,web
+2019-02-01 2019-03-01,Kalmykia,24,навальный,RU,web
+2019-02-01 2019-03-01,Tomsk Oblast,23,навальный,RU,web
+2019-02-01 2019-03-01,Karachay-Cherkessia,22,навальный,RU,web
+2019-02-01 2019-03-01,Adygea,21,навальный,RU,web
+2019-02-01 2019-03-01,Zabaykalsky Krai,18,навальный,RU,web
+2019-02-01 2019-03-01,Orenburg Oblast,17,навальный,RU,web
+2019-02-01 2019-03-01,Oryol Oblast,17,навальный,RU,web
+2019-02-01 2019-03-01,Mordovia,16,навальный,RU,web
+2019-02-01 2019-03-01,Perm Krai,16,навальный,RU,web
+2019-02-01 2019-03-01,Saint Petersburg,15,навальный,RU,web
+2019-02-01 2019-03-01,Astrakhan Oblast,15,навальный,RU,web
+2019-02-01 2019-03-01,Samara Oblast,15,навальный,RU,web
+2019-02-01 2019-03-01,Yaroslavl Oblast,15,навальный,RU,web
+2019-02-01 2019-03-01,Moscow,15,навальный,RU,web
+2019-02-01 2019-03-01,Tyumen Oblast,14,навальный,RU,web
+2019-02-01 2019-03-01,Volgograd Oblast,14,навальный,RU,web
+2019-02-01 2019-03-01,Republic of Karelia,14,навальный,RU,web
+2019-02-01 2019-03-01,Stavropol Krai,14,навальный,RU,web
+2019-02-01 2019-03-01,Chuvashia Republic,13,навальный,RU,web
+2019-02-01 2019-03-01,Nizhny Novgorod Oblast,13,навальный,RU,web
+2019-02-01 2019-03-01,Vladimir Oblast,12,навальный,RU,web
+2019-02-01 2019-03-01,Moscow Oblast,12,навальный,RU,web
+2019-02-01 2019-03-01,Udmurt Republic,12,навальный,RU,web
+2019-02-01 2019-03-01,Saratov Oblast,12,навальный,RU,web
+2019-02-01 2019-03-01,Kursk Oblast,12,навальный,RU,web
+2019-02-01 2019-03-01,Bryansk Oblast,12,навальный,RU,web
+2019-02-01 2019-03-01,Republic of Bashkortostan,12,навальный,RU,web
+2019-02-01 2019-03-01,Chelyabinsk Oblast,11,навальный,RU,web
+2019-02-01 2019-03-01,Sverdlovsk Oblast,11,навальный,RU,web
+2019-02-01 2019-03-01,Tatarstan,11,навальный,RU,web
+2019-02-01 2019-03-01,Novosibirsk Oblast,11,навальный,RU,web
+2019-02-01 2019-03-01,Voronezh Oblast,11,навальный,RU,web
+2019-02-01 2019-03-01,Republic of Khakassia,10,навальный,RU,web
+2019-02-01 2019-03-01,Rostov Oblast,10,навальный,RU,web
+2019-02-01 2019-03-01,Ryazan Oblast,10,навальный,RU,web
+2019-02-01 2019-03-01,Belgorod Oblast,10,навальный,RU,web
+2019-02-01 2019-03-01,Primorsky Krai,9,навальный,RU,web
+2019-02-01 2019-03-01,Kemerovo Oblast,9,навальный,RU,web
+2019-02-01 2019-03-01,Vologda Oblast,9,навальный,RU,web
+2019-02-01 2019-03-01,Krasnoyarsk Krai,9,навальный,RU,web
+2019-02-01 2019-03-01,Pskov Oblast,9,навальный,RU,web
+2019-02-01 2019-03-01,Omsk Oblast,9,навальный,RU,web
+2019-02-01 2019-03-01,Kostroma Oblast,9,навальный,RU,web
+2019-02-01 2019-03-01,Leningrad Oblast,9,навальный,RU,web
+2019-02-01 2019-03-01,Kirov Oblast,9,навальный,RU,web
+2019-02-01 2019-03-01,Kaliningrad Oblast,8,навальный,RU,web
+2019-02-01 2019-03-01,Kurgan Oblast,8,навальный,RU,web
+2019-02-01 2019-03-01,Mari El Republic,8,навальный,RU,web
+2019-02-01 2019-03-01,Tula Oblast,7,навальный,RU,web
+2019-02-01 2019-03-01,Krasnodar Krai,7,навальный,RU,web
+2019-02-01 2019-03-01,Altai Krai,7,навальный,RU,web
+2019-02-01 2019-03-01,Irkutsk Oblast,6,навальный,RU,web
+2019-02-01 2019-03-01,Yamalo-Nenets Autonomous Okrug,6,навальный,RU,web
+2019-02-01 2019-03-01,Buryatia,5,навальный,RU,web
+2019-02-01 2019-03-01,Amur Oblast,5,навальный,RU,web
+2019-02-01 2019-03-01,Komi Republic,5,навальный,RU,web
+2019-02-01 2019-03-01,Murmansk Oblast,5,навальный,RU,web
+2019-02-01 2019-03-01,Khabarovsk Krai,5,навальный,RU,web
+2019-02-01 2019-03-01,Lipetsk Oblast,5,навальный,RU,web
+2019-02-01 2019-03-01,Kaluga Oblast,5,навальный,RU,web
+2019-02-01 2019-03-01,Khanty-Mansi Autonomous Okrug,4,навальный,RU,web
+2019-02-01 2019-03-01,Ulyanovsk Oblast,4,навальный,RU,web
+2019-02-01 2019-03-01,Dagestan Republic,3,навальный,RU,web
+2019-02-01 2019-03-01,Altai Republic,,навальный,RU,web
+2019-02-01 2019-03-01,Arkhangelsk Oblast,,навальный,RU,web
+2019-02-01 2019-03-01,Chechnya,,навальный,RU,web
+2019-02-01 2019-03-01,Chukotka Autonomous Okrug,,навальный,RU,web
+2019-02-01 2019-03-01,Ivanovo Oblast,,навальный,RU,web
+2019-02-01 2019-03-01,Kamchatka Krai,,навальный,RU,web
+2019-02-01 2019-03-01,Kabardino-Balkaria,,навальный,RU,web
+2019-02-01 2019-03-01,Magadan Oblast,,навальный,RU,web
+2019-02-01 2019-03-01,Novgorod Oblast,,навальный,RU,web
+2019-02-01 2019-03-01,Penza Oblast,,навальный,RU,web
+2019-02-01 2019-03-01,Sakha Republic,,навальный,RU,web
+2019-02-01 2019-03-01,Sakhalin Oblast,,навальный,RU,web
+2019-02-01 2019-03-01,North Ossetia–Alania,,навальный,RU,web
+2019-02-01 2019-03-01,Smolensk Oblast,,навальный,RU,web
+2019-02-01 2019-03-01,Tuva,,навальный,RU,web
+2019-02-01 2019-03-01,Jewish Autonomous Oblast,,навальный,RU,web
+2019-03-01 2019-04-01,Lipetsk Oblast,100,навальный,RU,web
+2019-03-01 2019-04-01,Republic of Karelia,97,навальный,RU,web
+2019-03-01 2019-04-01,Kaluga Oblast,84,навальный,RU,web
+2019-03-01 2019-04-01,Nizhny Novgorod Oblast,65,навальный,RU,web
+2019-03-01 2019-04-01,Kursk Oblast,64,навальный,RU,web
+2019-03-01 2019-04-01,Pskov Oblast,62,навальный,RU,web
+2019-03-01 2019-04-01,Vologda Oblast,61,навальный,RU,web
+2019-03-01 2019-04-01,Buryatia,61,навальный,RU,web
+2019-03-01 2019-04-01,North Ossetia–Alania,59,навальный,RU,web
+2019-03-01 2019-04-01,Belgorod Oblast,57,навальный,RU,web
+2019-03-01 2019-04-01,Tomsk Oblast,51,навальный,RU,web
+2019-03-01 2019-04-01,Saint Petersburg,50,навальный,RU,web
+2019-03-01 2019-04-01,Kamchatka Krai,48,навальный,RU,web
+2019-03-01 2019-04-01,Novosibirsk Oblast,46,навальный,RU,web
+2019-03-01 2019-04-01,Samara Oblast,45,навальный,RU,web
+2019-03-01 2019-04-01,Vladimir Oblast,43,навальный,RU,web
+2019-03-01 2019-04-01,Smolensk Oblast,42,навальный,RU,web
+2019-03-01 2019-04-01,Moscow,41,навальный,RU,web
+2019-03-01 2019-04-01,Saratov Oblast,36,навальный,RU,web
+2019-03-01 2019-04-01,Moscow Oblast,34,навальный,RU,web
+2019-03-01 2019-04-01,Arkhangelsk Oblast,34,навальный,RU,web
+2019-03-01 2019-04-01,Udmurt Republic,33,навальный,RU,web
+2019-03-01 2019-04-01,Novgorod Oblast,33,навальный,RU,web
+2019-03-01 2019-04-01,Krasnoyarsk Krai,33,навальный,RU,web
+2019-03-01 2019-04-01,Rostov Oblast,32,навальный,RU,web
+2019-03-01 2019-04-01,Irkutsk Oblast,32,навальный,RU,web
+2019-03-01 2019-04-01,Kostroma Oblast,31,навальный,RU,web
+2019-03-01 2019-04-01,Kirov Oblast,30,навальный,RU,web
+2019-03-01 2019-04-01,Chuvashia Republic,30,навальный,RU,web
+2019-03-01 2019-04-01,Voronezh Oblast,30,навальный,RU,web
+2019-03-01 2019-04-01,Tatarstan,29,навальный,RU,web
+2019-03-01 2019-04-01,Oryol Oblast,29,навальный,RU,web
+2019-03-01 2019-04-01,Sakha Republic,28,навальный,RU,web
+2019-03-01 2019-04-01,Dagestan Republic,28,навальный,RU,web
+2019-03-01 2019-04-01,Sverdlovsk Oblast,27,навальный,RU,web
+2019-03-01 2019-04-01,Primorsky Krai,27,навальный,RU,web
+2019-03-01 2019-04-01,Khabarovsk Krai,27,навальный,RU,web
+2019-03-01 2019-04-01,Tyumen Oblast,26,навальный,RU,web
+2019-03-01 2019-04-01,Yaroslavl Oblast,26,навальный,RU,web
+2019-03-01 2019-04-01,Sakhalin Oblast,26,навальный,RU,web
+2019-03-01 2019-04-01,Volgograd Oblast,25,навальный,RU,web
+2019-03-01 2019-04-01,Tambov Oblast,22,навальный,RU,web
+2019-03-01 2019-04-01,Yamalo-Nenets Autonomous Okrug,22,навальный,RU,web
+2019-03-01 2019-04-01,Bryansk Oblast,21,навальный,RU,web
+2019-03-01 2019-04-01,Chechnya,20,навальный,RU,web
+2019-03-01 2019-04-01,Krasnodar Krai,20,навальный,RU,web
+2019-03-01 2019-04-01,Stavropol Krai,19,навальный,RU,web
+2019-03-01 2019-04-01,Amur Oblast,18,навальный,RU,web
+2019-03-01 2019-04-01,Murmansk Oblast,18,навальный,RU,web
+2019-03-01 2019-04-01,Penza Oblast,18,навальный,RU,web
+2019-03-01 2019-04-01,Chelyabinsk Oblast,17,навальный,RU,web
+2019-03-01 2019-04-01,Omsk Oblast,16,навальный,RU,web
+2019-03-01 2019-04-01,Khanty-Mansi Autonomous Okrug,16,навальный,RU,web
+2019-03-01 2019-04-01,Altai Krai,15,навальный,RU,web
+2019-03-01 2019-04-01,Leningrad Oblast,15,навальный,RU,web
+2019-03-01 2019-04-01,Ulyanovsk Oblast,14,навальный,RU,web
+2019-03-01 2019-04-01,Tver Oblast,14,навальный,RU,web
+2019-03-01 2019-04-01,Perm Krai,14,навальный,RU,web
+2019-03-01 2019-04-01,Tula Oblast,13,навальный,RU,web
+2019-03-01 2019-04-01,Republic of Bashkortostan,12,навальный,RU,web
+2019-03-01 2019-04-01,Orenburg Oblast,10,навальный,RU,web
+2019-03-01 2019-04-01,Kemerovo Oblast,7,навальный,RU,web
+2019-03-01 2019-04-01,Adygea,,навальный,RU,web
+2019-03-01 2019-04-01,Altai Republic,,навальный,RU,web
+2019-03-01 2019-04-01,Astrakhan Oblast,,навальный,RU,web
+2019-03-01 2019-04-01,Chukotka Autonomous Okrug,,навальный,RU,web
+2019-03-01 2019-04-01,Ingushetia,,навальный,RU,web
+2019-03-01 2019-04-01,Ivanovo Oblast,,навальный,RU,web
+2019-03-01 2019-04-01,Kabardino-Balkaria,,навальный,RU,web
+2019-03-01 2019-04-01,Karachay-Cherkessia,,навальный,RU,web
+2019-03-01 2019-04-01,Kaliningrad Oblast,,навальный,RU,web
+2019-03-01 2019-04-01,Kurgan Oblast,,навальный,RU,web
+2019-03-01 2019-04-01,Republic of Khakassia,,навальный,RU,web
+2019-03-01 2019-04-01,Kalmykia,,навальный,RU,web
+2019-03-01 2019-04-01,Komi Republic,,навальный,RU,web
+2019-03-01 2019-04-01,Magadan Oblast,,навальный,RU,web
+2019-03-01 2019-04-01,Mari El Republic,,навальный,RU,web
+2019-03-01 2019-04-01,Mordovia,,навальный,RU,web
+2019-03-01 2019-04-01,Nenets Autonomous Okrug,,навальный,RU,web
+2019-03-01 2019-04-01,Ryazan Oblast,,навальный,RU,web
+2019-03-01 2019-04-01,Tuva,,навальный,RU,web
+2019-03-01 2019-04-01,Jewish Autonomous Oblast,,навальный,RU,web
+2019-03-01 2019-04-01,Zabaykalsky Krai,,навальный,RU,web
+2019-04-01 2019-05-01,Karachay-Cherkessia,100,навальный,RU,web
+2019-04-01 2019-05-01,Penza Oblast,92,навальный,RU,web
+2019-04-01 2019-05-01,Tambov Oblast,88,навальный,RU,web
+2019-04-01 2019-05-01,Smolensk Oblast,80,навальный,RU,web
+2019-04-01 2019-05-01,Pskov Oblast,80,навальный,RU,web
+2019-04-01 2019-05-01,Perm Krai,75,навальный,RU,web
+2019-04-01 2019-05-01,Tver Oblast,71,навальный,RU,web
+2019-04-01 2019-05-01,Komi Republic,69,навальный,RU,web
+2019-04-01 2019-05-01,Voronezh Oblast,64,навальный,RU,web
+2019-04-01 2019-05-01,Republic of Karelia,60,навальный,RU,web
+2019-04-01 2019-05-01,Kamchatka Krai,60,навальный,RU,web
+2019-04-01 2019-05-01,Omsk Oblast,58,навальный,RU,web
+2019-04-01 2019-05-01,Buryatia,49,навальный,RU,web
+2019-04-01 2019-05-01,Moscow Oblast,48,навальный,RU,web
+2019-04-01 2019-05-01,Moscow,48,навальный,RU,web
+2019-04-01 2019-05-01,Saint Petersburg,47,навальный,RU,web
+2019-04-01 2019-05-01,Republic of Khakassia,46,навальный,RU,web
+2019-04-01 2019-05-01,Amur Oblast,45,навальный,RU,web
+2019-04-01 2019-05-01,Ryazan Oblast,44,навальный,RU,web
+2019-04-01 2019-05-01,Lipetsk Oblast,43,навальный,RU,web
+2019-04-01 2019-05-01,Kabardino-Balkaria,42,навальный,RU,web
+2019-04-01 2019-05-01,Vologda Oblast,39,навальный,RU,web
+2019-04-01 2019-05-01,Kostroma Oblast,38,навальный,RU,web
+2019-04-01 2019-05-01,Novosibirsk Oblast,38,навальный,RU,web
+2019-04-01 2019-05-01,Mordovia,37,навальный,RU,web
+2019-04-01 2019-05-01,Vladimir Oblast,36,навальный,RU,web
+2019-04-01 2019-05-01,Nizhny Novgorod Oblast,35,навальный,RU,web
+2019-04-01 2019-05-01,Kurgan Oblast,35,навальный,RU,web
+2019-04-01 2019-05-01,Mari El Republic,33,навальный,RU,web
+2019-04-01 2019-05-01,Yaroslavl Oblast,32,навальный,RU,web
+2019-04-01 2019-05-01,Tula Oblast,31,навальный,RU,web
+2019-04-01 2019-05-01,Samara Oblast,30,навальный,RU,web
+2019-04-01 2019-05-01,Sverdlovsk Oblast,30,навальный,RU,web
+2019-04-01 2019-05-01,Khanty-Mansi Autonomous Okrug,29,навальный,RU,web
+2019-04-01 2019-05-01,Belgorod Oblast,29,навальный,RU,web
+2019-04-01 2019-05-01,Bryansk Oblast,27,навальный,RU,web
+2019-04-01 2019-05-01,Kursk Oblast,27,навальный,RU,web
+2019-04-01 2019-05-01,Yamalo-Nenets Autonomous Okrug,26,навальный,RU,web
+2019-04-01 2019-05-01,Orenburg Oblast,25,навальный,RU,web
+2019-04-01 2019-05-01,Krasnodar Krai,25,навальный,RU,web
+2019-04-01 2019-05-01,Tomsk Oblast,24,навальный,RU,web
+2019-04-01 2019-05-01,Kaliningrad Oblast,24,навальный,RU,web
+2019-04-01 2019-05-01,Khabarovsk Krai,22,навальный,RU,web
+2019-04-01 2019-05-01,Kaluga Oblast,21,навальный,RU,web
+2019-04-01 2019-05-01,Chelyabinsk Oblast,20,навальный,RU,web
+2019-04-01 2019-05-01,Leningrad Oblast,19,навальный,RU,web
+2019-04-01 2019-05-01,Kirov Oblast,19,навальный,RU,web
+2019-04-01 2019-05-01,Irkutsk Oblast,19,навальный,RU,web
+2019-04-01 2019-05-01,Ulyanovsk Oblast,18,навальный,RU,web
+2019-04-01 2019-05-01,Tatarstan,18,навальный,RU,web
+2019-04-01 2019-05-01,Saratov Oblast,18,навальный,RU,web
+2019-04-01 2019-05-01,Sakha Republic,17,навальный,RU,web
+2019-04-01 2019-05-01,Krasnoyarsk Krai,17,навальный,RU,web
+2019-04-01 2019-05-01,Primorsky Krai,16,навальный,RU,web
+2019-04-01 2019-05-01,Altai Krai,16,навальный,RU,web
+2019-04-01 2019-05-01,Stavropol Krai,15,навальный,RU,web
+2019-04-01 2019-05-01,Tyumen Oblast,11,навальный,RU,web
+2019-04-01 2019-05-01,Rostov Oblast,10,навальный,RU,web
+2019-04-01 2019-05-01,Republic of Bashkortostan,9,навальный,RU,web
+2019-04-01 2019-05-01,Kemerovo Oblast,8,навальный,RU,web
+2019-04-01 2019-05-01,Adygea,,навальный,RU,web
+2019-04-01 2019-05-01,Altai Republic,,навальный,RU,web
+2019-04-01 2019-05-01,Arkhangelsk Oblast,,навальный,RU,web
+2019-04-01 2019-05-01,Astrakhan Oblast,,навальный,RU,web
+2019-04-01 2019-05-01,Chechnya,,навальный,RU,web
+2019-04-01 2019-05-01,Chukotka Autonomous Okrug,,навальный,RU,web
+2019-04-01 2019-05-01,Chuvashia Republic,,навальный,RU,web
+2019-04-01 2019-05-01,Dagestan Republic,,навальный,RU,web
+2019-04-01 2019-05-01,Ingushetia,,навальный,RU,web
+2019-04-01 2019-05-01,Ivanovo Oblast,,навальный,RU,web
+2019-04-01 2019-05-01,Kalmykia,,навальный,RU,web
+2019-04-01 2019-05-01,Magadan Oblast,,навальный,RU,web
+2019-04-01 2019-05-01,Murmansk Oblast,,навальный,RU,web
+2019-04-01 2019-05-01,Nenets Autonomous Okrug,,навальный,RU,web
+2019-04-01 2019-05-01,Novgorod Oblast,,навальный,RU,web
+2019-04-01 2019-05-01,Oryol Oblast,,навальный,RU,web
+2019-04-01 2019-05-01,Sakhalin Oblast,,навальный,RU,web
+2019-04-01 2019-05-01,North Ossetia–Alania,,навальный,RU,web
+2019-04-01 2019-05-01,Tuva,,навальный,RU,web
+2019-04-01 2019-05-01,Udmurt Republic,,навальный,RU,web
+2019-04-01 2019-05-01,Volgograd Oblast,,навальный,RU,web
+2019-04-01 2019-05-01,Jewish Autonomous Oblast,,навальный,RU,web
+2019-04-01 2019-05-01,Zabaykalsky Krai,,навальный,RU,web
+2019-05-01 2019-06-01,Magadan Oblast,100,навальный,RU,web
+2019-05-01 2019-06-01,Karachay-Cherkessia,87,навальный,RU,web
+2019-05-01 2019-06-01,Buryatia,84,навальный,RU,web
+2019-05-01 2019-06-01,Adygea,78,навальный,RU,web
+2019-05-01 2019-06-01,Perm Krai,72,навальный,RU,web
+2019-05-01 2019-06-01,Krasnoyarsk Krai,67,навальный,RU,web
+2019-05-01 2019-06-01,Kostroma Oblast,64,навальный,RU,web
+2019-05-01 2019-06-01,Mari El Republic,58,навальный,RU,web
+2019-05-01 2019-06-01,Astrakhan Oblast,57,навальный,RU,web
+2019-05-01 2019-06-01,Ryazan Oblast,56,навальный,RU,web
+2019-05-01 2019-06-01,Volgograd Oblast,54,навальный,RU,web
+2019-05-01 2019-06-01,Kamchatka Krai,51,навальный,RU,web
+2019-05-01 2019-06-01,Chuvashia Republic,49,навальный,RU,web
+2019-05-01 2019-06-01,Voronezh Oblast,47,навальный,RU,web
+2019-05-01 2019-06-01,Vladimir Oblast,45,навальный,RU,web
+2019-05-01 2019-06-01,Moscow Oblast,45,навальный,RU,web
+2019-05-01 2019-06-01,Ivanovo Oblast,42,навальный,RU,web
+2019-05-01 2019-06-01,Rostov Oblast,41,навальный,RU,web
+2019-05-01 2019-06-01,Irkutsk Oblast,40,навальный,RU,web
+2019-05-01 2019-06-01,Penza Oblast,39,навальный,RU,web
+2019-05-01 2019-06-01,Amur Oblast,38,навальный,RU,web
+2019-05-01 2019-06-01,Republic of Bashkortostan,38,навальный,RU,web
+2019-05-01 2019-06-01,Moscow,37,навальный,RU,web
+2019-05-01 2019-06-01,Saint Petersburg,37,навальный,RU,web
+2019-05-01 2019-06-01,Tyumen Oblast,37,навальный,RU,web
+2019-05-01 2019-06-01,Belgorod Oblast,36,навальный,RU,web
+2019-05-01 2019-06-01,Lipetsk Oblast,36,навальный,RU,web
+2019-05-01 2019-06-01,Kaluga Oblast,36,навальный,RU,web
+2019-05-01 2019-06-01,Tatarstan,34,навальный,RU,web
+2019-05-01 2019-06-01,Khanty-Mansi Autonomous Okrug,33,навальный,RU,web
+2019-05-01 2019-06-01,Tomsk Oblast,32,навальный,RU,web
+2019-05-01 2019-06-01,Pskov Oblast,31,навальный,RU,web
+2019-05-01 2019-06-01,Mordovia,31,навальный,RU,web
+2019-05-01 2019-06-01,Saratov Oblast,31,навальный,RU,web
+2019-05-01 2019-06-01,Oryol Oblast,31,навальный,RU,web
+2019-05-01 2019-06-01,Kurgan Oblast,30,навальный,RU,web
+2019-05-01 2019-06-01,Nizhny Novgorod Oblast,30,навальный,RU,web
+2019-05-01 2019-06-01,Sverdlovsk Oblast,29,навальный,RU,web
+2019-05-01 2019-06-01,Kemerovo Oblast,28,навальный,RU,web
+2019-05-01 2019-06-01,Khabarovsk Krai,27,навальный,RU,web
+2019-05-01 2019-06-01,Samara Oblast,27,навальный,RU,web
+2019-05-01 2019-06-01,Krasnodar Krai,25,навальный,RU,web
+2019-05-01 2019-06-01,Chelyabinsk Oblast,25,навальный,RU,web
+2019-05-01 2019-06-01,Tambov Oblast,24,навальный,RU,web
+2019-05-01 2019-06-01,Udmurt Republic,23,навальный,RU,web
+2019-05-01 2019-06-01,Kursk Oblast,22,навальный,RU,web
+2019-05-01 2019-06-01,Bryansk Oblast,22,навальный,RU,web
+2019-05-01 2019-06-01,Smolensk Oblast,22,навальный,RU,web
+2019-05-01 2019-06-01,Novosibirsk Oblast,22,навальный,RU,web
+2019-05-01 2019-06-01,Leningrad Oblast,21,навальный,RU,web
+2019-05-01 2019-06-01,Komi Republic,20,навальный,RU,web
+2019-05-01 2019-06-01,Kaliningrad Oblast,20,навальный,RU,web
+2019-05-01 2019-06-01,Omsk Oblast,17,навальный,RU,web
+2019-05-01 2019-06-01,Kirov Oblast,16,навальный,RU,web
+2019-05-01 2019-06-01,Ulyanovsk Oblast,15,навальный,RU,web
+2019-05-01 2019-06-01,Tver Oblast,15,навальный,RU,web
+2019-05-01 2019-06-01,Sakha Republic,15,навальный,RU,web
+2019-05-01 2019-06-01,Altai Krai,14,навальный,RU,web
+2019-05-01 2019-06-01,Tula Oblast,13,навальный,RU,web
+2019-05-01 2019-06-01,Orenburg Oblast,11,навальный,RU,web
+2019-05-01 2019-06-01,Primorsky Krai,9,навальный,RU,web
+2019-05-01 2019-06-01,Stavropol Krai,7,навальный,RU,web
+2019-05-01 2019-06-01,Altai Republic,,навальный,RU,web
+2019-05-01 2019-06-01,Arkhangelsk Oblast,,навальный,RU,web
+2019-05-01 2019-06-01,Chechnya,,навальный,RU,web
+2019-05-01 2019-06-01,Chukotka Autonomous Okrug,,навальный,RU,web
+2019-05-01 2019-06-01,Dagestan Republic,,навальный,RU,web
+2019-05-01 2019-06-01,Ingushetia,,навальный,RU,web
+2019-05-01 2019-06-01,Kabardino-Balkaria,,навальный,RU,web
+2019-05-01 2019-06-01,Republic of Khakassia,,навальный,RU,web
+2019-05-01 2019-06-01,Kalmykia,,навальный,RU,web
+2019-05-01 2019-06-01,Republic of Karelia,,навальный,RU,web
+2019-05-01 2019-06-01,Murmansk Oblast,,навальный,RU,web
+2019-05-01 2019-06-01,Nenets Autonomous Okrug,,навальный,RU,web
+2019-05-01 2019-06-01,Novgorod Oblast,,навальный,RU,web
+2019-05-01 2019-06-01,Sakhalin Oblast,,навальный,RU,web
+2019-05-01 2019-06-01,North Ossetia–Alania,,навальный,RU,web
+2019-05-01 2019-06-01,Tuva,,навальный,RU,web
+2019-05-01 2019-06-01,Vologda Oblast,,навальный,RU,web
+2019-05-01 2019-06-01,Yamalo-Nenets Autonomous Okrug,,навальный,RU,web
+2019-05-01 2019-06-01,Yaroslavl Oblast,,навальный,RU,web
+2019-05-01 2019-06-01,Jewish Autonomous Oblast,,навальный,RU,web
+2019-05-01 2019-06-01,Zabaykalsky Krai,,навальный,RU,web
+2019-06-01 2019-07-01,Pskov Oblast,100,навальный,RU,web
+2019-06-01 2019-07-01,Kurgan Oblast,44,навальный,RU,web
+2019-06-01 2019-07-01,Kalmykia,44,навальный,RU,web
+2019-06-01 2019-07-01,Tver Oblast,38,навальный,RU,web
+2019-06-01 2019-07-01,Novgorod Oblast,34,навальный,RU,web
+2019-06-01 2019-07-01,Chuvashia Republic,34,навальный,RU,web
+2019-06-01 2019-07-01,Oryol Oblast,32,навальный,RU,web
+2019-06-01 2019-07-01,Moscow,30,навальный,RU,web
+2019-06-01 2019-07-01,Arkhangelsk Oblast,28,навальный,RU,web
+2019-06-01 2019-07-01,Kamchatka Krai,28,навальный,RU,web
+2019-06-01 2019-07-01,Novosibirsk Oblast,26,навальный,RU,web
+2019-06-01 2019-07-01,Perm Krai,25,навальный,RU,web
+2019-06-01 2019-07-01,Khanty-Mansi Autonomous Okrug,23,навальный,RU,web
+2019-06-01 2019-07-01,Saint Petersburg,22,навальный,RU,web
+2019-06-01 2019-07-01,Murmansk Oblast,22,навальный,RU,web
+2019-06-01 2019-07-01,Moscow Oblast,21,навальный,RU,web
+2019-06-01 2019-07-01,Udmurt Republic,21,навальный,RU,web
+2019-06-01 2019-07-01,Krasnoyarsk Krai,20,навальный,RU,web
+2019-06-01 2019-07-01,Voronezh Oblast,20,навальный,RU,web
+2019-06-01 2019-07-01,Chelyabinsk Oblast,20,навальный,RU,web
+2019-06-01 2019-07-01,Nizhny Novgorod Oblast,20,навальный,RU,web
+2019-06-01 2019-07-01,Penza Oblast,20,навальный,RU,web
+2019-06-01 2019-07-01,Irkutsk Oblast,19,навальный,RU,web
+2019-06-01 2019-07-01,Lipetsk Oblast,19,навальный,RU,web
+2019-06-01 2019-07-01,Altai Krai,19,навальный,RU,web
+2019-06-01 2019-07-01,Krasnodar Krai,18,навальный,RU,web
+2019-06-01 2019-07-01,Stavropol Krai,17,навальный,RU,web
+2019-06-01 2019-07-01,Primorsky Krai,17,навальный,RU,web
+2019-06-01 2019-07-01,Saratov Oblast,16,навальный,RU,web
+2019-06-01 2019-07-01,Kirov Oblast,16,навальный,RU,web
+2019-06-01 2019-07-01,Kostroma Oblast,16,навальный,RU,web
+2019-06-01 2019-07-01,Sverdlovsk Oblast,16,навальный,RU,web
+2019-06-01 2019-07-01,Khabarovsk Krai,14,навальный,RU,web
+2019-06-01 2019-07-01,Leningrad Oblast,14,навальный,RU,web
+2019-06-01 2019-07-01,Tyumen Oblast,14,навальный,RU,web
+2019-06-01 2019-07-01,Samara Oblast,14,навальный,RU,web
+2019-06-01 2019-07-01,Republic of Karelia,13,навальный,RU,web
+2019-06-01 2019-07-01,Yaroslavl Oblast,13,навальный,RU,web
+2019-06-01 2019-07-01,Tambov Oblast,13,навальный,RU,web
+2019-06-01 2019-07-01,Belgorod Oblast,13,навальный,RU,web
+2019-06-01 2019-07-01,Republic of Bashkortostan,12,навальный,RU,web
+2019-06-01 2019-07-01,Kursk Oblast,12,навальный,RU,web
+2019-06-01 2019-07-01,Tatarstan,11,навальный,RU,web
+2019-06-01 2019-07-01,Orenburg Oblast,11,навальный,RU,web
+2019-06-01 2019-07-01,Smolensk Oblast,11,навальный,RU,web
+2019-06-01 2019-07-01,Chechnya,11,навальный,RU,web
+2019-06-01 2019-07-01,Komi Republic,11,навальный,RU,web
+2019-06-01 2019-07-01,Dagestan Republic,10,навальный,RU,web
+2019-06-01 2019-07-01,Astrakhan Oblast,10,навальный,RU,web
+2019-06-01 2019-07-01,Rostov Oblast,9,навальный,RU,web
+2019-06-01 2019-07-01,Volgograd Oblast,9,навальный,RU,web
+2019-06-01 2019-07-01,Kaluga Oblast,9,навальный,RU,web
+2019-06-01 2019-07-01,Vologda Oblast,8,навальный,RU,web
+2019-06-01 2019-07-01,Vladimir Oblast,8,навальный,RU,web
+2019-06-01 2019-07-01,Tomsk Oblast,5,навальный,RU,web
+2019-06-01 2019-07-01,Kaliningrad Oblast,5,навальный,RU,web
+2019-06-01 2019-07-01,Omsk Oblast,4,навальный,RU,web
+2019-06-01 2019-07-01,Kemerovo Oblast,4,навальный,RU,web
+2019-06-01 2019-07-01,Adygea,,навальный,RU,web
+2019-06-01 2019-07-01,Altai Republic,,навальный,RU,web
+2019-06-01 2019-07-01,Amur Oblast,,навальный,RU,web
+2019-06-01 2019-07-01,Bryansk Oblast,,навальный,RU,web
+2019-06-01 2019-07-01,Buryatia,,навальный,RU,web
+2019-06-01 2019-07-01,Chukotka Autonomous Okrug,,навальный,RU,web
+2019-06-01 2019-07-01,Ingushetia,,навальный,RU,web
+2019-06-01 2019-07-01,Ivanovo Oblast,,навальный,RU,web
+2019-06-01 2019-07-01,Kabardino-Balkaria,,навальный,RU,web
+2019-06-01 2019-07-01,Karachay-Cherkessia,,навальный,RU,web
+2019-06-01 2019-07-01,Republic of Khakassia,,навальный,RU,web
+2019-06-01 2019-07-01,Magadan Oblast,,навальный,RU,web
+2019-06-01 2019-07-01,Mari El Republic,,навальный,RU,web
+2019-06-01 2019-07-01,Mordovia,,навальный,RU,web
+2019-06-01 2019-07-01,Nenets Autonomous Okrug,,навальный,RU,web
+2019-06-01 2019-07-01,Ryazan Oblast,,навальный,RU,web
+2019-06-01 2019-07-01,Sakha Republic,,навальный,RU,web
+2019-06-01 2019-07-01,Sakhalin Oblast,,навальный,RU,web
+2019-06-01 2019-07-01,North Ossetia–Alania,,навальный,RU,web
+2019-06-01 2019-07-01,Tula Oblast,,навальный,RU,web
+2019-06-01 2019-07-01,Tuva,,навальный,RU,web
+2019-06-01 2019-07-01,Ulyanovsk Oblast,,навальный,RU,web
+2019-06-01 2019-07-01,Yamalo-Nenets Autonomous Okrug,,навальный,RU,web
+2019-06-01 2019-07-01,Jewish Autonomous Oblast,,навальный,RU,web
+2019-06-01 2019-07-01,Zabaykalsky Krai,,навальный,RU,web
+2019-07-01 2019-08-01,Komi Republic,100,навальный,RU,web
+2019-07-01 2019-08-01,Republic of Karelia,98,навальный,RU,web
+2019-07-01 2019-08-01,Arkhangelsk Oblast,86,навальный,RU,web
+2019-07-01 2019-08-01,Moscow,79,навальный,RU,web
+2019-07-01 2019-08-01,Astrakhan Oblast,77,навальный,RU,web
+2019-07-01 2019-08-01,Kostroma Oblast,69,навальный,RU,web
+2019-07-01 2019-08-01,Orenburg Oblast,67,навальный,RU,web
+2019-07-01 2019-08-01,Kaliningrad Oblast,66,навальный,RU,web
+2019-07-01 2019-08-01,Tver Oblast,66,навальный,RU,web
+2019-07-01 2019-08-01,Bryansk Oblast,65,навальный,RU,web
+2019-07-01 2019-08-01,Kalmykia,64,навальный,RU,web
+2019-07-01 2019-08-01,Leningrad Oblast,63,навальный,RU,web
+2019-07-01 2019-08-01,Chuvashia Republic,62,навальный,RU,web
+2019-07-01 2019-08-01,Perm Krai,61,навальный,RU,web
+2019-07-01 2019-08-01,Voronezh Oblast,59,навальный,RU,web
+2019-07-01 2019-08-01,Moscow Oblast,59,навальный,RU,web
+2019-07-01 2019-08-01,Tambov Oblast,55,навальный,RU,web
+2019-07-01 2019-08-01,Saint Petersburg,53,навальный,RU,web
+2019-07-01 2019-08-01,Sverdlovsk Oblast,53,навальный,RU,web
+2019-07-01 2019-08-01,Lipetsk Oblast,53,навальный,RU,web
+2019-07-01 2019-08-01,Tula Oblast,50,навальный,RU,web
+2019-07-01 2019-08-01,Vologda Oblast,49,навальный,RU,web
+2019-07-01 2019-08-01,Novgorod Oblast,49,навальный,RU,web
+2019-07-01 2019-08-01,Yaroslavl Oblast,48,навальный,RU,web
+2019-07-01 2019-08-01,North Ossetia–Alania,48,навальный,RU,web
+2019-07-01 2019-08-01,Mordovia,48,навальный,RU,web
+2019-07-01 2019-08-01,Kirov Oblast,47,навальный,RU,web
+2019-07-01 2019-08-01,Oryol Oblast,47,навальный,RU,web
+2019-07-01 2019-08-01,Novosibirsk Oblast,46,навальный,RU,web
+2019-07-01 2019-08-01,Tatarstan,45,навальный,RU,web
+2019-07-01 2019-08-01,Altai Krai,45,навальный,RU,web
+2019-07-01 2019-08-01,Mari El Republic,44,навальный,RU,web
+2019-07-01 2019-08-01,Khabarovsk Krai,39,навальный,RU,web
+2019-07-01 2019-08-01,Samara Oblast,38,навальный,RU,web
+2019-07-01 2019-08-01,Tomsk Oblast,37,навальный,RU,web
+2019-07-01 2019-08-01,Nizhny Novgorod Oblast,37,навальный,RU,web
+2019-07-01 2019-08-01,Belgorod Oblast,37,навальный,RU,web
+2019-07-01 2019-08-01,Chelyabinsk Oblast,36,навальный,RU,web
+2019-07-01 2019-08-01,Zabaykalsky Krai,36,навальный,RU,web
+2019-07-01 2019-08-01,Primorsky Krai,36,навальный,RU,web
+2019-07-01 2019-08-01,Udmurt Republic,35,навальный,RU,web
+2019-07-01 2019-08-01,Ulyanovsk Oblast,35,навальный,RU,web
+2019-07-01 2019-08-01,Kursk Oblast,35,навальный,RU,web
+2019-07-01 2019-08-01,Smolensk Oblast,33,навальный,RU,web
+2019-07-01 2019-08-01,Vladimir Oblast,32,навальный,RU,web
+2019-07-01 2019-08-01,Saratov Oblast,30,навальный,RU,web
+2019-07-01 2019-08-01,Krasnodar Krai,30,навальный,RU,web
+2019-07-01 2019-08-01,Republic of Khakassia,30,навальный,RU,web
+2019-07-01 2019-08-01,Amur Oblast,29,навальный,RU,web
+2019-07-01 2019-08-01,Irkutsk Oblast,29,навальный,RU,web
+2019-07-01 2019-08-01,Penza Oblast,29,навальный,RU,web
+2019-07-01 2019-08-01,Krasnoyarsk Krai,27,навальный,RU,web
+2019-07-01 2019-08-01,Omsk Oblast,27,навальный,RU,web
+2019-07-01 2019-08-01,Adygea,26,навальный,RU,web
+2019-07-01 2019-08-01,Kaluga Oblast,26,навальный,RU,web
+2019-07-01 2019-08-01,Rostov Oblast,26,навальный,RU,web
+2019-07-01 2019-08-01,Kabardino-Balkaria,26,навальный,RU,web
+2019-07-01 2019-08-01,Pskov Oblast,23,навальный,RU,web
+2019-07-01 2019-08-01,Republic of Bashkortostan,23,навальный,RU,web
+2019-07-01 2019-08-01,Kemerovo Oblast,23,навальный,RU,web
+2019-07-01 2019-08-01,Kurgan Oblast,22,навальный,RU,web
+2019-07-01 2019-08-01,Sakhalin Oblast,21,навальный,RU,web
+2019-07-01 2019-08-01,Stavropol Krai,20,навальный,RU,web
+2019-07-01 2019-08-01,Murmansk Oblast,18,навальный,RU,web
+2019-07-01 2019-08-01,Chechnya,16,навальный,RU,web
+2019-07-01 2019-08-01,Ivanovo Oblast,15,навальный,RU,web
+2019-07-01 2019-08-01,Khanty-Mansi Autonomous Okrug,15,навальный,RU,web
+2019-07-01 2019-08-01,Ryazan Oblast,14,навальный,RU,web
+2019-07-01 2019-08-01,Tyumen Oblast,7,навальный,RU,web
+2019-07-01 2019-08-01,Volgograd Oblast,7,навальный,RU,web
+2019-07-01 2019-08-01,Altai Republic,,навальный,RU,web
+2019-07-01 2019-08-01,Buryatia,,навальный,RU,web
+2019-07-01 2019-08-01,Chukotka Autonomous Okrug,,навальный,RU,web
+2019-07-01 2019-08-01,Dagestan Republic,,навальный,RU,web
+2019-07-01 2019-08-01,Ingushetia,,навальный,RU,web
+2019-07-01 2019-08-01,Kamchatka Krai,,навальный,RU,web
+2019-07-01 2019-08-01,Karachay-Cherkessia,,навальный,RU,web
+2019-07-01 2019-08-01,Magadan Oblast,,навальный,RU,web
+2019-07-01 2019-08-01,Nenets Autonomous Okrug,,навальный,RU,web
+2019-07-01 2019-08-01,Sakha Republic,,навальный,RU,web
+2019-07-01 2019-08-01,Tuva,,навальный,RU,web
+2019-07-01 2019-08-01,Yamalo-Nenets Autonomous Okrug,,навальный,RU,web
+2019-07-01 2019-08-01,Jewish Autonomous Oblast,,навальный,RU,web
+2019-08-01 2019-09-01,Altai Republic,100,навальный,RU,web
+2019-08-01 2019-09-01,Pskov Oblast,46,навальный,RU,web
+2019-08-01 2019-09-01,Kostroma Oblast,46,навальный,RU,web
+2019-08-01 2019-09-01,Kalmykia,43,навальный,RU,web
+2019-08-01 2019-09-01,Amur Oblast,39,навальный,RU,web
+2019-08-01 2019-09-01,Republic of Karelia,39,навальный,RU,web
+2019-08-01 2019-09-01,Penza Oblast,38,навальный,RU,web
+2019-08-01 2019-09-01,Tver Oblast,37,навальный,RU,web
+2019-08-01 2019-09-01,Moscow,36,навальный,RU,web
+2019-08-01 2019-09-01,Kaliningrad Oblast,34,навальный,RU,web
+2019-08-01 2019-09-01,Tula Oblast,31,навальный,RU,web
+2019-08-01 2019-09-01,Mordovia,31,навальный,RU,web
+2019-08-01 2019-09-01,Moscow Oblast,31,навальный,RU,web
+2019-08-01 2019-09-01,Belgorod Oblast,30,навальный,RU,web
+2019-08-01 2019-09-01,Kemerovo Oblast,30,навальный,RU,web
+2019-08-01 2019-09-01,Mari El Republic,29,навальный,RU,web
+2019-08-01 2019-09-01,Kurgan Oblast,29,навальный,RU,web
+2019-08-01 2019-09-01,Ryazan Oblast,28,навальный,RU,web
+2019-08-01 2019-09-01,Saratov Oblast,27,навальный,RU,web
+2019-08-01 2019-09-01,Orenburg Oblast,27,навальный,RU,web
+2019-08-01 2019-09-01,Chuvashia Republic,24,навальный,RU,web
+2019-08-01 2019-09-01,Sakha Republic,24,навальный,RU,web
+2019-08-01 2019-09-01,Leningrad Oblast,24,навальный,RU,web
+2019-08-01 2019-09-01,Nizhny Novgorod Oblast,23,навальный,RU,web
+2019-08-01 2019-09-01,Saint Petersburg,22,навальный,RU,web
+2019-08-01 2019-09-01,Rostov Oblast,22,навальный,RU,web
+2019-08-01 2019-09-01,Smolensk Oblast,22,навальный,RU,web
+2019-08-01 2019-09-01,Bryansk Oblast,22,навальный,RU,web
+2019-08-01 2019-09-01,Buryatia,22,навальный,RU,web
+2019-08-01 2019-09-01,Tatarstan,21,навальный,RU,web
+2019-08-01 2019-09-01,Ivanovo Oblast,21,навальный,RU,web
+2019-08-01 2019-09-01,Krasnoyarsk Krai,21,навальный,RU,web
+2019-08-01 2019-09-01,Sverdlovsk Oblast,21,навальный,RU,web
+2019-08-01 2019-09-01,Astrakhan Oblast,21,навальный,RU,web
+2019-08-01 2019-09-01,Republic of Khakassia,20,навальный,RU,web
+2019-08-01 2019-09-01,Irkutsk Oblast,19,навальный,RU,web
+2019-08-01 2019-09-01,Kabardino-Balkaria,18,навальный,RU,web
+2019-08-01 2019-09-01,Volgograd Oblast,18,навальный,RU,web
+2019-08-01 2019-09-01,Novosibirsk Oblast,17,навальный,RU,web
+2019-08-01 2019-09-01,Adygea,17,навальный,RU,web
+2019-08-01 2019-09-01,Novgorod Oblast,17,навальный,RU,web
+2019-08-01 2019-09-01,Oryol Oblast,16,навальный,RU,web
+2019-08-01 2019-09-01,Voronezh Oblast,16,навальный,RU,web
+2019-08-01 2019-09-01,Ulyanovsk Oblast,15,навальный,RU,web
+2019-08-01 2019-09-01,Kirov Oblast,15,навальный,RU,web
+2019-08-01 2019-09-01,Chelyabinsk Oblast,15,навальный,RU,web
+2019-08-01 2019-09-01,Vladimir Oblast,14,навальный,RU,web
+2019-08-01 2019-09-01,Perm Krai,14,навальный,RU,web
+2019-08-01 2019-09-01,Primorsky Krai,14,навальный,RU,web
+2019-08-01 2019-09-01,Sakhalin Oblast,14,навальный,RU,web
+2019-08-01 2019-09-01,Stavropol Krai,13,навальный,RU,web
+2019-08-01 2019-09-01,Samara Oblast,13,навальный,RU,web
+2019-08-01 2019-09-01,Tomsk Oblast,12,навальный,RU,web
+2019-08-01 2019-09-01,Republic of Bashkortostan,12,навальный,RU,web
+2019-08-01 2019-09-01,Krasnodar Krai,12,навальный,RU,web
+2019-08-01 2019-09-01,Tambov Oblast,12,навальный,RU,web
+2019-08-01 2019-09-01,Kursk Oblast,12,навальный,RU,web
+2019-08-01 2019-09-01,Murmansk Oblast,11,навальный,RU,web
+2019-08-01 2019-09-01,Komi Republic,11,навальный,RU,web
+2019-08-01 2019-09-01,Arkhangelsk Oblast,9,навальный,RU,web
+2019-08-01 2019-09-01,Tyumen Oblast,9,навальный,RU,web
+2019-08-01 2019-09-01,Omsk Oblast,9,навальный,RU,web
+2019-08-01 2019-09-01,Altai Krai,8,навальный,RU,web
+2019-08-01 2019-09-01,Vologda Oblast,8,навальный,RU,web
+2019-08-01 2019-09-01,Yaroslavl Oblast,6,навальный,RU,web
+2019-08-01 2019-09-01,Udmurt Republic,6,навальный,RU,web
+2019-08-01 2019-09-01,Khabarovsk Krai,5,навальный,RU,web
+2019-08-01 2019-09-01,Dagestan Republic,5,навальный,RU,web
+2019-08-01 2019-09-01,Chechnya,,навальный,RU,web
+2019-08-01 2019-09-01,Chukotka Autonomous Okrug,,навальный,RU,web
+2019-08-01 2019-09-01,Ingushetia,,навальный,RU,web
+2019-08-01 2019-09-01,Kamchatka Krai,,навальный,RU,web
+2019-08-01 2019-09-01,Karachay-Cherkessia,,навальный,RU,web
+2019-08-01 2019-09-01,Khanty-Mansi Autonomous Okrug,,навальный,RU,web
+2019-08-01 2019-09-01,Kaluga Oblast,,навальный,RU,web
+2019-08-01 2019-09-01,Lipetsk Oblast,,навальный,RU,web
+2019-08-01 2019-09-01,Magadan Oblast,,навальный,RU,web
+2019-08-01 2019-09-01,Nenets Autonomous Okrug,,навальный,RU,web
+2019-08-01 2019-09-01,North Ossetia–Alania,,навальный,RU,web
+2019-08-01 2019-09-01,Tuva,,навальный,RU,web
+2019-08-01 2019-09-01,Yamalo-Nenets Autonomous Okrug,,навальный,RU,web
+2019-08-01 2019-09-01,Jewish Autonomous Oblast,,навальный,RU,web
+2019-08-01 2019-09-01,Zabaykalsky Krai,,навальный,RU,web
+2019-09-01 2019-10-01,Altai Republic,100,навальный,RU,web
+2019-09-01 2019-10-01,Magadan Oblast,93,навальный,RU,web
+2019-09-01 2019-10-01,Oryol Oblast,82,навальный,RU,web
+2019-09-01 2019-10-01,Kalmykia,79,навальный,RU,web
+2019-09-01 2019-10-01,Komi Republic,75,навальный,RU,web
+2019-09-01 2019-10-01,Sakhalin Oblast,74,навальный,RU,web
+2019-09-01 2019-10-01,Moscow,72,навальный,RU,web
+2019-09-01 2019-10-01,Moscow Oblast,68,навальный,RU,web
+2019-09-01 2019-10-01,Tula Oblast,67,навальный,RU,web
+2019-09-01 2019-10-01,Kabardino-Balkaria,66,навальный,RU,web
+2019-09-01 2019-10-01,Saint Petersburg,61,навальный,RU,web
+2019-09-01 2019-10-01,Adygea,60,навальный,RU,web
+2019-09-01 2019-10-01,Bryansk Oblast,59,навальный,RU,web
+2019-09-01 2019-10-01,Pskov Oblast,57,навальный,RU,web
+2019-09-01 2019-10-01,Yaroslavl Oblast,55,навальный,RU,web
+2019-09-01 2019-10-01,Kurgan Oblast,55,навальный,RU,web
+2019-09-01 2019-10-01,Tver Oblast,54,навальный,RU,web
+2019-09-01 2019-10-01,Altai Krai,53,навальный,RU,web
+2019-09-01 2019-10-01,Samara Oblast,53,навальный,RU,web
+2019-09-01 2019-10-01,Murmansk Oblast,53,навальный,RU,web
+2019-09-01 2019-10-01,Leningrad Oblast,52,навальный,RU,web
+2019-09-01 2019-10-01,Penza Oblast,51,навальный,RU,web
+2019-09-01 2019-10-01,Tomsk Oblast,49,навальный,RU,web
+2019-09-01 2019-10-01,Lipetsk Oblast,49,навальный,RU,web
+2019-09-01 2019-10-01,Saratov Oblast,48,навальный,RU,web
+2019-09-01 2019-10-01,Primorsky Krai,47,навальный,RU,web
+2019-09-01 2019-10-01,Chelyabinsk Oblast,44,навальный,RU,web
+2019-09-01 2019-10-01,Vologda Oblast,44,навальный,RU,web
+2019-09-01 2019-10-01,Nizhny Novgorod Oblast,43,навальный,RU,web
+2019-09-01 2019-10-01,Tambov Oblast,43,навальный,RU,web
+2019-09-01 2019-10-01,Tatarstan,43,навальный,RU,web
+2019-09-01 2019-10-01,Voronezh Oblast,41,навальный,RU,web
+2019-09-01 2019-10-01,Ulyanovsk Oblast,41,навальный,RU,web
+2019-09-01 2019-10-01,Zabaykalsky Krai,41,навальный,RU,web
+2019-09-01 2019-10-01,Vladimir Oblast,40,навальный,RU,web
+2019-09-01 2019-10-01,Rostov Oblast,39,навальный,RU,web
+2019-09-01 2019-10-01,Buryatia,38,навальный,RU,web
+2019-09-01 2019-10-01,Omsk Oblast,37,навальный,RU,web
+2019-09-01 2019-10-01,Novosibirsk Oblast,35,навальный,RU,web
+2019-09-01 2019-10-01,Kaliningrad Oblast,35,навальный,RU,web
+2019-09-01 2019-10-01,Tyumen Oblast,32,навальный,RU,web
+2019-09-01 2019-10-01,Volgograd Oblast,32,навальный,RU,web
+2019-09-01 2019-10-01,Krasnoyarsk Krai,30,навальный,RU,web
+2019-09-01 2019-10-01,Udmurt Republic,30,навальный,RU,web
+2019-09-01 2019-10-01,Novgorod Oblast,30,навальный,RU,web
+2019-09-01 2019-10-01,Republic of Bashkortostan,30,навальный,RU,web
+2019-09-01 2019-10-01,Chuvashia Republic,29,навальный,RU,web
+2019-09-01 2019-10-01,Orenburg Oblast,29,навальный,RU,web
+2019-09-01 2019-10-01,Sverdlovsk Oblast,27,навальный,RU,web
+2019-09-01 2019-10-01,Dagestan Republic,27,навальный,RU,web
+2019-09-01 2019-10-01,Mari El Republic,25,навальный,RU,web
+2019-09-01 2019-10-01,Kemerovo Oblast,25,навальный,RU,web
+2019-09-01 2019-10-01,Republic of Karelia,23,навальный,RU,web
+2019-09-01 2019-10-01,Irkutsk Oblast,22,навальный,RU,web
+2019-09-01 2019-10-01,Yamalo-Nenets Autonomous Okrug,22,навальный,RU,web
+2019-09-01 2019-10-01,Krasnodar Krai,21,навальный,RU,web
+2019-09-01 2019-10-01,Perm Krai,19,навальный,RU,web
+2019-09-01 2019-10-01,Chechnya,18,навальный,RU,web
+2019-09-01 2019-10-01,Khabarovsk Krai,18,навальный,RU,web
+2019-09-01 2019-10-01,Amur Oblast,17,навальный,RU,web
+2019-09-01 2019-10-01,Astrakhan Oblast,17,навальный,RU,web
+2019-09-01 2019-10-01,Arkhangelsk Oblast,16,навальный,RU,web
+2019-09-01 2019-10-01,Kirov Oblast,14,навальный,RU,web
+2019-09-01 2019-10-01,Sakha Republic,13,навальный,RU,web
+2019-09-01 2019-10-01,Belgorod Oblast,11,навальный,RU,web
+2019-09-01 2019-10-01,Stavropol Krai,6,навальный,RU,web
+2019-09-01 2019-10-01,Chukotka Autonomous Okrug,,навальный,RU,web
+2019-09-01 2019-10-01,Ingushetia,,навальный,RU,web
+2019-09-01 2019-10-01,Ivanovo Oblast,,навальный,RU,web
+2019-09-01 2019-10-01,Kamchatka Krai,,навальный,RU,web
+2019-09-01 2019-10-01,Karachay-Cherkessia,,навальный,RU,web
+2019-09-01 2019-10-01,Khanty-Mansi Autonomous Okrug,,навальный,RU,web
+2019-09-01 2019-10-01,Republic of Khakassia,,навальный,RU,web
+2019-09-01 2019-10-01,Kaluga Oblast,,навальный,RU,web
+2019-09-01 2019-10-01,Kostroma Oblast,,навальный,RU,web
+2019-09-01 2019-10-01,Kursk Oblast,,навальный,RU,web
+2019-09-01 2019-10-01,Mordovia,,навальный,RU,web
+2019-09-01 2019-10-01,Nenets Autonomous Okrug,,навальный,RU,web
+2019-09-01 2019-10-01,Ryazan Oblast,,навальный,RU,web
+2019-09-01 2019-10-01,North Ossetia–Alania,,навальный,RU,web
+2019-09-01 2019-10-01,Smolensk Oblast,,навальный,RU,web
+2019-09-01 2019-10-01,Tuva,,навальный,RU,web
+2019-09-01 2019-10-01,Jewish Autonomous Oblast,,навальный,RU,web
+2019-10-01 2019-11-01,Vologda Oblast,100,навальный,RU,web
+2019-10-01 2019-11-01,Republic of Karelia,95,навальный,RU,web
+2019-10-01 2019-11-01,Kostroma Oblast,79,навальный,RU,web
+2019-10-01 2019-11-01,Kirov Oblast,76,навальный,RU,web
+2019-10-01 2019-11-01,Voronezh Oblast,74,навальный,RU,web
+2019-10-01 2019-11-01,Penza Oblast,69,навальный,RU,web
+2019-10-01 2019-11-01,Ryazan Oblast,67,навальный,RU,web
+2019-10-01 2019-11-01,Leningrad Oblast,64,навальный,RU,web
+2019-10-01 2019-11-01,Tula Oblast,61,навальный,RU,web
+2019-10-01 2019-11-01,Altai Krai,61,навальный,RU,web
+2019-10-01 2019-11-01,Kaliningrad Oblast,59,навальный,RU,web
+2019-10-01 2019-11-01,Tatarstan,58,навальный,RU,web
+2019-10-01 2019-11-01,Moscow,58,навальный,RU,web
+2019-10-01 2019-11-01,Nizhny Novgorod Oblast,57,навальный,RU,web
+2019-10-01 2019-11-01,Kursk Oblast,56,навальный,RU,web
+2019-10-01 2019-11-01,Tomsk Oblast,53,навальный,RU,web
+2019-10-01 2019-11-01,Novosibirsk Oblast,52,навальный,RU,web
+2019-10-01 2019-11-01,Ivanovo Oblast,51,навальный,RU,web
+2019-10-01 2019-11-01,Murmansk Oblast,48,навальный,RU,web
+2019-10-01 2019-11-01,Primorsky Krai,47,навальный,RU,web
+2019-10-01 2019-11-01,Saratov Oblast,47,навальный,RU,web
+2019-10-01 2019-11-01,Lipetsk Oblast,44,навальный,RU,web
+2019-10-01 2019-11-01,Moscow Oblast,43,навальный,RU,web
+2019-10-01 2019-11-01,Udmurt Republic,41,навальный,RU,web
+2019-10-01 2019-11-01,Saint Petersburg,40,навальный,RU,web
+2019-10-01 2019-11-01,North Ossetia–Alania,39,навальный,RU,web
+2019-10-01 2019-11-01,Chuvashia Republic,38,навальный,RU,web
+2019-10-01 2019-11-01,Ulyanovsk Oblast,37,навальный,RU,web
+2019-10-01 2019-11-01,Khabarovsk Krai,36,навальный,RU,web
+2019-10-01 2019-11-01,Chelyabinsk Oblast,35,навальный,RU,web
+2019-10-01 2019-11-01,Krasnodar Krai,33,навальный,RU,web
+2019-10-01 2019-11-01,Republic of Bashkortostan,31,навальный,RU,web
+2019-10-01 2019-11-01,Belgorod Oblast,31,навальный,RU,web
+2019-10-01 2019-11-01,Yaroslavl Oblast,30,навальный,RU,web
+2019-10-01 2019-11-01,Tambov Oblast,30,навальный,RU,web
+2019-10-01 2019-11-01,Samara Oblast,28,навальный,RU,web
+2019-10-01 2019-11-01,Zabaykalsky Krai,28,навальный,RU,web
+2019-10-01 2019-11-01,Bryansk Oblast,27,навальный,RU,web
+2019-10-01 2019-11-01,Smolensk Oblast,27,навальный,RU,web
+2019-10-01 2019-11-01,Rostov Oblast,26,навальный,RU,web
+2019-10-01 2019-11-01,Irkutsk Oblast,26,навальный,RU,web
+2019-10-01 2019-11-01,Arkhangelsk Oblast,22,навальный,RU,web
+2019-10-01 2019-11-01,Khanty-Mansi Autonomous Okrug,21,навальный,RU,web
+2019-10-01 2019-11-01,Omsk Oblast,20,навальный,RU,web
+2019-10-01 2019-11-01,Tver Oblast,18,навальный,RU,web
+2019-10-01 2019-11-01,Perm Krai,17,навальный,RU,web
+2019-10-01 2019-11-01,Sakha Republic,17,навальный,RU,web
+2019-10-01 2019-11-01,Orenburg Oblast,13,навальный,RU,web
+2019-10-01 2019-11-01,Dagestan Republic,12,навальный,RU,web
+2019-10-01 2019-11-01,Krasnoyarsk Krai,12,навальный,RU,web
+2019-10-01 2019-11-01,Tyumen Oblast,11,навальный,RU,web
+2019-10-01 2019-11-01,Volgograd Oblast,11,навальный,RU,web
+2019-10-01 2019-11-01,Sverdlovsk Oblast,9,навальный,RU,web
+2019-10-01 2019-11-01,Kemerovo Oblast,9,навальный,RU,web
+2019-10-01 2019-11-01,Stavropol Krai,8,навальный,RU,web
+2019-10-01 2019-11-01,Adygea,,навальный,RU,web
+2019-10-01 2019-11-01,Altai Republic,,навальный,RU,web
+2019-10-01 2019-11-01,Amur Oblast,,навальный,RU,web
+2019-10-01 2019-11-01,Astrakhan Oblast,,навальный,RU,web
+2019-10-01 2019-11-01,Buryatia,,навальный,RU,web
+2019-10-01 2019-11-01,Chechnya,,навальный,RU,web
+2019-10-01 2019-11-01,Chukotka Autonomous Okrug,,навальный,RU,web
+2019-10-01 2019-11-01,Ingushetia,,навальный,RU,web
+2019-10-01 2019-11-01,Kamchatka Krai,,навальный,RU,web
+2019-10-01 2019-11-01,Kabardino-Balkaria,,навальный,RU,web
+2019-10-01 2019-11-01,Karachay-Cherkessia,,навальный,RU,web
+2019-10-01 2019-11-01,Kurgan Oblast,,навальный,RU,web
+2019-10-01 2019-11-01,Republic of Khakassia,,навальный,RU,web
+2019-10-01 2019-11-01,Kalmykia,,навальный,RU,web
+2019-10-01 2019-11-01,Kaluga Oblast,,навальный,RU,web
+2019-10-01 2019-11-01,Komi Republic,,навальный,RU,web
+2019-10-01 2019-11-01,Magadan Oblast,,навальный,RU,web
+2019-10-01 2019-11-01,Mari El Republic,,навальный,RU,web
+2019-10-01 2019-11-01,Mordovia,,навальный,RU,web
+2019-10-01 2019-11-01,Nenets Autonomous Okrug,,навальный,RU,web
+2019-10-01 2019-11-01,Novgorod Oblast,,навальный,RU,web
+2019-10-01 2019-11-01,Oryol Oblast,,навальный,RU,web
+2019-10-01 2019-11-01,Pskov Oblast,,навальный,RU,web
+2019-10-01 2019-11-01,Sakhalin Oblast,,навальный,RU,web
+2019-10-01 2019-11-01,Tuva,,навальный,RU,web
+2019-10-01 2019-11-01,Vladimir Oblast,,навальный,RU,web
+2019-10-01 2019-11-01,Yamalo-Nenets Autonomous Okrug,,навальный,RU,web
+2019-10-01 2019-11-01,Jewish Autonomous Oblast,,навальный,RU,web
+2019-11-01 2019-12-01,Jewish Autonomous Oblast,100,навальный,RU,web
+2019-11-01 2019-12-01,Oryol Oblast,93,навальный,RU,web
+2019-11-01 2019-12-01,Republic of Karelia,79,навальный,RU,web
+2019-11-01 2019-12-01,Ivanovo Oblast,48,навальный,RU,web
+2019-11-01 2019-12-01,Primorsky Krai,44,навальный,RU,web
+2019-11-01 2019-12-01,Tver Oblast,44,навальный,RU,web
+2019-11-01 2019-12-01,Arkhangelsk Oblast,42,навальный,RU,web
+2019-11-01 2019-12-01,Leningrad Oblast,40,навальный,RU,web
+2019-11-01 2019-12-01,Altai Krai,39,навальный,RU,web
+2019-11-01 2019-12-01,Ulyanovsk Oblast,35,навальный,RU,web
+2019-11-01 2019-12-01,Vladimir Oblast,34,навальный,RU,web
+2019-11-01 2019-12-01,Udmurt Republic,33,навальный,RU,web
+2019-11-01 2019-12-01,Chelyabinsk Oblast,32,навальный,RU,web
+2019-11-01 2019-12-01,Komi Republic,31,навальный,RU,web
+2019-11-01 2019-12-01,Moscow,30,навальный,RU,web
+2019-11-01 2019-12-01,Murmansk Oblast,30,навальный,RU,web
+2019-11-01 2019-12-01,Nizhny Novgorod Oblast,28,навальный,RU,web
+2019-11-01 2019-12-01,Tyumen Oblast,27,навальный,RU,web
+2019-11-01 2019-12-01,Voronezh Oblast,27,навальный,RU,web
+2019-11-01 2019-12-01,Kabardino-Balkaria,26,навальный,RU,web
+2019-11-01 2019-12-01,Omsk Oblast,25,навальный,RU,web
+2019-11-01 2019-12-01,Sverdlovsk Oblast,25,навальный,RU,web
+2019-11-01 2019-12-01,Moscow Oblast,24,навальный,RU,web
+2019-11-01 2019-12-01,Kirov Oblast,24,навальный,RU,web
+2019-11-01 2019-12-01,Mordovia,24,навальный,RU,web
+2019-11-01 2019-12-01,Krasnodar Krai,23,навальный,RU,web
+2019-11-01 2019-12-01,Samara Oblast,23,навальный,RU,web
+2019-11-01 2019-12-01,Kurgan Oblast,23,навальный,RU,web
+2019-11-01 2019-12-01,Tatarstan,23,навальный,RU,web
+2019-11-01 2019-12-01,Saint Petersburg,23,навальный,RU,web
+2019-11-01 2019-12-01,Kaliningrad Oblast,22,навальный,RU,web
+2019-11-01 2019-12-01,Perm Krai,22,навальный,RU,web
+2019-11-01 2019-12-01,Kemerovo Oblast,21,навальный,RU,web
+2019-11-01 2019-12-01,Yaroslavl Oblast,19,навальный,RU,web
+2019-11-01 2019-12-01,Tambov Oblast,18,навальный,RU,web
+2019-11-01 2019-12-01,Saratov Oblast,17,навальный,RU,web
+2019-11-01 2019-12-01,Smolensk Oblast,17,навальный,RU,web
+2019-11-01 2019-12-01,Tomsk Oblast,16,навальный,RU,web
+2019-11-01 2019-12-01,Irkutsk Oblast,16,навальный,RU,web
+2019-11-01 2019-12-01,Buryatia,16,навальный,RU,web
+2019-11-01 2019-12-01,Republic of Bashkortostan,16,навальный,RU,web
+2019-11-01 2019-12-01,Stavropol Krai,15,навальный,RU,web
+2019-11-01 2019-12-01,Penza Oblast,15,навальный,RU,web
+2019-11-01 2019-12-01,Khabarovsk Krai,14,навальный,RU,web
+2019-11-01 2019-12-01,Lipetsk Oblast,14,навальный,RU,web
+2019-11-01 2019-12-01,Ryazan Oblast,14,навальный,RU,web
+2019-11-01 2019-12-01,Novosibirsk Oblast,14,навальный,RU,web
+2019-11-01 2019-12-01,Kaluga Oblast,13,навальный,RU,web
+2019-11-01 2019-12-01,Vologda Oblast,13,навальный,RU,web
+2019-11-01 2019-12-01,Rostov Oblast,12,навальный,RU,web
+2019-11-01 2019-12-01,Chuvashia Republic,12,навальный,RU,web
+2019-11-01 2019-12-01,Belgorod Oblast,11,навальный,RU,web
+2019-11-01 2019-12-01,Tula Oblast,10,навальный,RU,web
+2019-11-01 2019-12-01,Orenburg Oblast,8,навальный,RU,web
+2019-11-01 2019-12-01,Krasnoyarsk Krai,7,навальный,RU,web
+2019-11-01 2019-12-01,Dagestan Republic,7,навальный,RU,web
+2019-11-01 2019-12-01,Volgograd Oblast,7,навальный,RU,web
+2019-11-01 2019-12-01,Khanty-Mansi Autonomous Okrug,6,навальный,RU,web
+2019-11-01 2019-12-01,Adygea,,навальный,RU,web
+2019-11-01 2019-12-01,Altai Republic,,навальный,RU,web
+2019-11-01 2019-12-01,Amur Oblast,,навальный,RU,web
+2019-11-01 2019-12-01,Astrakhan Oblast,,навальный,RU,web
+2019-11-01 2019-12-01,Bryansk Oblast,,навальный,RU,web
+2019-11-01 2019-12-01,Chechnya,,навальный,RU,web
+2019-11-01 2019-12-01,Chukotka Autonomous Okrug,,навальный,RU,web
+2019-11-01 2019-12-01,Ingushetia,,навальный,RU,web
+2019-11-01 2019-12-01,Kamchatka Krai,,навальный,RU,web
+2019-11-01 2019-12-01,Karachay-Cherkessia,,навальный,RU,web
+2019-11-01 2019-12-01,Republic of Khakassia,,навальный,RU,web
+2019-11-01 2019-12-01,Kalmykia,,навальный,RU,web
+2019-11-01 2019-12-01,Kostroma Oblast,,навальный,RU,web
+2019-11-01 2019-12-01,Kursk Oblast,,навальный,RU,web
+2019-11-01 2019-12-01,Magadan Oblast,,навальный,RU,web
+2019-11-01 2019-12-01,Mari El Republic,,навальный,RU,web
+2019-11-01 2019-12-01,Nenets Autonomous Okrug,,навальный,RU,web
+2019-11-01 2019-12-01,Novgorod Oblast,,навальный,RU,web
+2019-11-01 2019-12-01,Pskov Oblast,,навальный,RU,web
+2019-11-01 2019-12-01,Sakha Republic,,навальный,RU,web
+2019-11-01 2019-12-01,Sakhalin Oblast,,навальный,RU,web
+2019-11-01 2019-12-01,North Ossetia–Alania,,навальный,RU,web
+2019-11-01 2019-12-01,Tuva,,навальный,RU,web
+2019-11-01 2019-12-01,Yamalo-Nenets Autonomous Okrug,,навальный,RU,web
+2019-11-01 2019-12-01,Zabaykalsky Krai,,навальный,RU,web
+2019-12-01 2020-01-01,Kurgan Oblast,100,навальный,RU,web
+2019-12-01 2020-01-01,Ivanovo Oblast,57,навальный,RU,web
+2019-12-01 2020-01-01,Kamchatka Krai,55,навальный,RU,web
+2019-12-01 2020-01-01,Tambov Oblast,53,навальный,RU,web
+2019-12-01 2020-01-01,Chuvashia Republic,52,навальный,RU,web
+2019-12-01 2020-01-01,Mordovia,51,навальный,RU,web
+2019-12-01 2020-01-01,Kalmykia,47,навальный,RU,web
+2019-12-01 2020-01-01,Republic of Khakassia,44,навальный,RU,web
+2019-12-01 2020-01-01,Murmansk Oblast,44,навальный,RU,web
+2019-12-01 2020-01-01,Republic of Karelia,42,навальный,RU,web
+2019-12-01 2020-01-01,Vladimir Oblast,42,навальный,RU,web
+2019-12-01 2020-01-01,Chechnya,40,навальный,RU,web
+2019-12-01 2020-01-01,Moscow,39,навальный,RU,web
+2019-12-01 2020-01-01,Saint Petersburg,38,навальный,RU,web
+2019-12-01 2020-01-01,Yamalo-Nenets Autonomous Okrug,38,навальный,RU,web
+2019-12-01 2020-01-01,Kaliningrad Oblast,38,навальный,RU,web
+2019-12-01 2020-01-01,Kursk Oblast,37,навальный,RU,web
+2019-12-01 2020-01-01,Smolensk Oblast,36,навальный,RU,web
+2019-12-01 2020-01-01,Samara Oblast,36,навальный,RU,web
+2019-12-01 2020-01-01,Kostroma Oblast,36,навальный,RU,web
+2019-12-01 2020-01-01,Yaroslavl Oblast,34,навальный,RU,web
+2019-12-01 2020-01-01,Oryol Oblast,34,навальный,RU,web
+2019-12-01 2020-01-01,Voronezh Oblast,31,навальный,RU,web
+2019-12-01 2020-01-01,Mari El Republic,31,навальный,RU,web
+2019-12-01 2020-01-01,Astrakhan Oblast,31,навальный,RU,web
+2019-12-01 2020-01-01,Saratov Oblast,30,навальный,RU,web
+2019-12-01 2020-01-01,Sakhalin Oblast,29,навальный,RU,web
+2019-12-01 2020-01-01,Leningrad Oblast,29,навальный,RU,web
+2019-12-01 2020-01-01,Primorsky Krai,28,навальный,RU,web
+2019-12-01 2020-01-01,Omsk Oblast,27,навальный,RU,web
+2019-12-01 2020-01-01,Sverdlovsk Oblast,27,навальный,RU,web
+2019-12-01 2020-01-01,Tatarstan,26,навальный,RU,web
+2019-12-01 2020-01-01,Moscow Oblast,25,навальный,RU,web
+2019-12-01 2020-01-01,Bryansk Oblast,24,навальный,RU,web
+2019-12-01 2020-01-01,Zabaykalsky Krai,24,навальный,RU,web
+2019-12-01 2020-01-01,Udmurt Republic,24,навальный,RU,web
+2019-12-01 2020-01-01,Nizhny Novgorod Oblast,23,навальный,RU,web
+2019-12-01 2020-01-01,Khabarovsk Krai,22,навальный,RU,web
+2019-12-01 2020-01-01,Ryazan Oblast,20,навальный,RU,web
+2019-12-01 2020-01-01,Arkhangelsk Oblast,20,навальный,RU,web
+2019-12-01 2020-01-01,Chelyabinsk Oblast,20,навальный,RU,web
+2019-12-01 2020-01-01,Altai Krai,20,навальный,RU,web
+2019-12-01 2020-01-01,Perm Krai,19,навальный,RU,web
+2019-12-01 2020-01-01,Amur Oblast,19,навальный,RU,web
+2019-12-01 2020-01-01,Volgograd Oblast,19,навальный,RU,web
+2019-12-01 2020-01-01,Kemerovo Oblast,19,навальный,RU,web
+2019-12-01 2020-01-01,Orenburg Oblast,18,навальный,RU,web
+2019-12-01 2020-01-01,Rostov Oblast,18,навальный,RU,web
+2019-12-01 2020-01-01,Pskov Oblast,17,навальный,RU,web
+2019-12-01 2020-01-01,Ulyanovsk Oblast,17,навальный,RU,web
+2019-12-01 2020-01-01,Krasnodar Krai,17,навальный,RU,web
+2019-12-01 2020-01-01,Irkutsk Oblast,16,навальный,RU,web
+2019-12-01 2020-01-01,Krasnoyarsk Krai,16,навальный,RU,web
+2019-12-01 2020-01-01,Dagestan Republic,16,навальный,RU,web
+2019-12-01 2020-01-01,Tver Oblast,16,навальный,RU,web
+2019-12-01 2020-01-01,Tyumen Oblast,15,навальный,RU,web
+2019-12-01 2020-01-01,Sakha Republic,15,навальный,RU,web
+2019-12-01 2020-01-01,Novosibirsk Oblast,12,навальный,RU,web
+2019-12-01 2020-01-01,Tomsk Oblast,12,навальный,RU,web
+2019-12-01 2020-01-01,Komi Republic,11,навальный,RU,web
+2019-12-01 2020-01-01,Penza Oblast,11,навальный,RU,web
+2019-12-01 2020-01-01,Lipetsk Oblast,10,навальный,RU,web
+2019-12-01 2020-01-01,Kaluga Oblast,10,навальный,RU,web
+2019-12-01 2020-01-01,Kirov Oblast,9,навальный,RU,web
+2019-12-01 2020-01-01,Belgorod Oblast,8,навальный,RU,web
+2019-12-01 2020-01-01,Stavropol Krai,7,навальный,RU,web
+2019-12-01 2020-01-01,Khanty-Mansi Autonomous Okrug,5,навальный,RU,web
+2019-12-01 2020-01-01,Republic of Bashkortostan,4,навальный,RU,web
+2019-12-01 2020-01-01,Adygea,,навальный,RU,web
+2019-12-01 2020-01-01,Altai Republic,,навальный,RU,web
+2019-12-01 2020-01-01,Buryatia,,навальный,RU,web
+2019-12-01 2020-01-01,Chukotka Autonomous Okrug,,навальный,RU,web
+2019-12-01 2020-01-01,Ingushetia,,навальный,RU,web
+2019-12-01 2020-01-01,Kabardino-Balkaria,,навальный,RU,web
+2019-12-01 2020-01-01,Karachay-Cherkessia,,навальный,RU,web
+2019-12-01 2020-01-01,Magadan Oblast,,навальный,RU,web
+2019-12-01 2020-01-01,Nenets Autonomous Okrug,,навальный,RU,web
+2019-12-01 2020-01-01,Novgorod Oblast,,навальный,RU,web
+2019-12-01 2020-01-01,North Ossetia–Alania,,навальный,RU,web
+2019-12-01 2020-01-01,Tula Oblast,,навальный,RU,web
+2019-12-01 2020-01-01,Tuva,,навальный,RU,web
+2019-12-01 2020-01-01,Vologda Oblast,,навальный,RU,web
+2019-12-01 2020-01-01,Jewish Autonomous Oblast,,навальный,RU,web
+2020-01-01 2020-02-01,Kaliningrad Oblast,100,навальный,RU,web
+2020-01-01 2020-02-01,Mari El Republic,84,навальный,RU,web
+2020-01-01 2020-02-01,Kirov Oblast,79,навальный,RU,web
+2020-01-01 2020-02-01,Leningrad Oblast,68,навальный,RU,web
+2020-01-01 2020-02-01,Smolensk Oblast,66,навальный,RU,web
+2020-01-01 2020-02-01,Voronezh Oblast,65,навальный,RU,web
+2020-01-01 2020-02-01,Bryansk Oblast,65,навальный,RU,web
+2020-01-01 2020-02-01,Ivanovo Oblast,64,навальный,RU,web
+2020-01-01 2020-02-01,Kostroma Oblast,64,навальный,RU,web
+2020-01-01 2020-02-01,Moscow,62,навальный,RU,web
+2020-01-01 2020-02-01,Kurgan Oblast,59,навальный,RU,web
+2020-01-01 2020-02-01,Nizhny Novgorod Oblast,59,навальный,RU,web
+2020-01-01 2020-02-01,Murmansk Oblast,58,навальный,RU,web
+2020-01-01 2020-02-01,Saint Petersburg,55,навальный,RU,web
+2020-01-01 2020-02-01,Moscow Oblast,53,навальный,RU,web
+2020-01-01 2020-02-01,Sverdlovsk Oblast,53,навальный,RU,web
+2020-01-01 2020-02-01,Irkutsk Oblast,52,навальный,RU,web
+2020-01-01 2020-02-01,Tula Oblast,50,навальный,RU,web
+2020-01-01 2020-02-01,Tatarstan,50,навальный,RU,web
+2020-01-01 2020-02-01,Khanty-Mansi Autonomous Okrug,50,навальный,RU,web
+2020-01-01 2020-02-01,Vologda Oblast,50,навальный,RU,web
+2020-01-01 2020-02-01,Tambov Oblast,48,навальный,RU,web
+2020-01-01 2020-02-01,Novosibirsk Oblast,44,навальный,RU,web
+2020-01-01 2020-02-01,Tver Oblast,44,навальный,RU,web
+2020-01-01 2020-02-01,Samara Oblast,43,навальный,RU,web
+2020-01-01 2020-02-01,Perm Krai,43,навальный,RU,web
+2020-01-01 2020-02-01,Buryatia,40,навальный,RU,web
+2020-01-01 2020-02-01,Saratov Oblast,39,навальный,RU,web
+2020-01-01 2020-02-01,Astrakhan Oblast,38,навальный,RU,web
+2020-01-01 2020-02-01,Amur Oblast,38,навальный,RU,web
+2020-01-01 2020-02-01,Ryazan Oblast,37,навальный,RU,web
+2020-01-01 2020-02-01,Tomsk Oblast,35,навальный,RU,web
+2020-01-01 2020-02-01,Kaluga Oblast,35,навальный,RU,web
+2020-01-01 2020-02-01,Kemerovo Oblast,35,навальный,RU,web
+2020-01-01 2020-02-01,Adygea,34,навальный,RU,web
+2020-01-01 2020-02-01,Omsk Oblast,34,навальный,RU,web
+2020-01-01 2020-02-01,Kabardino-Balkaria,34,навальный,RU,web
+2020-01-01 2020-02-01,Novgorod Oblast,33,навальный,RU,web
+2020-01-01 2020-02-01,Orenburg Oblast,33,навальный,RU,web
+2020-01-01 2020-02-01,Mordovia,32,навальный,RU,web
+2020-01-01 2020-02-01,Chuvashia Republic,32,навальный,RU,web
+2020-01-01 2020-02-01,Oryol Oblast,31,навальный,RU,web
+2020-01-01 2020-02-01,Rostov Oblast,30,навальный,RU,web
+2020-01-01 2020-02-01,Khabarovsk Krai,29,навальный,RU,web
+2020-01-01 2020-02-01,North Ossetia–Alania,29,навальный,RU,web
+2020-01-01 2020-02-01,Belgorod Oblast,28,навальный,RU,web
+2020-01-01 2020-02-01,Tyumen Oblast,28,навальный,RU,web
+2020-01-01 2020-02-01,Sakhalin Oblast,27,навальный,RU,web
+2020-01-01 2020-02-01,Stavropol Krai,26,навальный,RU,web
+2020-01-01 2020-02-01,Yaroslavl Oblast,26,навальный,RU,web
+2020-01-01 2020-02-01,Chelyabinsk Oblast,26,навальный,RU,web
+2020-01-01 2020-02-01,Republic of Karelia,26,навальный,RU,web
+2020-01-01 2020-02-01,Krasnodar Krai,26,навальный,RU,web
+2020-01-01 2020-02-01,Primorsky Krai,25,навальный,RU,web
+2020-01-01 2020-02-01,Yamalo-Nenets Autonomous Okrug,24,навальный,RU,web
+2020-01-01 2020-02-01,Altai Krai,22,навальный,RU,web
+2020-01-01 2020-02-01,Penza Oblast,19,навальный,RU,web
+2020-01-01 2020-02-01,Chechnya,18,навальный,RU,web
+2020-01-01 2020-02-01,Lipetsk Oblast,18,навальный,RU,web
+2020-01-01 2020-02-01,Ulyanovsk Oblast,16,навальный,RU,web
+2020-01-01 2020-02-01,Vladimir Oblast,15,навальный,RU,web
+2020-01-01 2020-02-01,Krasnoyarsk Krai,15,навальный,RU,web
+2020-01-01 2020-02-01,Republic of Bashkortostan,15,навальный,RU,web
+2020-01-01 2020-02-01,Sakha Republic,14,навальный,RU,web
+2020-01-01 2020-02-01,Dagestan Republic,10,навальный,RU,web
+2020-01-01 2020-02-01,Volgograd Oblast,9,навальный,RU,web
+2020-01-01 2020-02-01,Altai Republic,,навальный,RU,web
+2020-01-01 2020-02-01,Arkhangelsk Oblast,,навальный,RU,web
+2020-01-01 2020-02-01,Chukotka Autonomous Okrug,,навальный,RU,web
+2020-01-01 2020-02-01,Ingushetia,,навальный,RU,web
+2020-01-01 2020-02-01,Kamchatka Krai,,навальный,RU,web
+2020-01-01 2020-02-01,Karachay-Cherkessia,,навальный,RU,web
+2020-01-01 2020-02-01,Republic of Khakassia,,навальный,RU,web
+2020-01-01 2020-02-01,Kalmykia,,навальный,RU,web
+2020-01-01 2020-02-01,Komi Republic,,навальный,RU,web
+2020-01-01 2020-02-01,Kursk Oblast,,навальный,RU,web
+2020-01-01 2020-02-01,Magadan Oblast,,навальный,RU,web
+2020-01-01 2020-02-01,Nenets Autonomous Okrug,,навальный,RU,web
+2020-01-01 2020-02-01,Pskov Oblast,,навальный,RU,web
+2020-01-01 2020-02-01,Tuva,,навальный,RU,web
+2020-01-01 2020-02-01,Udmurt Republic,,навальный,RU,web
+2020-01-01 2020-02-01,Jewish Autonomous Oblast,,навальный,RU,web
+2020-01-01 2020-02-01,Zabaykalsky Krai,,навальный,RU,web
+2020-02-01 2020-03-01,Jewish Autonomous Oblast,100,навальный,RU,web
+2020-02-01 2020-03-01,Kaluga Oblast,80,навальный,RU,web
+2020-02-01 2020-03-01,Kostroma Oblast,59,навальный,RU,web
+2020-02-01 2020-03-01,Komi Republic,56,навальный,RU,web
+2020-02-01 2020-03-01,Penza Oblast,52,навальный,RU,web
+2020-02-01 2020-03-01,Omsk Oblast,52,навальный,RU,web
+2020-02-01 2020-03-01,Astrakhan Oblast,49,навальный,RU,web
+2020-02-01 2020-03-01,Mari El Republic,49,навальный,RU,web
+2020-02-01 2020-03-01,Kamchatka Krai,46,навальный,RU,web
+2020-02-01 2020-03-01,Khabarovsk Krai,44,навальный,RU,web
+2020-02-01 2020-03-01,Moscow,44,навальный,RU,web
+2020-02-01 2020-03-01,Tambov Oblast,43,навальный,RU,web
+2020-02-01 2020-03-01,Zabaykalsky Krai,40,навальный,RU,web
+2020-02-01 2020-03-01,Saint Petersburg,40,навальный,RU,web
+2020-02-01 2020-03-01,Orenburg Oblast,38,навальный,RU,web
+2020-02-01 2020-03-01,Perm Krai,37,навальный,RU,web
+2020-02-01 2020-03-01,Republic of Khakassia,36,навальный,RU,web
+2020-02-01 2020-03-01,Stavropol Krai,35,навальный,RU,web
+2020-02-01 2020-03-01,Nizhny Novgorod Oblast,35,навальный,RU,web
+2020-02-01 2020-03-01,Sverdlovsk Oblast,35,навальный,RU,web
+2020-02-01 2020-03-01,Moscow Oblast,35,навальный,RU,web
+2020-02-01 2020-03-01,Leningrad Oblast,34,навальный,RU,web
+2020-02-01 2020-03-01,Irkutsk Oblast,34,навальный,RU,web
+2020-02-01 2020-03-01,Tyumen Oblast,32,навальный,RU,web
+2020-02-01 2020-03-01,Arkhangelsk Oblast,32,навальный,RU,web
+2020-02-01 2020-03-01,Primorsky Krai,31,навальный,RU,web
+2020-02-01 2020-03-01,Samara Oblast,31,навальный,RU,web
+2020-02-01 2020-03-01,Lipetsk Oblast,31,навальный,RU,web
+2020-02-01 2020-03-01,Adygea,31,навальный,RU,web
+2020-02-01 2020-03-01,Tatarstan,30,навальный,RU,web
+2020-02-01 2020-03-01,Tomsk Oblast,30,навальный,RU,web
+2020-02-01 2020-03-01,Udmurt Republic,29,навальный,RU,web
+2020-02-01 2020-03-01,Novosibirsk Oblast,29,навальный,RU,web
+2020-02-01 2020-03-01,Mordovia,28,навальный,RU,web
+2020-02-01 2020-03-01,Vladimir Oblast,27,навальный,RU,web
+2020-02-01 2020-03-01,Ulyanovsk Oblast,27,навальный,RU,web
+2020-02-01 2020-03-01,Krasnoyarsk Krai,27,навальный,RU,web
+2020-02-01 2020-03-01,Saratov Oblast,26,навальный,RU,web
+2020-02-01 2020-03-01,Kurgan Oblast,26,навальный,RU,web
+2020-02-01 2020-03-01,Chuvashia Republic,25,навальный,RU,web
+2020-02-01 2020-03-01,Belgorod Oblast,25,навальный,RU,web
+2020-02-01 2020-03-01,Kemerovo Oblast,24,навальный,RU,web
+2020-02-01 2020-03-01,Volgograd Oblast,23,навальный,RU,web
+2020-02-01 2020-03-01,Republic of Karelia,23,навальный,RU,web
+2020-02-01 2020-03-01,Khanty-Mansi Autonomous Okrug,22,навальный,RU,web
+2020-02-01 2020-03-01,Yaroslavl Oblast,22,навальный,RU,web
+2020-02-01 2020-03-01,Republic of Bashkortostan,22,навальный,RU,web
+2020-02-01 2020-03-01,Rostov Oblast,22,навальный,RU,web
+2020-02-01 2020-03-01,Yamalo-Nenets Autonomous Okrug,20,навальный,RU,web
+2020-02-01 2020-03-01,Smolensk Oblast,20,навальный,RU,web
+2020-02-01 2020-03-01,Krasnodar Krai,20,навальный,RU,web
+2020-02-01 2020-03-01,Chelyabinsk Oblast,19,навальный,RU,web
+2020-02-01 2020-03-01,Altai Krai,19,навальный,RU,web
+2020-02-01 2020-03-01,Ivanovo Oblast,19,навальный,RU,web
+2020-02-01 2020-03-01,Murmansk Oblast,18,навальный,RU,web
+2020-02-01 2020-03-01,Kaliningrad Oblast,18,навальный,RU,web
+2020-02-01 2020-03-01,Chechnya,16,навальный,RU,web
+2020-02-01 2020-03-01,Vologda Oblast,15,навальный,RU,web
+2020-02-01 2020-03-01,Kirov Oblast,14,навальный,RU,web
+2020-02-01 2020-03-01,Tver Oblast,13,навальный,RU,web
+2020-02-01 2020-03-01,Tula Oblast,11,навальный,RU,web
+2020-02-01 2020-03-01,Voronezh Oblast,6,навальный,RU,web
+2020-02-01 2020-03-01,Altai Republic,,навальный,RU,web
+2020-02-01 2020-03-01,Amur Oblast,,навальный,RU,web
+2020-02-01 2020-03-01,Bryansk Oblast,,навальный,RU,web
+2020-02-01 2020-03-01,Buryatia,,навальный,RU,web
+2020-02-01 2020-03-01,Chukotka Autonomous Okrug,,навальный,RU,web
+2020-02-01 2020-03-01,Dagestan Republic,,навальный,RU,web
+2020-02-01 2020-03-01,Ingushetia,,навальный,RU,web
+2020-02-01 2020-03-01,Kabardino-Balkaria,,навальный,RU,web
+2020-02-01 2020-03-01,Karachay-Cherkessia,,навальный,RU,web
+2020-02-01 2020-03-01,Kalmykia,,навальный,RU,web
+2020-02-01 2020-03-01,Kursk Oblast,,навальный,RU,web
+2020-02-01 2020-03-01,Magadan Oblast,,навальный,RU,web
+2020-02-01 2020-03-01,Nenets Autonomous Okrug,,навальный,RU,web
+2020-02-01 2020-03-01,Novgorod Oblast,,навальный,RU,web
+2020-02-01 2020-03-01,Oryol Oblast,,навальный,RU,web
+2020-02-01 2020-03-01,Pskov Oblast,,навальный,RU,web
+2020-02-01 2020-03-01,Ryazan Oblast,,навальный,RU,web
+2020-02-01 2020-03-01,Sakha Republic,,навальный,RU,web
+2020-02-01 2020-03-01,Sakhalin Oblast,,навальный,RU,web
+2020-02-01 2020-03-01,North Ossetia–Alania,,навальный,RU,web
+2020-02-01 2020-03-01,Tuva,,навальный,RU,web
+2020-03-01 2020-04-01,Kaliningrad Oblast,100,навальный,RU,web
+2020-03-01 2020-04-01,Pskov Oblast,97,навальный,RU,web
+2020-03-01 2020-04-01,Oryol Oblast,95,навальный,RU,web
+2020-03-01 2020-04-01,Jewish Autonomous Oblast,86,навальный,RU,web
+2020-03-01 2020-04-01,Magadan Oblast,77,навальный,RU,web
+2020-03-01 2020-04-01,Tambov Oblast,75,навальный,RU,web
+2020-03-01 2020-04-01,Yamalo-Nenets Autonomous Okrug,72,навальный,RU,web
+2020-03-01 2020-04-01,Kaluga Oblast,68,навальный,RU,web
+2020-03-01 2020-04-01,Leningrad Oblast,67,навальный,RU,web
+2020-03-01 2020-04-01,Moscow,67,навальный,RU,web
+2020-03-01 2020-04-01,Moscow Oblast,66,навальный,RU,web
+2020-03-01 2020-04-01,Lipetsk Oblast,64,навальный,RU,web
+2020-03-01 2020-04-01,Ivanovo Oblast,63,навальный,RU,web
+2020-03-01 2020-04-01,Republic of Khakassia,63,навальный,RU,web
+2020-03-01 2020-04-01,Khabarovsk Krai,62,навальный,RU,web
+2020-03-01 2020-04-01,Sakhalin Oblast,61,навальный,RU,web
+2020-03-01 2020-04-01,Saint Petersburg,61,навальный,RU,web
+2020-03-01 2020-04-01,Chuvashia Republic,60,навальный,RU,web
+2020-03-01 2020-04-01,Tatarstan,57,навальный,RU,web
+2020-03-01 2020-04-01,Zabaykalsky Krai,53,навальный,RU,web
+2020-03-01 2020-04-01,Novgorod Oblast,53,навальный,RU,web
+2020-03-01 2020-04-01,Bryansk Oblast,50,навальный,RU,web
+2020-03-01 2020-04-01,Kostroma Oblast,50,навальный,RU,web
+2020-03-01 2020-04-01,Kemerovo Oblast,47,навальный,RU,web
+2020-03-01 2020-04-01,Nizhny Novgorod Oblast,46,навальный,RU,web
+2020-03-01 2020-04-01,Murmansk Oblast,46,навальный,RU,web
+2020-03-01 2020-04-01,Chelyabinsk Oblast,45,навальный,RU,web
+2020-03-01 2020-04-01,Perm Krai,43,навальный,RU,web
+2020-03-01 2020-04-01,Novosibirsk Oblast,42,навальный,RU,web
+2020-03-01 2020-04-01,Samara Oblast,41,навальный,RU,web
+2020-03-01 2020-04-01,Rostov Oblast,41,навальный,RU,web
+2020-03-01 2020-04-01,Republic of Karelia,41,навальный,RU,web
+2020-03-01 2020-04-01,Kamchatka Krai,40,навальный,RU,web
+2020-03-01 2020-04-01,Sverdlovsk Oblast,38,навальный,RU,web
+2020-03-01 2020-04-01,Kursk Oblast,35,навальный,RU,web
+2020-03-01 2020-04-01,Krasnodar Krai,35,навальный,RU,web
+2020-03-01 2020-04-01,Kirov Oblast,35,навальный,RU,web
+2020-03-01 2020-04-01,Voronezh Oblast,34,навальный,RU,web
+2020-03-01 2020-04-01,Udmurt Republic,33,навальный,RU,web
+2020-03-01 2020-04-01,Tomsk Oblast,33,навальный,RU,web
+2020-03-01 2020-04-01,Belgorod Oblast,32,навальный,RU,web
+2020-03-01 2020-04-01,Sakha Republic,32,навальный,RU,web
+2020-03-01 2020-04-01,Krasnoyarsk Krai,32,навальный,RU,web
+2020-03-01 2020-04-01,Buryatia,31,навальный,RU,web
+2020-03-01 2020-04-01,Stavropol Krai,31,навальный,RU,web
+2020-03-01 2020-04-01,Primorsky Krai,30,навальный,RU,web
+2020-03-01 2020-04-01,Tula Oblast,30,навальный,RU,web
+2020-03-01 2020-04-01,Astrakhan Oblast,30,навальный,RU,web
+2020-03-01 2020-04-01,Amur Oblast,29,навальный,RU,web
+2020-03-01 2020-04-01,Ryazan Oblast,28,навальный,RU,web
+2020-03-01 2020-04-01,Arkhangelsk Oblast,28,навальный,RU,web
+2020-03-01 2020-04-01,Adygea,27,навальный,RU,web
+2020-03-01 2020-04-01,Altai Krai,27,навальный,RU,web
+2020-03-01 2020-04-01,Irkutsk Oblast,27,навальный,RU,web
+2020-03-01 2020-04-01,Kabardino-Balkaria,26,навальный,RU,web
+2020-03-01 2020-04-01,Chechnya,26,навальный,RU,web
+2020-03-01 2020-04-01,Omsk Oblast,26,навальный,RU,web
+2020-03-01 2020-04-01,Khanty-Mansi Autonomous Okrug,26,навальный,RU,web
+2020-03-01 2020-04-01,Mordovia,25,навальный,RU,web
+2020-03-01 2020-04-01,North Ossetia–Alania,23,навальный,RU,web
+2020-03-01 2020-04-01,Vladimir Oblast,23,навальный,RU,web
+2020-03-01 2020-04-01,Dagestan Republic,23,навальный,RU,web
+2020-03-01 2020-04-01,Kurgan Oblast,23,навальный,RU,web
+2020-03-01 2020-04-01,Mari El Republic,21,навальный,RU,web
+2020-03-01 2020-04-01,Yaroslavl Oblast,19,навальный,RU,web
+2020-03-01 2020-04-01,Saratov Oblast,17,навальный,RU,web
+2020-03-01 2020-04-01,Smolensk Oblast,17,навальный,RU,web
+2020-03-01 2020-04-01,Republic of Bashkortostan,16,навальный,RU,web
+2020-03-01 2020-04-01,Komi Republic,16,навальный,RU,web
+2020-03-01 2020-04-01,Penza Oblast,15,навальный,RU,web
+2020-03-01 2020-04-01,Tyumen Oblast,14,навальный,RU,web
+2020-03-01 2020-04-01,Volgograd Oblast,14,навальный,RU,web
+2020-03-01 2020-04-01,Vologda Oblast,13,навальный,RU,web
+2020-03-01 2020-04-01,Ulyanovsk Oblast,11,навальный,RU,web
+2020-03-01 2020-04-01,Tver Oblast,11,навальный,RU,web
+2020-03-01 2020-04-01,Orenburg Oblast,8,навальный,RU,web
+2020-03-01 2020-04-01,Altai Republic,,навальный,RU,web
+2020-03-01 2020-04-01,Chukotka Autonomous Okrug,,навальный,RU,web
+2020-03-01 2020-04-01,Ingushetia,,навальный,RU,web
+2020-03-01 2020-04-01,Karachay-Cherkessia,,навальный,RU,web
+2020-03-01 2020-04-01,Kalmykia,,навальный,RU,web
+2020-03-01 2020-04-01,Nenets Autonomous Okrug,,навальный,RU,web
+2020-03-01 2020-04-01,Tuva,,навальный,RU,web
+2020-04-01 2020-05-01,Magadan Oblast,100,навальный,RU,web
+2020-04-01 2020-05-01,Kaliningrad Oblast,67,навальный,RU,web
+2020-04-01 2020-05-01,Kaluga Oblast,56,навальный,RU,web
+2020-04-01 2020-05-01,Mari El Republic,52,навальный,RU,web
+2020-04-01 2020-05-01,Moscow,50,навальный,RU,web
+2020-04-01 2020-05-01,Ingushetia,49,навальный,RU,web
+2020-04-01 2020-05-01,Volgograd Oblast,49,навальный,RU,web
+2020-04-01 2020-05-01,Tver Oblast,47,навальный,RU,web
+2020-04-01 2020-05-01,Republic of Karelia,44,навальный,RU,web
+2020-04-01 2020-05-01,Pskov Oblast,43,навальный,RU,web
+2020-04-01 2020-05-01,Orenburg Oblast,43,навальный,RU,web
+2020-04-01 2020-05-01,Republic of Khakassia,42,навальный,RU,web
+2020-04-01 2020-05-01,Perm Krai,41,навальный,RU,web
+2020-04-01 2020-05-01,Leningrad Oblast,40,навальный,RU,web
+2020-04-01 2020-05-01,Astrakhan Oblast,37,навальный,RU,web
+2020-04-01 2020-05-01,Saint Petersburg,36,навальный,RU,web
+2020-04-01 2020-05-01,Moscow Oblast,36,навальный,RU,web
+2020-04-01 2020-05-01,Komi Republic,35,навальный,RU,web
+2020-04-01 2020-05-01,Sverdlovsk Oblast,34,навальный,RU,web
+2020-04-01 2020-05-01,Novgorod Oblast,34,навальный,RU,web
+2020-04-01 2020-05-01,Vladimir Oblast,33,навальный,RU,web
+2020-04-01 2020-05-01,Novosibirsk Oblast,33,навальный,RU,web
+2020-04-01 2020-05-01,Irkutsk Oblast,31,навальный,RU,web
+2020-04-01 2020-05-01,Oryol Oblast,31,навальный,RU,web
+2020-04-01 2020-05-01,Kirov Oblast,31,навальный,RU,web
+2020-04-01 2020-05-01,Kemerovo Oblast,30,навальный,RU,web
+2020-04-01 2020-05-01,Kursk Oblast,30,навальный,RU,web
+2020-04-01 2020-05-01,Samara Oblast,30,навальный,RU,web
+2020-04-01 2020-05-01,Smolensk Oblast,30,навальный,RU,web
+2020-04-01 2020-05-01,Kostroma Oblast,30,навальный,RU,web
+2020-04-01 2020-05-01,Tomsk Oblast,30,навальный,RU,web
+2020-04-01 2020-05-01,Chuvashia Republic,30,навальный,RU,web
+2020-04-01 2020-05-01,Arkhangelsk Oblast,29,навальный,RU,web
+2020-04-01 2020-05-01,Zabaykalsky Krai,29,навальный,RU,web
+2020-04-01 2020-05-01,Republic of Bashkortostan,29,навальный,RU,web
+2020-04-01 2020-05-01,Tatarstan,29,навальный,RU,web
+2020-04-01 2020-05-01,Altai Krai,29,навальный,RU,web
+2020-04-01 2020-05-01,Krasnodar Krai,28,навальный,RU,web
+2020-04-01 2020-05-01,Bryansk Oblast,28,навальный,RU,web
+2020-04-01 2020-05-01,Ivanovo Oblast,28,навальный,RU,web
+2020-04-01 2020-05-01,Vologda Oblast,28,навальный,RU,web
+2020-04-01 2020-05-01,Karachay-Cherkessia,28,навальный,RU,web
+2020-04-01 2020-05-01,Rostov Oblast,27,навальный,RU,web
+2020-04-01 2020-05-01,Murmansk Oblast,27,навальный,RU,web
+2020-04-01 2020-05-01,Udmurt Republic,26,навальный,RU,web
+2020-04-01 2020-05-01,Nizhny Novgorod Oblast,26,навальный,RU,web
+2020-04-01 2020-05-01,Kalmykia,26,навальный,RU,web
+2020-04-01 2020-05-01,Chelyabinsk Oblast,26,навальный,RU,web
+2020-04-01 2020-05-01,Amur Oblast,25,навальный,RU,web
+2020-04-01 2020-05-01,Ryazan Oblast,24,навальный,RU,web
+2020-04-01 2020-05-01,Tambov Oblast,24,навальный,RU,web
+2020-04-01 2020-05-01,Saratov Oblast,23,навальный,RU,web
+2020-04-01 2020-05-01,Primorsky Krai,23,навальный,RU,web
+2020-04-01 2020-05-01,Krasnoyarsk Krai,22,навальный,RU,web
+2020-04-01 2020-05-01,Stavropol Krai,21,навальный,RU,web
+2020-04-01 2020-05-01,Dagestan Republic,21,навальный,RU,web
+2020-04-01 2020-05-01,Yaroslavl Oblast,21,навальный,RU,web
+2020-04-01 2020-05-01,Voronezh Oblast,21,навальный,RU,web
+2020-04-01 2020-05-01,Buryatia,19,навальный,RU,web
+2020-04-01 2020-05-01,Penza Oblast,19,навальный,RU,web
+2020-04-01 2020-05-01,Belgorod Oblast,18,навальный,RU,web
+2020-04-01 2020-05-01,Lipetsk Oblast,18,навальный,RU,web
+2020-04-01 2020-05-01,Khabarovsk Krai,17,навальный,RU,web
+2020-04-01 2020-05-01,Omsk Oblast,17,навальный,RU,web
+2020-04-01 2020-05-01,Tula Oblast,17,навальный,RU,web
+2020-04-01 2020-05-01,Tyumen Oblast,16,навальный,RU,web
+2020-04-01 2020-05-01,Yamalo-Nenets Autonomous Okrug,16,навальный,RU,web
+2020-04-01 2020-05-01,Ulyanovsk Oblast,15,навальный,RU,web
+2020-04-01 2020-05-01,Adygea,12,навальный,RU,web
+2020-04-01 2020-05-01,Kabardino-Balkaria,11,навальный,RU,web
+2020-04-01 2020-05-01,Mordovia,10,навальный,RU,web
+2020-04-01 2020-05-01,North Ossetia–Alania,10,навальный,RU,web
+2020-04-01 2020-05-01,Kurgan Oblast,10,навальный,RU,web
+2020-04-01 2020-05-01,Sakhalin Oblast,9,навальный,RU,web
+2020-04-01 2020-05-01,Chechnya,6,навальный,RU,web
+2020-04-01 2020-05-01,Khanty-Mansi Autonomous Okrug,6,навальный,RU,web
+2020-04-01 2020-05-01,Sakha Republic,4,навальный,RU,web
+2020-04-01 2020-05-01,Altai Republic,,навальный,RU,web
+2020-04-01 2020-05-01,Chukotka Autonomous Okrug,,навальный,RU,web
+2020-04-01 2020-05-01,Kamchatka Krai,,навальный,RU,web
+2020-04-01 2020-05-01,Nenets Autonomous Okrug,,навальный,RU,web
+2020-04-01 2020-05-01,Tuva,,навальный,RU,web
+2020-04-01 2020-05-01,Jewish Autonomous Oblast,,навальный,RU,web
+2020-05-01 2020-06-01,Mordovia,100,навальный,RU,web
+2020-05-01 2020-06-01,Jewish Autonomous Oblast,79,навальный,RU,web
+2020-05-01 2020-06-01,Kamchatka Krai,72,навальный,RU,web
+2020-05-01 2020-06-01,Smolensk Oblast,54,навальный,RU,web
+2020-05-01 2020-06-01,Kalmykia,52,навальный,RU,web
+2020-05-01 2020-06-01,Ingushetia,51,навальный,RU,web
+2020-05-01 2020-06-01,Moscow,47,навальный,RU,web
+2020-05-01 2020-06-01,Saint Petersburg,43,навальный,RU,web
+2020-05-01 2020-06-01,Kirov Oblast,42,навальный,RU,web
+2020-05-01 2020-06-01,Bryansk Oblast,42,навальный,RU,web
+2020-05-01 2020-06-01,Tyumen Oblast,41,навальный,RU,web
+2020-05-01 2020-06-01,Murmansk Oblast,40,навальный,RU,web
+2020-05-01 2020-06-01,Oryol Oblast,40,навальный,RU,web
+2020-05-01 2020-06-01,Nizhny Novgorod Oblast,39,навальный,RU,web
+2020-05-01 2020-06-01,Yaroslavl Oblast,38,навальный,RU,web
+2020-05-01 2020-06-01,Moscow Oblast,36,навальный,RU,web
+2020-05-01 2020-06-01,Kabardino-Balkaria,34,навальный,RU,web
+2020-05-01 2020-06-01,Chuvashia Republic,33,навальный,RU,web
+2020-05-01 2020-06-01,Kurgan Oblast,31,навальный,RU,web
+2020-05-01 2020-06-01,Kostroma Oblast,31,навальный,RU,web
+2020-05-01 2020-06-01,Ryazan Oblast,30,навальный,RU,web
+2020-05-01 2020-06-01,Saratov Oblast,29,навальный,RU,web
+2020-05-01 2020-06-01,Tver Oblast,28,навальный,RU,web
+2020-05-01 2020-06-01,Karachay-Cherkessia,28,навальный,RU,web
+2020-05-01 2020-06-01,Rostov Oblast,27,навальный,RU,web
+2020-05-01 2020-06-01,Samara Oblast,27,навальный,RU,web
+2020-05-01 2020-06-01,Tomsk Oblast,27,навальный,RU,web
+2020-05-01 2020-06-01,Sakhalin Oblast,27,навальный,RU,web
+2020-05-01 2020-06-01,Voronezh Oblast,27,навальный,RU,web
+2020-05-01 2020-06-01,Leningrad Oblast,26,навальный,RU,web
+2020-05-01 2020-06-01,Perm Krai,26,навальный,RU,web
+2020-05-01 2020-06-01,Astrakhan Oblast,26,навальный,RU,web
+2020-05-01 2020-06-01,Sverdlovsk Oblast,26,навальный,RU,web
+2020-05-01 2020-06-01,Volgograd Oblast,25,навальный,RU,web
+2020-05-01 2020-06-01,Tambov Oblast,25,навальный,RU,web
+2020-05-01 2020-06-01,Novosibirsk Oblast,24,навальный,RU,web
+2020-05-01 2020-06-01,Omsk Oblast,24,навальный,RU,web
+2020-05-01 2020-06-01,Vladimir Oblast,24,навальный,RU,web
+2020-05-01 2020-06-01,Krasnoyarsk Krai,24,навальный,RU,web
+2020-05-01 2020-06-01,Chelyabinsk Oblast,23,навальный,RU,web
+2020-05-01 2020-06-01,Novgorod Oblast,23,навальный,RU,web
+2020-05-01 2020-06-01,Tatarstan,22,навальный,RU,web
+2020-05-01 2020-06-01,Komi Republic,21,навальный,RU,web
+2020-05-01 2020-06-01,Ivanovo Oblast,21,навальный,RU,web
+2020-05-01 2020-06-01,Dagestan Republic,21,навальный,RU,web
+2020-05-01 2020-06-01,Kaliningrad Oblast,21,навальный,RU,web
+2020-05-01 2020-06-01,Buryatia,21,навальный,RU,web
+2020-05-01 2020-06-01,Udmurt Republic,20,навальный,RU,web
+2020-05-01 2020-06-01,North Ossetia–Alania,20,навальный,RU,web
+2020-05-01 2020-06-01,Republic of Bashkortostan,19,навальный,RU,web
+2020-05-01 2020-06-01,Irkutsk Oblast,19,навальный,RU,web
+2020-05-01 2020-06-01,Amur Oblast,19,навальный,RU,web
+2020-05-01 2020-06-01,Mari El Republic,19,навальный,RU,web
+2020-05-01 2020-06-01,Republic of Karelia,19,навальный,RU,web
+2020-05-01 2020-06-01,Lipetsk Oblast,18,навальный,RU,web
+2020-05-01 2020-06-01,Tula Oblast,17,навальный,RU,web
+2020-05-01 2020-06-01,Krasnodar Krai,17,навальный,RU,web
+2020-05-01 2020-06-01,Kaluga Oblast,17,навальный,RU,web
+2020-05-01 2020-06-01,Kemerovo Oblast,17,навальный,RU,web
+2020-05-01 2020-06-01,Yamalo-Nenets Autonomous Okrug,16,навальный,RU,web
+2020-05-01 2020-06-01,Khabarovsk Krai,14,навальный,RU,web
+2020-05-01 2020-06-01,Republic of Khakassia,14,навальный,RU,web
+2020-05-01 2020-06-01,Belgorod Oblast,13,навальный,RU,web
+2020-05-01 2020-06-01,Altai Krai,13,навальный,RU,web
+2020-05-01 2020-06-01,Sakha Republic,13,навальный,RU,web
+2020-05-01 2020-06-01,Vologda Oblast,12,навальный,RU,web
+2020-05-01 2020-06-01,Stavropol Krai,11,навальный,RU,web
+2020-05-01 2020-06-01,Orenburg Oblast,11,навальный,RU,web
+2020-05-01 2020-06-01,Pskov Oblast,11,навальный,RU,web
+2020-05-01 2020-06-01,Primorsky Krai,9,навальный,RU,web
+2020-05-01 2020-06-01,Khanty-Mansi Autonomous Okrug,9,навальный,RU,web
+2020-05-01 2020-06-01,Zabaykalsky Krai,7,навальный,RU,web
+2020-05-01 2020-06-01,Kursk Oblast,7,навальный,RU,web
+2020-05-01 2020-06-01,Penza Oblast,6,навальный,RU,web
+2020-05-01 2020-06-01,Chechnya,6,навальный,RU,web
+2020-05-01 2020-06-01,Adygea,,навальный,RU,web
+2020-05-01 2020-06-01,Altai Republic,,навальный,RU,web
+2020-05-01 2020-06-01,Arkhangelsk Oblast,,навальный,RU,web
+2020-05-01 2020-06-01,Chukotka Autonomous Okrug,,навальный,RU,web
+2020-05-01 2020-06-01,Magadan Oblast,,навальный,RU,web
+2020-05-01 2020-06-01,Nenets Autonomous Okrug,,навальный,RU,web
+2020-05-01 2020-06-01,Tuva,,навальный,RU,web
+2020-05-01 2020-06-01,Ulyanovsk Oblast,,навальный,RU,web
+2020-06-01 2020-07-01,Magadan Oblast,100,навальный,RU,web
+2020-06-01 2020-07-01,Kalmykia,77,навальный,RU,web
+2020-06-01 2020-07-01,Adygea,68,навальный,RU,web
+2020-06-01 2020-07-01,Moscow,61,навальный,RU,web
+2020-06-01 2020-07-01,Sakhalin Oblast,61,навальный,RU,web
+2020-06-01 2020-07-01,Kursk Oblast,55,навальный,RU,web
+2020-06-01 2020-07-01,Moscow Oblast,53,навальный,RU,web
+2020-06-01 2020-07-01,Bryansk Oblast,52,навальный,RU,web
+2020-06-01 2020-07-01,Leningrad Oblast,50,навальный,RU,web
+2020-06-01 2020-07-01,Saint Petersburg,48,навальный,RU,web
+2020-06-01 2020-07-01,Kaluga Oblast,48,навальный,RU,web
+2020-06-01 2020-07-01,Mordovia,47,навальный,RU,web
+2020-06-01 2020-07-01,Kirov Oblast,45,навальный,RU,web
+2020-06-01 2020-07-01,Pskov Oblast,44,навальный,RU,web
+2020-06-01 2020-07-01,Kaliningrad Oblast,44,навальный,RU,web
+2020-06-01 2020-07-01,Sverdlovsk Oblast,44,навальный,RU,web
+2020-06-01 2020-07-01,Komi Republic,43,навальный,RU,web
+2020-06-01 2020-07-01,Chelyabinsk Oblast,42,навальный,RU,web
+2020-06-01 2020-07-01,Samara Oblast,37,навальный,RU,web
+2020-06-01 2020-07-01,Penza Oblast,36,навальный,RU,web
+2020-06-01 2020-07-01,Tyumen Oblast,36,навальный,RU,web
+2020-06-01 2020-07-01,Tver Oblast,34,навальный,RU,web
+2020-06-01 2020-07-01,Novosibirsk Oblast,33,навальный,RU,web
+2020-06-01 2020-07-01,Udmurt Republic,33,навальный,RU,web
+2020-06-01 2020-07-01,Krasnodar Krai,33,навальный,RU,web
+2020-06-01 2020-07-01,Omsk Oblast,33,навальный,RU,web
+2020-06-01 2020-07-01,Novgorod Oblast,32,навальный,RU,web
+2020-06-01 2020-07-01,Smolensk Oblast,32,навальный,RU,web
+2020-06-01 2020-07-01,Republic of Bashkortostan,32,навальный,RU,web
+2020-06-01 2020-07-01,Tatarstan,32,навальный,RU,web
+2020-06-01 2020-07-01,Volgograd Oblast,31,навальный,RU,web
+2020-06-01 2020-07-01,Primorsky Krai,31,навальный,RU,web
+2020-06-01 2020-07-01,Kostroma Oblast,30,навальный,RU,web
+2020-06-01 2020-07-01,Nizhny Novgorod Oblast,30,навальный,RU,web
+2020-06-01 2020-07-01,Oryol Oblast,30,навальный,RU,web
+2020-06-01 2020-07-01,Voronezh Oblast,29,навальный,RU,web
+2020-06-01 2020-07-01,Khabarovsk Krai,28,навальный,RU,web
+2020-06-01 2020-07-01,Tomsk Oblast,28,навальный,RU,web
+2020-06-01 2020-07-01,Kamchatka Krai,26,навальный,RU,web
+2020-06-01 2020-07-01,Yamalo-Nenets Autonomous Okrug,25,навальный,RU,web
+2020-06-01 2020-07-01,Vologda Oblast,25,навальный,RU,web
+2020-06-01 2020-07-01,Perm Krai,24,навальный,RU,web
+2020-06-01 2020-07-01,Tambov Oblast,24,навальный,RU,web
+2020-06-01 2020-07-01,Irkutsk Oblast,23,навальный,RU,web
+2020-06-01 2020-07-01,Krasnoyarsk Krai,23,навальный,RU,web
+2020-06-01 2020-07-01,Altai Krai,22,навальный,RU,web
+2020-06-01 2020-07-01,Orenburg Oblast,21,навальный,RU,web
+2020-06-01 2020-07-01,Khanty-Mansi Autonomous Okrug,21,навальный,RU,web
+2020-06-01 2020-07-01,Vladimir Oblast,20,навальный,RU,web
+2020-06-01 2020-07-01,Ivanovo Oblast,20,навальный,RU,web
+2020-06-01 2020-07-01,Buryatia,20,навальный,RU,web
+2020-06-01 2020-07-01,Saratov Oblast,19,навальный,RU,web
+2020-06-01 2020-07-01,Republic of Khakassia,19,навальный,RU,web
+2020-06-01 2020-07-01,Tula Oblast,19,навальный,RU,web
+2020-06-01 2020-07-01,Yaroslavl Oblast,18,навальный,RU,web
+2020-06-01 2020-07-01,Kemerovo Oblast,17,навальный,RU,web
+2020-06-01 2020-07-01,Rostov Oblast,17,навальный,RU,web
+2020-06-01 2020-07-01,Ryazan Oblast,16,навальный,RU,web
+2020-06-01 2020-07-01,Stavropol Krai,16,навальный,RU,web
+2020-06-01 2020-07-01,Sakha Republic,14,навальный,RU,web
+2020-06-01 2020-07-01,Dagestan Republic,14,навальный,RU,web
+2020-06-01 2020-07-01,Republic of Karelia,13,навальный,RU,web
+2020-06-01 2020-07-01,Murmansk Oblast,10,навальный,RU,web
+2020-06-01 2020-07-01,Astrakhan Oblast,10,навальный,RU,web
+2020-06-01 2020-07-01,Arkhangelsk Oblast,9,навальный,RU,web
+2020-06-01 2020-07-01,Lipetsk Oblast,9,навальный,RU,web
+2020-06-01 2020-07-01,Chuvashia Republic,8,навальный,RU,web
+2020-06-01 2020-07-01,Ulyanovsk Oblast,7,навальный,RU,web
+2020-06-01 2020-07-01,Belgorod Oblast,7,навальный,RU,web
+2020-06-01 2020-07-01,Altai Republic,,навальный,RU,web
+2020-06-01 2020-07-01,Amur Oblast,,навальный,RU,web
+2020-06-01 2020-07-01,Chechnya,,навальный,RU,web
+2020-06-01 2020-07-01,Chukotka Autonomous Okrug,,навальный,RU,web
+2020-06-01 2020-07-01,Ingushetia,,навальный,RU,web
+2020-06-01 2020-07-01,Kabardino-Balkaria,,навальный,RU,web
+2020-06-01 2020-07-01,Karachay-Cherkessia,,навальный,RU,web
+2020-06-01 2020-07-01,Kurgan Oblast,,навальный,RU,web
+2020-06-01 2020-07-01,Mari El Republic,,навальный,RU,web
+2020-06-01 2020-07-01,Nenets Autonomous Okrug,,навальный,RU,web
+2020-06-01 2020-07-01,North Ossetia–Alania,,навальный,RU,web
+2020-06-01 2020-07-01,Tuva,,навальный,RU,web
+2020-06-01 2020-07-01,Jewish Autonomous Oblast,,навальный,RU,web
+2020-06-01 2020-07-01,Zabaykalsky Krai,,навальный,RU,web
+2020-07-01 2020-08-01,Khabarovsk Krai,100,навальный,RU,web
+2020-07-01 2020-08-01,Pskov Oblast,78,навальный,RU,web
+2020-07-01 2020-08-01,Chuvashia Republic,74,навальный,RU,web
+2020-07-01 2020-08-01,Yaroslavl Oblast,73,навальный,RU,web
+2020-07-01 2020-08-01,Smolensk Oblast,72,навальный,RU,web
+2020-07-01 2020-08-01,Kirov Oblast,72,навальный,RU,web
+2020-07-01 2020-08-01,Penza Oblast,63,навальный,RU,web
+2020-07-01 2020-08-01,Kaliningrad Oblast,57,навальный,RU,web
+2020-07-01 2020-08-01,Novosibirsk Oblast,55,навальный,RU,web
+2020-07-01 2020-08-01,Voronezh Oblast,55,навальный,RU,web
+2020-07-01 2020-08-01,Mari El Republic,53,навальный,RU,web
+2020-07-01 2020-08-01,Astrakhan Oblast,53,навальный,RU,web
+2020-07-01 2020-08-01,Sakhalin Oblast,52,навальный,RU,web
+2020-07-01 2020-08-01,Kalmykia,52,навальный,RU,web
+2020-07-01 2020-08-01,Moscow,51,навальный,RU,web
+2020-07-01 2020-08-01,Republic of Karelia,50,навальный,RU,web
+2020-07-01 2020-08-01,Perm Krai,49,навальный,RU,web
+2020-07-01 2020-08-01,Moscow Oblast,48,навальный,RU,web
+2020-07-01 2020-08-01,Udmurt Republic,45,навальный,RU,web
+2020-07-01 2020-08-01,Kaluga Oblast,44,навальный,RU,web
+2020-07-01 2020-08-01,Orenburg Oblast,43,навальный,RU,web
+2020-07-01 2020-08-01,Volgograd Oblast,42,навальный,RU,web
+2020-07-01 2020-08-01,Samara Oblast,42,навальный,RU,web
+2020-07-01 2020-08-01,Ulyanovsk Oblast,41,навальный,RU,web
+2020-07-01 2020-08-01,Kostroma Oblast,40,навальный,RU,web
+2020-07-01 2020-08-01,Oryol Oblast,40,навальный,RU,web
+2020-07-01 2020-08-01,Saint Petersburg,38,навальный,RU,web
+2020-07-01 2020-08-01,Amur Oblast,38,навальный,RU,web
+2020-07-01 2020-08-01,Chelyabinsk Oblast,37,навальный,RU,web
+2020-07-01 2020-08-01,Kamchatka Krai,37,навальный,RU,web
+2020-07-01 2020-08-01,Vladimir Oblast,37,навальный,RU,web
+2020-07-01 2020-08-01,Chechnya,36,навальный,RU,web
+2020-07-01 2020-08-01,Nizhny Novgorod Oblast,36,навальный,RU,web
+2020-07-01 2020-08-01,Tver Oblast,35,навальный,RU,web
+2020-07-01 2020-08-01,Krasnodar Krai,35,навальный,RU,web
+2020-07-01 2020-08-01,Primorsky Krai,35,навальный,RU,web
+2020-07-01 2020-08-01,Altai Krai,33,навальный,RU,web
+2020-07-01 2020-08-01,Leningrad Oblast,32,навальный,RU,web
+2020-07-01 2020-08-01,Sverdlovsk Oblast,32,навальный,RU,web
+2020-07-01 2020-08-01,Komi Republic,30,навальный,RU,web
+2020-07-01 2020-08-01,Tatarstan,30,навальный,RU,web
+2020-07-01 2020-08-01,Kursk Oblast,29,навальный,RU,web
+2020-07-01 2020-08-01,Omsk Oblast,29,навальный,RU,web
+2020-07-01 2020-08-01,Krasnoyarsk Krai,28,навальный,RU,web
+2020-07-01 2020-08-01,Republic of Khakassia,26,навальный,RU,web
+2020-07-01 2020-08-01,Stavropol Krai,26,навальный,RU,web
+2020-07-01 2020-08-01,Tyumen Oblast,25,навальный,RU,web
+2020-07-01 2020-08-01,Irkutsk Oblast,25,навальный,RU,web
+2020-07-01 2020-08-01,Arkhangelsk Oblast,25,навальный,RU,web
+2020-07-01 2020-08-01,Khanty-Mansi Autonomous Okrug,25,навальный,RU,web
+2020-07-01 2020-08-01,Lipetsk Oblast,23,навальный,RU,web
+2020-07-01 2020-08-01,Rostov Oblast,23,навальный,RU,web
+2020-07-01 2020-08-01,Ryazan Oblast,22,навальный,RU,web
+2020-07-01 2020-08-01,Vologda Oblast,22,навальный,RU,web
+2020-07-01 2020-08-01,Kabardino-Balkaria,22,навальный,RU,web
+2020-07-01 2020-08-01,North Ossetia–Alania,20,навальный,RU,web
+2020-07-01 2020-08-01,Yamalo-Nenets Autonomous Okrug,19,навальный,RU,web
+2020-07-01 2020-08-01,Kurgan Oblast,19,навальный,RU,web
+2020-07-01 2020-08-01,Republic of Bashkortostan,18,навальный,RU,web
+2020-07-01 2020-08-01,Belgorod Oblast,18,навальный,RU,web
+2020-07-01 2020-08-01,Tula Oblast,17,навальный,RU,web
+2020-07-01 2020-08-01,Tambov Oblast,16,навальный,RU,web
+2020-07-01 2020-08-01,Tomsk Oblast,16,навальный,RU,web
+2020-07-01 2020-08-01,Zabaykalsky Krai,15,навальный,RU,web
+2020-07-01 2020-08-01,Murmansk Oblast,14,навальный,RU,web
+2020-07-01 2020-08-01,Kemerovo Oblast,14,навальный,RU,web
+2020-07-01 2020-08-01,Bryansk Oblast,14,навальный,RU,web
+2020-07-01 2020-08-01,Buryatia,14,навальный,RU,web
+2020-07-01 2020-08-01,Ivanovo Oblast,13,навальный,RU,web
+2020-07-01 2020-08-01,Dagestan Republic,13,навальный,RU,web
+2020-07-01 2020-08-01,Saratov Oblast,10,навальный,RU,web
+2020-07-01 2020-08-01,Sakha Republic,10,навальный,RU,web
+2020-07-01 2020-08-01,Adygea,,навальный,RU,web
+2020-07-01 2020-08-01,Altai Republic,,навальный,RU,web
+2020-07-01 2020-08-01,Chukotka Autonomous Okrug,,навальный,RU,web
+2020-07-01 2020-08-01,Ingushetia,,навальный,RU,web
+2020-07-01 2020-08-01,Karachay-Cherkessia,,навальный,RU,web
+2020-07-01 2020-08-01,Magadan Oblast,,навальный,RU,web
+2020-07-01 2020-08-01,Mordovia,,навальный,RU,web
+2020-07-01 2020-08-01,Nenets Autonomous Okrug,,навальный,RU,web
+2020-07-01 2020-08-01,Novgorod Oblast,,навальный,RU,web
+2020-07-01 2020-08-01,Tuva,,навальный,RU,web
+2020-07-01 2020-08-01,Jewish Autonomous Oblast,,навальный,RU,web
+2020-08-01 2020-09-01,Omsk Oblast,100,навальный,RU,web
+2020-08-01 2020-09-01,Tomsk Oblast,80,навальный,RU,web
+2020-08-01 2020-09-01,Magadan Oblast,76,навальный,RU,web
+2020-08-01 2020-09-01,Saint Petersburg,72,навальный,RU,web
+2020-08-01 2020-09-01,Novosibirsk Oblast,71,навальный,RU,web
+2020-08-01 2020-09-01,Moscow Oblast,62,навальный,RU,web
+2020-08-01 2020-09-01,Moscow,61,навальный,RU,web
+2020-08-01 2020-09-01,Samara Oblast,60,навальный,RU,web
+2020-08-01 2020-09-01,Leningrad Oblast,59,навальный,RU,web
+2020-08-01 2020-09-01,Kaliningrad Oblast,55,навальный,RU,web
+2020-08-01 2020-09-01,Republic of Bashkortostan,55,навальный,RU,web
+2020-08-01 2020-09-01,Sverdlovsk Oblast,55,навальный,RU,web
+2020-08-01 2020-09-01,Khabarovsk Krai,54,навальный,RU,web
+2020-08-01 2020-09-01,Krasnoyarsk Krai,54,навальный,RU,web
+2020-08-01 2020-09-01,Altai Krai,54,навальный,RU,web
+2020-08-01 2020-09-01,Pskov Oblast,54,навальный,RU,web
+2020-08-01 2020-09-01,Ulyanovsk Oblast,53,навальный,RU,web
+2020-08-01 2020-09-01,Vladimir Oblast,51,навальный,RU,web
+2020-08-01 2020-09-01,Tatarstan,51,навальный,RU,web
+2020-08-01 2020-09-01,Ryazan Oblast,50,навальный,RU,web
+2020-08-01 2020-09-01,Zabaykalsky Krai,48,навальный,RU,web
+2020-08-01 2020-09-01,Nenets Autonomous Okrug,47,навальный,RU,web
+2020-08-01 2020-09-01,Saratov Oblast,46,навальный,RU,web
+2020-08-01 2020-09-01,Kaluga Oblast,45,навальный,RU,web
+2020-08-01 2020-09-01,Tver Oblast,44,навальный,RU,web
+2020-08-01 2020-09-01,Primorsky Krai,44,навальный,RU,web
+2020-08-01 2020-09-01,Tambov Oblast,44,навальный,RU,web
+2020-08-01 2020-09-01,Khanty-Mansi Autonomous Okrug,43,навальный,RU,web
+2020-08-01 2020-09-01,Smolensk Oblast,43,навальный,RU,web
+2020-08-01 2020-09-01,Chuvashia Republic,42,навальный,RU,web
+2020-08-01 2020-09-01,Nizhny Novgorod Oblast,42,навальный,RU,web
+2020-08-01 2020-09-01,Murmansk Oblast,42,навальный,RU,web
+2020-08-01 2020-09-01,Ivanovo Oblast,42,навальный,RU,web
+2020-08-01 2020-09-01,Novgorod Oblast,41,навальный,RU,web
+2020-08-01 2020-09-01,Voronezh Oblast,41,навальный,RU,web
+2020-08-01 2020-09-01,Krasnodar Krai,41,навальный,RU,web
+2020-08-01 2020-09-01,Republic of Karelia,41,навальный,RU,web
+2020-08-01 2020-09-01,Irkutsk Oblast,41,навальный,RU,web
+2020-08-01 2020-09-01,Mari El Republic,40,навальный,RU,web
+2020-08-01 2020-09-01,Perm Krai,40,навальный,RU,web
+2020-08-01 2020-09-01,Kabardino-Balkaria,40,навальный,RU,web
+2020-08-01 2020-09-01,Udmurt Republic,40,навальный,RU,web
+2020-08-01 2020-09-01,Tyumen Oblast,39,навальный,RU,web
+2020-08-01 2020-09-01,North Ossetia–Alania,39,навальный,RU,web
+2020-08-01 2020-09-01,Kirov Oblast,38,навальный,RU,web
+2020-08-01 2020-09-01,Chelyabinsk Oblast,38,навальный,RU,web
+2020-08-01 2020-09-01,Sakhalin Oblast,38,навальный,RU,web
+2020-08-01 2020-09-01,Buryatia,38,навальный,RU,web
+2020-08-01 2020-09-01,Rostov Oblast,37,навальный,RU,web
+2020-08-01 2020-09-01,Stavropol Krai,37,навальный,RU,web
+2020-08-01 2020-09-01,Adygea,37,навальный,RU,web
+2020-08-01 2020-09-01,Volgograd Oblast,37,навальный,RU,web
+2020-08-01 2020-09-01,Oryol Oblast,37,навальный,RU,web
+2020-08-01 2020-09-01,Republic of Khakassia,35,навальный,RU,web
+2020-08-01 2020-09-01,Altai Republic,34,навальный,RU,web
+2020-08-01 2020-09-01,Komi Republic,34,навальный,RU,web
+2020-08-01 2020-09-01,Penza Oblast,34,навальный,RU,web
+2020-08-01 2020-09-01,Yaroslavl Oblast,33,навальный,RU,web
+2020-08-01 2020-09-01,Kalmykia,33,навальный,RU,web
+2020-08-01 2020-09-01,Arkhangelsk Oblast,32,навальный,RU,web
+2020-08-01 2020-09-01,Yamalo-Nenets Autonomous Okrug,32,навальный,RU,web
+2020-08-01 2020-09-01,Kursk Oblast,32,навальный,RU,web
+2020-08-01 2020-09-01,Belgorod Oblast,31,навальный,RU,web
+2020-08-01 2020-09-01,Vologda Oblast,31,навальный,RU,web
+2020-08-01 2020-09-01,Lipetsk Oblast,31,навальный,RU,web
+2020-08-01 2020-09-01,Orenburg Oblast,30,навальный,RU,web
+2020-08-01 2020-09-01,Amur Oblast,30,навальный,RU,web
+2020-08-01 2020-09-01,Kemerovo Oblast,29,навальный,RU,web
+2020-08-01 2020-09-01,Kurgan Oblast,29,навальный,RU,web
+2020-08-01 2020-09-01,Tula Oblast,29,навальный,RU,web
+2020-08-01 2020-09-01,Kostroma Oblast,28,навальный,RU,web
+2020-08-01 2020-09-01,Bryansk Oblast,26,навальный,RU,web
+2020-08-01 2020-09-01,Karachay-Cherkessia,24,навальный,RU,web
+2020-08-01 2020-09-01,Astrakhan Oblast,23,навальный,RU,web
+2020-08-01 2020-09-01,Dagestan Republic,23,навальный,RU,web
+2020-08-01 2020-09-01,Sakha Republic,21,навальный,RU,web
+2020-08-01 2020-09-01,Mordovia,16,навальный,RU,web
+2020-08-01 2020-09-01,Tuva,12,навальный,RU,web
+2020-08-01 2020-09-01,Chechnya,11,навальный,RU,web
+2020-08-01 2020-09-01,Ingushetia,7,навальный,RU,web
+2020-08-01 2020-09-01,Kamchatka Krai,5,навальный,RU,web
+2020-08-01 2020-09-01,Chukotka Autonomous Okrug,,навальный,RU,web
+2020-08-01 2020-09-01,Jewish Autonomous Oblast,,навальный,RU,web
+2020-09-01 2020-10-01,Novosibirsk Oblast,100,навальный,RU,web
+2020-09-01 2020-10-01,Tomsk Oblast,98,навальный,RU,web
+2020-09-01 2020-10-01,Penza Oblast,95,навальный,RU,web
+2020-09-01 2020-10-01,Moscow,88,навальный,RU,web
+2020-09-01 2020-10-01,Kostroma Oblast,87,навальный,RU,web
+2020-09-01 2020-10-01,Republic of Karelia,82,навальный,RU,web
+2020-09-01 2020-10-01,Saint Petersburg,74,навальный,RU,web
+2020-09-01 2020-10-01,Omsk Oblast,72,навальный,RU,web
+2020-09-01 2020-10-01,Tatarstan,72,навальный,RU,web
+2020-09-01 2020-10-01,Karachay-Cherkessia,70,навальный,RU,web
+2020-09-01 2020-10-01,Saratov Oblast,68,навальный,RU,web
+2020-09-01 2020-10-01,Kaliningrad Oblast,65,навальный,RU,web
+2020-09-01 2020-10-01,Leningrad Oblast,64,навальный,RU,web
+2020-09-01 2020-10-01,Perm Krai,63,навальный,RU,web
+2020-09-01 2020-10-01,Ivanovo Oblast,62,навальный,RU,web
+2020-09-01 2020-10-01,Bryansk Oblast,62,навальный,RU,web
+2020-09-01 2020-10-01,Moscow Oblast,62,навальный,RU,web
+2020-09-01 2020-10-01,Nizhny Novgorod Oblast,62,навальный,RU,web
+2020-09-01 2020-10-01,Kirov Oblast,62,навальный,RU,web
+2020-09-01 2020-10-01,Krasnoyarsk Krai,61,навальный,RU,web
+2020-09-01 2020-10-01,Chelyabinsk Oblast,60,навальный,RU,web
+2020-09-01 2020-10-01,Altai Krai,59,навальный,RU,web
+2020-09-01 2020-10-01,Ulyanovsk Oblast,59,навальный,RU,web
+2020-09-01 2020-10-01,Tula Oblast,58,навальный,RU,web
+2020-09-01 2020-10-01,Khabarovsk Krai,57,навальный,RU,web
+2020-09-01 2020-10-01,Republic of Khakassia,57,навальный,RU,web
+2020-09-01 2020-10-01,Samara Oblast,57,навальный,RU,web
+2020-09-01 2020-10-01,Tyumen Oblast,56,навальный,RU,web
+2020-09-01 2020-10-01,Udmurt Republic,56,навальный,RU,web
+2020-09-01 2020-10-01,Murmansk Oblast,56,навальный,RU,web
+2020-09-01 2020-10-01,Adygea,56,навальный,RU,web
+2020-09-01 2020-10-01,Vologda Oblast,54,навальный,RU,web
+2020-09-01 2020-10-01,Sverdlovsk Oblast,53,навальный,RU,web
+2020-09-01 2020-10-01,Voronezh Oblast,53,навальный,RU,web
+2020-09-01 2020-10-01,Mari El Republic,52,навальный,RU,web
+2020-09-01 2020-10-01,Krasnodar Krai,52,навальный,RU,web
+2020-09-01 2020-10-01,Altai Republic,52,навальный,RU,web
+2020-09-01 2020-10-01,Pskov Oblast,51,навальный,RU,web
+2020-09-01 2020-10-01,Irkutsk Oblast,50,навальный,RU,web
+2020-09-01 2020-10-01,Sakhalin Oblast,49,навальный,RU,web
+2020-09-01 2020-10-01,Kaluga Oblast,49,навальный,RU,web
+2020-09-01 2020-10-01,Republic of Bashkortostan,49,навальный,RU,web
+2020-09-01 2020-10-01,Lipetsk Oblast,49,навальный,RU,web
+2020-09-01 2020-10-01,Primorsky Krai,49,навальный,RU,web
+2020-09-01 2020-10-01,Ryazan Oblast,45,навальный,RU,web
+2020-09-01 2020-10-01,Novgorod Oblast,45,навальный,RU,web
+2020-09-01 2020-10-01,Arkhangelsk Oblast,44,навальный,RU,web
+2020-09-01 2020-10-01,Kalmykia,44,навальный,RU,web
+2020-09-01 2020-10-01,Rostov Oblast,43,навальный,RU,web
+2020-09-01 2020-10-01,Tver Oblast,43,навальный,RU,web
+2020-09-01 2020-10-01,North Ossetia–Alania,43,навальный,RU,web
+2020-09-01 2020-10-01,Khanty-Mansi Autonomous Okrug,42,навальный,RU,web
+2020-09-01 2020-10-01,Yaroslavl Oblast,42,навальный,RU,web
+2020-09-01 2020-10-01,Vladimir Oblast,41,навальный,RU,web
+2020-09-01 2020-10-01,Kemerovo Oblast,38,навальный,RU,web
+2020-09-01 2020-10-01,Kabardino-Balkaria,38,навальный,RU,web
+2020-09-01 2020-10-01,Volgograd Oblast,37,навальный,RU,web
+2020-09-01 2020-10-01,Jewish Autonomous Oblast,35,навальный,RU,web
+2020-09-01 2020-10-01,Tambov Oblast,33,навальный,RU,web
+2020-09-01 2020-10-01,Buryatia,33,навальный,RU,web
+2020-09-01 2020-10-01,Sakha Republic,33,навальный,RU,web
+2020-09-01 2020-10-01,Smolensk Oblast,31,навальный,RU,web
+2020-09-01 2020-10-01,Komi Republic,30,навальный,RU,web
+2020-09-01 2020-10-01,Orenburg Oblast,29,навальный,RU,web
+2020-09-01 2020-10-01,Kamchatka Krai,28,навальный,RU,web
+2020-09-01 2020-10-01,Yamalo-Nenets Autonomous Okrug,28,навальный,RU,web
+2020-09-01 2020-10-01,Stavropol Krai,28,навальный,RU,web
+2020-09-01 2020-10-01,Magadan Oblast,27,навальный,RU,web
+2020-09-01 2020-10-01,Mordovia,26,навальный,RU,web
+2020-09-01 2020-10-01,Belgorod Oblast,26,навальный,RU,web
+2020-09-01 2020-10-01,Chuvashia Republic,26,навальный,RU,web
+2020-09-01 2020-10-01,Kurgan Oblast,24,навальный,RU,web
+2020-09-01 2020-10-01,Zabaykalsky Krai,24,навальный,RU,web
+2020-09-01 2020-10-01,Dagestan Republic,21,навальный,RU,web
+2020-09-01 2020-10-01,Ingushetia,21,навальный,RU,web
+2020-09-01 2020-10-01,Astrakhan Oblast,20,навальный,RU,web
+2020-09-01 2020-10-01,Amur Oblast,20,навальный,RU,web
+2020-09-01 2020-10-01,Oryol Oblast,17,навальный,RU,web
+2020-09-01 2020-10-01,Kursk Oblast,12,навальный,RU,web
+2020-09-01 2020-10-01,Chechnya,,навальный,RU,web
+2020-09-01 2020-10-01,Chukotka Autonomous Okrug,,навальный,RU,web
+2020-09-01 2020-10-01,Nenets Autonomous Okrug,,навальный,RU,web
+2020-09-01 2020-10-01,Tuva,,навальный,RU,web
+2020-10-01 2020-11-01,Ulyanovsk Oblast,100,навальный,RU,web
+2020-10-01 2020-11-01,Tomsk Oblast,96,навальный,RU,web
+2020-10-01 2020-11-01,Republic of Bashkortostan,96,навальный,RU,web
+2020-10-01 2020-11-01,Moscow,92,навальный,RU,web
+2020-10-01 2020-11-01,Saint Petersburg,90,навальный,RU,web
+2020-10-01 2020-11-01,Mordovia,83,навальный,RU,web
+2020-10-01 2020-11-01,Republic of Karelia,82,навальный,RU,web
+2020-10-01 2020-11-01,Omsk Oblast,80,навальный,RU,web
+2020-10-01 2020-11-01,Voronezh Oblast,76,навальный,RU,web
+2020-10-01 2020-11-01,Novosibirsk Oblast,75,навальный,RU,web
+2020-10-01 2020-11-01,Kaliningrad Oblast,74,навальный,RU,web
+2020-10-01 2020-11-01,Altai Krai,65,навальный,RU,web
+2020-10-01 2020-11-01,Moscow Oblast,65,навальный,RU,web
+2020-10-01 2020-11-01,Sverdlovsk Oblast,63,навальный,RU,web
+2020-10-01 2020-11-01,Altai Republic,61,навальный,RU,web
+2020-10-01 2020-11-01,Nizhny Novgorod Oblast,61,навальный,RU,web
+2020-10-01 2020-11-01,Penza Oblast,61,навальный,RU,web
+2020-10-01 2020-11-01,Kostroma Oblast,61,навальный,RU,web
+2020-10-01 2020-11-01,Smolensk Oblast,59,навальный,RU,web
+2020-10-01 2020-11-01,Kurgan Oblast,57,навальный,RU,web
+2020-10-01 2020-11-01,Leningrad Oblast,56,навальный,RU,web
+2020-10-01 2020-11-01,Tver Oblast,56,навальный,RU,web
+2020-10-01 2020-11-01,Samara Oblast,55,навальный,RU,web
+2020-10-01 2020-11-01,Komi Republic,54,навальный,RU,web
+2020-10-01 2020-11-01,Tyumen Oblast,52,навальный,RU,web
+2020-10-01 2020-11-01,Kalmykia,52,навальный,RU,web
+2020-10-01 2020-11-01,Khabarovsk Krai,52,навальный,RU,web
+2020-10-01 2020-11-01,Krasnoyarsk Krai,51,навальный,RU,web
+2020-10-01 2020-11-01,Stavropol Krai,50,навальный,RU,web
+2020-10-01 2020-11-01,Khanty-Mansi Autonomous Okrug,49,навальный,RU,web
+2020-10-01 2020-11-01,Kirov Oblast,49,навальный,RU,web
+2020-10-01 2020-11-01,Chelyabinsk Oblast,48,навальный,RU,web
+2020-10-01 2020-11-01,Krasnodar Krai,47,навальный,RU,web
+2020-10-01 2020-11-01,Ryazan Oblast,46,навальный,RU,web
+2020-10-01 2020-11-01,Adygea,45,навальный,RU,web
+2020-10-01 2020-11-01,Yaroslavl Oblast,45,навальный,RU,web
+2020-10-01 2020-11-01,Belgorod Oblast,44,навальный,RU,web
+2020-10-01 2020-11-01,Novgorod Oblast,42,навальный,RU,web
+2020-10-01 2020-11-01,Vologda Oblast,42,навальный,RU,web
+2020-10-01 2020-11-01,Zabaykalsky Krai,40,навальный,RU,web
+2020-10-01 2020-11-01,Tatarstan,40,навальный,RU,web
+2020-10-01 2020-11-01,Pskov Oblast,40,навальный,RU,web
+2020-10-01 2020-11-01,Primorsky Krai,40,навальный,RU,web
+2020-10-01 2020-11-01,Kemerovo Oblast,40,навальный,RU,web
+2020-10-01 2020-11-01,North Ossetia–Alania,39,навальный,RU,web
+2020-10-01 2020-11-01,Sakha Republic,38,навальный,RU,web
+2020-10-01 2020-11-01,Murmansk Oblast,38,навальный,RU,web
+2020-10-01 2020-11-01,Perm Krai,36,навальный,RU,web
+2020-10-01 2020-11-01,Mari El Republic,36,навальный,RU,web
+2020-10-01 2020-11-01,Volgograd Oblast,35,навальный,RU,web
+2020-10-01 2020-11-01,Lipetsk Oblast,34,навальный,RU,web
+2020-10-01 2020-11-01,Kamchatka Krai,32,навальный,RU,web
+2020-10-01 2020-11-01,Dagestan Republic,31,навальный,RU,web
+2020-10-01 2020-11-01,Tambov Oblast,31,навальный,RU,web
+2020-10-01 2020-11-01,Yamalo-Nenets Autonomous Okrug,31,навальный,RU,web
+2020-10-01 2020-11-01,Rostov Oblast,28,навальный,RU,web
+2020-10-01 2020-11-01,Kursk Oblast,28,навальный,RU,web
+2020-10-01 2020-11-01,Vladimir Oblast,28,навальный,RU,web
+2020-10-01 2020-11-01,Ivanovo Oblast,27,навальный,RU,web
+2020-10-01 2020-11-01,Orenburg Oblast,27,навальный,RU,web
+2020-10-01 2020-11-01,Republic of Khakassia,26,навальный,RU,web
+2020-10-01 2020-11-01,Tula Oblast,26,навальный,RU,web
+2020-10-01 2020-11-01,Buryatia,24,навальный,RU,web
+2020-10-01 2020-11-01,Astrakhan Oblast,23,навальный,RU,web
+2020-10-01 2020-11-01,Kabardino-Balkaria,22,навальный,RU,web
+2020-10-01 2020-11-01,Irkutsk Oblast,22,навальный,RU,web
+2020-10-01 2020-11-01,Chuvashia Republic,20,навальный,RU,web
+2020-10-01 2020-11-01,Oryol Oblast,20,навальный,RU,web
+2020-10-01 2020-11-01,Sakhalin Oblast,16,навальный,RU,web
+2020-10-01 2020-11-01,Saratov Oblast,15,навальный,RU,web
+2020-10-01 2020-11-01,Bryansk Oblast,14,навальный,RU,web
+2020-10-01 2020-11-01,Chechnya,12,навальный,RU,web
+2020-10-01 2020-11-01,Arkhangelsk Oblast,12,навальный,RU,web
+2020-10-01 2020-11-01,Amur Oblast,11,навальный,RU,web
+2020-10-01 2020-11-01,Kaluga Oblast,11,навальный,RU,web
+2020-10-01 2020-11-01,Udmurt Republic,7,навальный,RU,web
+2020-10-01 2020-11-01,Chukotka Autonomous Okrug,,навальный,RU,web
+2020-10-01 2020-11-01,Ingushetia,,навальный,RU,web
+2020-10-01 2020-11-01,Karachay-Cherkessia,,навальный,RU,web
+2020-10-01 2020-11-01,Magadan Oblast,,навальный,RU,web
+2020-10-01 2020-11-01,Nenets Autonomous Okrug,,навальный,RU,web
+2020-10-01 2020-11-01,Tuva,,навальный,RU,web
+2020-10-01 2020-11-01,Jewish Autonomous Oblast,,навальный,RU,web
+2020-11-01 2020-12-01,Republic of Khakassia,100,навальный,RU,web
+2020-11-01 2020-12-01,Tambov Oblast,90,навальный,RU,web
+2020-11-01 2020-12-01,Yaroslavl Oblast,87,навальный,RU,web
+2020-11-01 2020-12-01,Omsk Oblast,85,навальный,RU,web
+2020-11-01 2020-12-01,Komi Republic,79,навальный,RU,web
+2020-11-01 2020-12-01,North Ossetia–Alania,73,навальный,RU,web
+2020-11-01 2020-12-01,Kaliningrad Oblast,73,навальный,RU,web
+2020-11-01 2020-12-01,Perm Krai,69,навальный,RU,web
+2020-11-01 2020-12-01,Saint Petersburg,69,навальный,RU,web
+2020-11-01 2020-12-01,Kurgan Oblast,68,навальный,RU,web
+2020-11-01 2020-12-01,Mari El Republic,67,навальный,RU,web
+2020-11-01 2020-12-01,Moscow,66,навальный,RU,web
+2020-11-01 2020-12-01,Novosibirsk Oblast,60,навальный,RU,web
+2020-11-01 2020-12-01,Dagestan Republic,59,навальный,RU,web
+2020-11-01 2020-12-01,Nizhny Novgorod Oblast,59,навальный,RU,web
+2020-11-01 2020-12-01,Tomsk Oblast,58,навальный,RU,web
+2020-11-01 2020-12-01,Smolensk Oblast,58,навальный,RU,web
+2020-11-01 2020-12-01,Sakha Republic,57,навальный,RU,web
+2020-11-01 2020-12-01,Primorsky Krai,56,навальный,RU,web
+2020-11-01 2020-12-01,Republic of Bashkortostan,53,навальный,RU,web
+2020-11-01 2020-12-01,Moscow Oblast,52,навальный,RU,web
+2020-11-01 2020-12-01,Orenburg Oblast,51,навальный,RU,web
+2020-11-01 2020-12-01,Zabaykalsky Krai,50,навальный,RU,web
+2020-11-01 2020-12-01,Kemerovo Oblast,50,навальный,RU,web
+2020-11-01 2020-12-01,Voronezh Oblast,46,навальный,RU,web
+2020-11-01 2020-12-01,Rostov Oblast,41,навальный,RU,web
+2020-11-01 2020-12-01,Kabardino-Balkaria,41,навальный,RU,web
+2020-11-01 2020-12-01,Kostroma Oblast,40,навальный,RU,web
+2020-11-01 2020-12-01,Mordovia,40,навальный,RU,web
+2020-11-01 2020-12-01,Pskov Oblast,39,навальный,RU,web
+2020-11-01 2020-12-01,Tatarstan,38,навальный,RU,web
+2020-11-01 2020-12-01,Krasnoyarsk Krai,38,навальный,RU,web
+2020-11-01 2020-12-01,Khabarovsk Krai,38,навальный,RU,web
+2020-11-01 2020-12-01,Sverdlovsk Oblast,37,навальный,RU,web
+2020-11-01 2020-12-01,Altai Krai,35,навальный,RU,web
+2020-11-01 2020-12-01,Samara Oblast,33,навальный,RU,web
+2020-11-01 2020-12-01,Tula Oblast,32,навальный,RU,web
+2020-11-01 2020-12-01,Republic of Karelia,31,навальный,RU,web
+2020-11-01 2020-12-01,Khanty-Mansi Autonomous Okrug,30,навальный,RU,web
+2020-11-01 2020-12-01,Yamalo-Nenets Autonomous Okrug,28,навальный,RU,web
+2020-11-01 2020-12-01,Saratov Oblast,28,навальный,RU,web
+2020-11-01 2020-12-01,Udmurt Republic,28,навальный,RU,web
+2020-11-01 2020-12-01,Chelyabinsk Oblast,27,навальный,RU,web
+2020-11-01 2020-12-01,Leningrad Oblast,27,навальный,RU,web
+2020-11-01 2020-12-01,Irkutsk Oblast,27,навальный,RU,web
+2020-11-01 2020-12-01,Stavropol Krai,24,навальный,RU,web
+2020-11-01 2020-12-01,Arkhangelsk Oblast,22,навальный,RU,web
+2020-11-01 2020-12-01,Tyumen Oblast,22,навальный,RU,web
+2020-11-01 2020-12-01,Volgograd Oblast,22,навальный,RU,web
+2020-11-01 2020-12-01,Ryazan Oblast,22,навальный,RU,web
+2020-11-01 2020-12-01,Lipetsk Oblast,22,навальный,RU,web
+2020-11-01 2020-12-01,Vologda Oblast,21,навальный,RU,web
+2020-11-01 2020-12-01,Ulyanovsk Oblast,20,навальный,RU,web
+2020-11-01 2020-12-01,Kirov Oblast,19,навальный,RU,web
+2020-11-01 2020-12-01,Vladimir Oblast,19,навальный,RU,web
+2020-11-01 2020-12-01,Krasnodar Krai,16,навальный,RU,web
+2020-11-01 2020-12-01,Adygea,,навальный,RU,web
+2020-11-01 2020-12-01,Altai Republic,,навальный,RU,web
+2020-11-01 2020-12-01,Amur Oblast,,навальный,RU,web
+2020-11-01 2020-12-01,Astrakhan Oblast,,навальный,RU,web
+2020-11-01 2020-12-01,Belgorod Oblast,,навальный,RU,web
+2020-11-01 2020-12-01,Bryansk Oblast,,навальный,RU,web
+2020-11-01 2020-12-01,Buryatia,,навальный,RU,web
+2020-11-01 2020-12-01,Chechnya,,навальный,RU,web
+2020-11-01 2020-12-01,Chukotka Autonomous Okrug,,навальный,RU,web
+2020-11-01 2020-12-01,Chuvashia Republic,,навальный,RU,web
+2020-11-01 2020-12-01,Ingushetia,,навальный,RU,web
+2020-11-01 2020-12-01,Ivanovo Oblast,,навальный,RU,web
+2020-11-01 2020-12-01,Kamchatka Krai,,навальный,RU,web
+2020-11-01 2020-12-01,Karachay-Cherkessia,,навальный,RU,web
+2020-11-01 2020-12-01,Kalmykia,,навальный,RU,web
+2020-11-01 2020-12-01,Kaluga Oblast,,навальный,RU,web
+2020-11-01 2020-12-01,Kursk Oblast,,навальный,RU,web
+2020-11-01 2020-12-01,Magadan Oblast,,навальный,RU,web
+2020-11-01 2020-12-01,Murmansk Oblast,,навальный,RU,web
+2020-11-01 2020-12-01,Nenets Autonomous Okrug,,навальный,RU,web
+2020-11-01 2020-12-01,Novgorod Oblast,,навальный,RU,web
+2020-11-01 2020-12-01,Oryol Oblast,,навальный,RU,web
+2020-11-01 2020-12-01,Penza Oblast,,навальный,RU,web
+2020-11-01 2020-12-01,Sakhalin Oblast,,навальный,RU,web
+2020-11-01 2020-12-01,Tver Oblast,,навальный,RU,web
+2020-11-01 2020-12-01,Tuva,,навальный,RU,web
+2020-11-01 2020-12-01,Jewish Autonomous Oblast,,навальный,RU,web
+2020-12-01 2021-01-01,Kostroma Oblast,100,навальный,RU,web
+2020-12-01 2021-01-01,Vladimir Oblast,90,навальный,RU,web
+2020-12-01 2021-01-01,Moscow,72,навальный,RU,web
+2020-12-01 2021-01-01,Saint Petersburg,72,навальный,RU,web
+2020-12-01 2021-01-01,Tomsk Oblast,67,навальный,RU,web
+2020-12-01 2021-01-01,Novgorod Oblast,65,навальный,RU,web
+2020-12-01 2021-01-01,Adygea,63,навальный,RU,web
+2020-12-01 2021-01-01,Moscow Oblast,60,навальный,RU,web
+2020-12-01 2021-01-01,Bryansk Oblast,59,навальный,RU,web
+2020-12-01 2021-01-01,Kaliningrad Oblast,57,навальный,RU,web
+2020-12-01 2021-01-01,Leningrad Oblast,57,навальный,RU,web
+2020-12-01 2021-01-01,Republic of Karelia,57,навальный,RU,web
+2020-12-01 2021-01-01,Tver Oblast,57,навальный,RU,web
+2020-12-01 2021-01-01,Astrakhan Oblast,57,навальный,RU,web
+2020-12-01 2021-01-01,Saratov Oblast,55,навальный,RU,web
+2020-12-01 2021-01-01,Chuvashia Republic,54,навальный,RU,web
+2020-12-01 2021-01-01,Oryol Oblast,54,навальный,RU,web
+2020-12-01 2021-01-01,Mari El Republic,53,навальный,RU,web
+2020-12-01 2021-01-01,Jewish Autonomous Oblast,51,навальный,RU,web
+2020-12-01 2021-01-01,Altai Krai,50,навальный,RU,web
+2020-12-01 2021-01-01,Kaluga Oblast,49,навальный,RU,web
+2020-12-01 2021-01-01,Nizhny Novgorod Oblast,48,навальный,RU,web
+2020-12-01 2021-01-01,Zabaykalsky Krai,47,навальный,RU,web
+2020-12-01 2021-01-01,Udmurt Republic,47,навальный,RU,web
+2020-12-01 2021-01-01,Novosibirsk Oblast,46,навальный,RU,web
+2020-12-01 2021-01-01,Murmansk Oblast,46,навальный,RU,web
+2020-12-01 2021-01-01,Omsk Oblast,45,навальный,RU,web
+2020-12-01 2021-01-01,North Ossetia–Alania,44,навальный,RU,web
+2020-12-01 2021-01-01,Kurgan Oblast,44,навальный,RU,web
+2020-12-01 2021-01-01,Sverdlovsk Oblast,44,навальный,RU,web
+2020-12-01 2021-01-01,Kursk Oblast,42,навальный,RU,web
+2020-12-01 2021-01-01,Yamalo-Nenets Autonomous Okrug,42,навальный,RU,web
+2020-12-01 2021-01-01,Arkhangelsk Oblast,42,навальный,RU,web
+2020-12-01 2021-01-01,Stavropol Krai,41,навальный,RU,web
+2020-12-01 2021-01-01,Chelyabinsk Oblast,40,навальный,RU,web
+2020-12-01 2021-01-01,Rostov Oblast,40,навальный,RU,web
+2020-12-01 2021-01-01,Yaroslavl Oblast,39,навальный,RU,web
+2020-12-01 2021-01-01,Tatarstan,39,навальный,RU,web
+2020-12-01 2021-01-01,Krasnodar Krai,38,навальный,RU,web
+2020-12-01 2021-01-01,Voronezh Oblast,38,навальный,RU,web
+2020-12-01 2021-01-01,Volgograd Oblast,38,навальный,RU,web
+2020-12-01 2021-01-01,Altai Republic,36,навальный,RU,web
+2020-12-01 2021-01-01,Kirov Oblast,35,навальный,RU,web
+2020-12-01 2021-01-01,Komi Republic,33,навальный,RU,web
+2020-12-01 2021-01-01,Ryazan Oblast,33,навальный,RU,web
+2020-12-01 2021-01-01,Vologda Oblast,32,навальный,RU,web
+2020-12-01 2021-01-01,Khabarovsk Krai,31,навальный,RU,web
+2020-12-01 2021-01-01,Tyumen Oblast,31,навальный,RU,web
+2020-12-01 2021-01-01,Belgorod Oblast,31,навальный,RU,web
+2020-12-01 2021-01-01,Republic of Khakassia,31,навальный,RU,web
+2020-12-01 2021-01-01,Republic of Bashkortostan,31,навальный,RU,web
+2020-12-01 2021-01-01,Khanty-Mansi Autonomous Okrug,30,навальный,RU,web
+2020-12-01 2021-01-01,Karachay-Cherkessia,30,навальный,RU,web
+2020-12-01 2021-01-01,Sakhalin Oblast,29,навальный,RU,web
+2020-12-01 2021-01-01,Kemerovo Oblast,29,навальный,RU,web
+2020-12-01 2021-01-01,Orenburg Oblast,28,навальный,RU,web
+2020-12-01 2021-01-01,Irkutsk Oblast,28,навальный,RU,web
+2020-12-01 2021-01-01,Ingushetia,27,навальный,RU,web
+2020-12-01 2021-01-01,Krasnoyarsk Krai,27,навальный,RU,web
+2020-12-01 2021-01-01,Sakha Republic,26,навальный,RU,web
+2020-12-01 2021-01-01,Primorsky Krai,24,навальный,RU,web
+2020-12-01 2021-01-01,Ulyanovsk Oblast,24,навальный,RU,web
+2020-12-01 2021-01-01,Penza Oblast,22,навальный,RU,web
+2020-12-01 2021-01-01,Samara Oblast,22,навальный,RU,web
+2020-12-01 2021-01-01,Perm Krai,22,навальный,RU,web
+2020-12-01 2021-01-01,Chechnya,20,навальный,RU,web
+2020-12-01 2021-01-01,Kamchatka Krai,18,навальный,RU,web
+2020-12-01 2021-01-01,Dagestan Republic,17,навальный,RU,web
+2020-12-01 2021-01-01,Ivanovo Oblast,16,навальный,RU,web
+2020-12-01 2021-01-01,Lipetsk Oblast,14,навальный,RU,web
+2020-12-01 2021-01-01,Mordovia,12,навальный,RU,web
+2020-12-01 2021-01-01,Tula Oblast,10,навальный,RU,web
+2020-12-01 2021-01-01,Tambov Oblast,9,навальный,RU,web
+2020-12-01 2021-01-01,Smolensk Oblast,9,навальный,RU,web
+2020-12-01 2021-01-01,Buryatia,8,навальный,RU,web
+2020-12-01 2021-01-01,Amur Oblast,7,навальный,RU,web
+2020-12-01 2021-01-01,Chukotka Autonomous Okrug,,навальный,RU,web
+2020-12-01 2021-01-01,Kabardino-Balkaria,,навальный,RU,web
+2020-12-01 2021-01-01,Kalmykia,,навальный,RU,web
+2020-12-01 2021-01-01,Magadan Oblast,,навальный,RU,web
+2020-12-01 2021-01-01,Nenets Autonomous Okrug,,навальный,RU,web
+2020-12-01 2021-01-01,Pskov Oblast,,навальный,RU,web
+2020-12-01 2021-01-01,Tuva,,навальный,RU,web
+2021-01-01 2021-02-01,Kalmykia,100,навальный,RU,web
+2021-01-01 2021-02-01,Lipetsk Oblast,99,навальный,RU,web
+2021-01-01 2021-02-01,Zabaykalsky Krai,91,навальный,RU,web
+2021-01-01 2021-02-01,Chukotka Autonomous Okrug,91,навальный,RU,web
+2021-01-01 2021-02-01,Tver Oblast,90,навальный,RU,web
+2021-01-01 2021-02-01,Moscow,88,навальный,RU,web
+2021-01-01 2021-02-01,Kaliningrad Oblast,86,навальный,RU,web
+2021-01-01 2021-02-01,Vladimir Oblast,84,навальный,RU,web
+2021-01-01 2021-02-01,Altai Republic,83,навальный,RU,web
+2021-01-01 2021-02-01,Kabardino-Balkaria,83,навальный,RU,web
+2021-01-01 2021-02-01,Jewish Autonomous Oblast,83,навальный,RU,web
+2021-01-01 2021-02-01,Samara Oblast,82,навальный,RU,web
+2021-01-01 2021-02-01,Chelyabinsk Oblast,81,навальный,RU,web
+2021-01-01 2021-02-01,Republic of Karelia,81,навальный,RU,web
+2021-01-01 2021-02-01,Sakhalin Oblast,80,навальный,RU,web
+2021-01-01 2021-02-01,Voronezh Oblast,79,навальный,RU,web
+2021-01-01 2021-02-01,Saint Petersburg,79,навальный,RU,web
+2021-01-01 2021-02-01,Mordovia,78,навальный,RU,web
+2021-01-01 2021-02-01,Yaroslavl Oblast,78,навальный,RU,web
+2021-01-01 2021-02-01,Novgorod Oblast,76,навальный,RU,web
+2021-01-01 2021-02-01,Moscow Oblast,75,навальный,RU,web
+2021-01-01 2021-02-01,Sverdlovsk Oblast,75,навальный,RU,web
+2021-01-01 2021-02-01,Bryansk Oblast,74,навальный,RU,web
+2021-01-01 2021-02-01,Pskov Oblast,74,навальный,RU,web
+2021-01-01 2021-02-01,Tatarstan,73,навальный,RU,web
+2021-01-01 2021-02-01,Nenets Autonomous Okrug,73,навальный,RU,web
+2021-01-01 2021-02-01,Nizhny Novgorod Oblast,72,навальный,RU,web
+2021-01-01 2021-02-01,Mari El Republic,72,навальный,RU,web
+2021-01-01 2021-02-01,Novosibirsk Oblast,72,навальный,RU,web
+2021-01-01 2021-02-01,Sakha Republic,72,навальный,RU,web
+2021-01-01 2021-02-01,Altai Krai,71,навальный,RU,web
+2021-01-01 2021-02-01,Khanty-Mansi Autonomous Okrug,71,навальный,RU,web
+2021-01-01 2021-02-01,Krasnodar Krai,71,навальный,RU,web
+2021-01-01 2021-02-01,Ryazan Oblast,71,навальный,RU,web
+2021-01-01 2021-02-01,Komi Republic,70,навальный,RU,web
+2021-01-01 2021-02-01,Kurgan Oblast,70,навальный,RU,web
+2021-01-01 2021-02-01,Tula Oblast,70,навальный,RU,web
+2021-01-01 2021-02-01,Republic of Bashkortostan,69,навальный,RU,web
+2021-01-01 2021-02-01,Rostov Oblast,69,навальный,RU,web
+2021-01-01 2021-02-01,Murmansk Oblast,69,навальный,RU,web
+2021-01-01 2021-02-01,Krasnoyarsk Krai,69,навальный,RU,web
+2021-01-01 2021-02-01,Volgograd Oblast,69,навальный,RU,web
+2021-01-01 2021-02-01,Smolensk Oblast,68,навальный,RU,web
+2021-01-01 2021-02-01,Buryatia,66,навальный,RU,web
+2021-01-01 2021-02-01,Saratov Oblast,66,навальный,RU,web
+2021-01-01 2021-02-01,Perm Krai,66,навальный,RU,web
+2021-01-01 2021-02-01,Orenburg Oblast,65,навальный,RU,web
+2021-01-01 2021-02-01,Penza Oblast,64,навальный,RU,web
+2021-01-01 2021-02-01,Magadan Oblast,64,навальный,RU,web
+2021-01-01 2021-02-01,Kamchatka Krai,63,навальный,RU,web
+2021-01-01 2021-02-01,Omsk Oblast,63,навальный,RU,web
+2021-01-01 2021-02-01,Stavropol Krai,63,навальный,RU,web
+2021-01-01 2021-02-01,Irkutsk Oblast,63,навальный,RU,web
+2021-01-01 2021-02-01,Oryol Oblast,63,навальный,RU,web
+2021-01-01 2021-02-01,Kostroma Oblast,63,навальный,RU,web
+2021-01-01 2021-02-01,Kemerovo Oblast,62,навальный,RU,web
+2021-01-01 2021-02-01,Primorsky Krai,62,навальный,RU,web
+2021-01-01 2021-02-01,Chuvashia Republic,61,навальный,RU,web
+2021-01-01 2021-02-01,Khabarovsk Krai,61,навальный,RU,web
+2021-01-01 2021-02-01,Belgorod Oblast,60,навальный,RU,web
+2021-01-01 2021-02-01,Tyumen Oblast,59,навальный,RU,web
+2021-01-01 2021-02-01,Tomsk Oblast,59,навальный,RU,web
+2021-01-01 2021-02-01,Ulyanovsk Oblast,58,навальный,RU,web
+2021-01-01 2021-02-01,Adygea,57,навальный,RU,web
+2021-01-01 2021-02-01,Leningrad Oblast,56,навальный,RU,web
+2021-01-01 2021-02-01,Kirov Oblast,55,навальный,RU,web
+2021-01-01 2021-02-01,Arkhangelsk Oblast,55,навальный,RU,web
+2021-01-01 2021-02-01,Chechnya,54,навальный,RU,web
+2021-01-01 2021-02-01,Kaluga Oblast,52,навальный,RU,web
+2021-01-01 2021-02-01,Ivanovo Oblast,52,навальный,RU,web
+2021-01-01 2021-02-01,Vologda Oblast,52,навальный,RU,web
+2021-01-01 2021-02-01,Udmurt Republic,49,навальный,RU,web
+2021-01-01 2021-02-01,Yamalo-Nenets Autonomous Okrug,49,навальный,RU,web
+2021-01-01 2021-02-01,Dagestan Republic,49,навальный,RU,web
+2021-01-01 2021-02-01,Republic of Khakassia,47,навальный,RU,web
+2021-01-01 2021-02-01,Amur Oblast,45,навальный,RU,web
+2021-01-01 2021-02-01,Tambov Oblast,41,навальный,RU,web
+2021-01-01 2021-02-01,Kursk Oblast,39,навальный,RU,web
+2021-01-01 2021-02-01,Astrakhan Oblast,38,навальный,RU,web
+2021-01-01 2021-02-01,Tuva,36,навальный,RU,web
+2021-01-01 2021-02-01,North Ossetia–Alania,33,навальный,RU,web
+2021-01-01 2021-02-01,Karachay-Cherkessia,25,навальный,RU,web
+2021-01-01 2021-02-01,Ingushetia,24,навальный,RU,web
+2021-02-01 2021-03-01,Republic of Khakassia,100,навальный,RU,web
+2021-02-01 2021-03-01,Saint Petersburg,99,навальный,RU,web
+2021-02-01 2021-03-01,Tuva,98,навальный,RU,web
+2021-02-01 2021-03-01,Kamchatka Krai,96,навальный,RU,web
+2021-02-01 2021-03-01,Moscow,88,навальный,RU,web
+2021-02-01 2021-03-01,Kurgan Oblast,83,навальный,RU,web
+2021-02-01 2021-03-01,Ivanovo Oblast,80,навальный,RU,web
+2021-02-01 2021-03-01,Novosibirsk Oblast,77,навальный,RU,web
+2021-02-01 2021-03-01,Bryansk Oblast,76,навальный,RU,web
+2021-02-01 2021-03-01,Oryol Oblast,75,навальный,RU,web
+2021-02-01 2021-03-01,Nizhny Novgorod Oblast,74,навальный,RU,web
+2021-02-01 2021-03-01,Vladimir Oblast,70,навальный,RU,web
+2021-02-01 2021-03-01,Leningrad Oblast,68,навальный,RU,web
+2021-02-01 2021-03-01,Moscow Oblast,68,навальный,RU,web
+2021-02-01 2021-03-01,Kaliningrad Oblast,68,навальный,RU,web
+2021-02-01 2021-03-01,Republic of Karelia,67,навальный,RU,web
+2021-02-01 2021-03-01,Yaroslavl Oblast,67,навальный,RU,web
+2021-02-01 2021-03-01,Samara Oblast,66,навальный,RU,web
+2021-02-01 2021-03-01,Sverdlovsk Oblast,65,навальный,RU,web
+2021-02-01 2021-03-01,Pskov Oblast,63,навальный,RU,web
+2021-02-01 2021-03-01,Voronezh Oblast,62,навальный,RU,web
+2021-02-01 2021-03-01,Tomsk Oblast,62,навальный,RU,web
+2021-02-01 2021-03-01,Kemerovo Oblast,62,навальный,RU,web
+2021-02-01 2021-03-01,Komi Republic,61,навальный,RU,web
+2021-02-01 2021-03-01,Kostroma Oblast,60,навальный,RU,web
+2021-02-01 2021-03-01,Chelyabinsk Oblast,59,навальный,RU,web
+2021-02-01 2021-03-01,Tatarstan,58,навальный,RU,web
+2021-02-01 2021-03-01,Kaluga Oblast,56,навальный,RU,web
+2021-02-01 2021-03-01,Omsk Oblast,56,навальный,RU,web
+2021-02-01 2021-03-01,Buryatia,55,навальный,RU,web
+2021-02-01 2021-03-01,Volgograd Oblast,53,навальный,RU,web
+2021-02-01 2021-03-01,Belgorod Oblast,53,навальный,RU,web
+2021-02-01 2021-03-01,Udmurt Republic,53,навальный,RU,web
+2021-02-01 2021-03-01,Republic of Bashkortostan,53,навальный,RU,web
+2021-02-01 2021-03-01,Tyumen Oblast,53,навальный,RU,web
+2021-02-01 2021-03-01,Amur Oblast,53,навальный,RU,web
+2021-02-01 2021-03-01,Tula Oblast,51,навальный,RU,web
+2021-02-01 2021-03-01,Krasnoyarsk Krai,51,навальный,RU,web
+2021-02-01 2021-03-01,Karachay-Cherkessia,50,навальный,RU,web
+2021-02-01 2021-03-01,Kirov Oblast,50,навальный,RU,web
+2021-02-01 2021-03-01,Primorsky Krai,50,навальный,RU,web
+2021-02-01 2021-03-01,Ryazan Oblast,49,навальный,RU,web
+2021-02-01 2021-03-01,Orenburg Oblast,49,навальный,RU,web
+2021-02-01 2021-03-01,Astrakhan Oblast,48,навальный,RU,web
+2021-02-01 2021-03-01,Altai Krai,48,навальный,RU,web
+2021-02-01 2021-03-01,Stavropol Krai,48,навальный,RU,web
+2021-02-01 2021-03-01,Rostov Oblast,48,навальный,RU,web
+2021-02-01 2021-03-01,Chuvashia Republic,48,навальный,RU,web
+2021-02-01 2021-03-01,Khanty-Mansi Autonomous Okrug,48,навальный,RU,web
+2021-02-01 2021-03-01,Krasnodar Krai,47,навальный,RU,web
+2021-02-01 2021-03-01,Arkhangelsk Oblast,47,навальный,RU,web
+2021-02-01 2021-03-01,Khabarovsk Krai,46,навальный,RU,web
+2021-02-01 2021-03-01,Mordovia,45,навальный,RU,web
+2021-02-01 2021-03-01,Perm Krai,45,навальный,RU,web
+2021-02-01 2021-03-01,Saratov Oblast,45,навальный,RU,web
+2021-02-01 2021-03-01,Zabaykalsky Krai,44,навальный,RU,web
+2021-02-01 2021-03-01,Vologda Oblast,43,навальный,RU,web
+2021-02-01 2021-03-01,Altai Republic,42,навальный,RU,web
+2021-02-01 2021-03-01,Tver Oblast,41,навальный,RU,web
+2021-02-01 2021-03-01,Novgorod Oblast,41,навальный,RU,web
+2021-02-01 2021-03-01,Irkutsk Oblast,40,навальный,RU,web
+2021-02-01 2021-03-01,Adygea,39,навальный,RU,web
+2021-02-01 2021-03-01,Mari El Republic,39,навальный,RU,web
+2021-02-01 2021-03-01,Ulyanovsk Oblast,37,навальный,RU,web
+2021-02-01 2021-03-01,Sakhalin Oblast,36,навальный,RU,web
+2021-02-01 2021-03-01,Lipetsk Oblast,32,навальный,RU,web
+2021-02-01 2021-03-01,Sakha Republic,30,навальный,RU,web
+2021-02-01 2021-03-01,Smolensk Oblast,29,навальный,RU,web
+2021-02-01 2021-03-01,Dagestan Republic,29,навальный,RU,web
+2021-02-01 2021-03-01,Chechnya,27,навальный,RU,web
+2021-02-01 2021-03-01,Yamalo-Nenets Autonomous Okrug,27,навальный,RU,web
+2021-02-01 2021-03-01,Penza Oblast,26,навальный,RU,web
+2021-02-01 2021-03-01,Jewish Autonomous Oblast,26,навальный,RU,web
+2021-02-01 2021-03-01,Murmansk Oblast,25,навальный,RU,web
+2021-02-01 2021-03-01,North Ossetia–Alania,24,навальный,RU,web
+2021-02-01 2021-03-01,Kabardino-Balkaria,21,навальный,RU,web
+2021-02-01 2021-03-01,Kursk Oblast,18,навальный,RU,web
+2021-02-01 2021-03-01,Kalmykia,16,навальный,RU,web
+2021-02-01 2021-03-01,Tambov Oblast,15,навальный,RU,web
+2021-02-01 2021-03-01,Chukotka Autonomous Okrug,,навальный,RU,web
+2021-02-01 2021-03-01,Ingushetia,,навальный,RU,web
+2021-02-01 2021-03-01,Magadan Oblast,,навальный,RU,web
+2021-02-01 2021-03-01,Nenets Autonomous Okrug,,навальный,RU,web
+2021-03-01 2021-04-01,Vladimir Oblast,100,навальный,RU,web
+2021-03-01 2021-04-01,Bryansk Oblast,81,навальный,RU,web
+2021-03-01 2021-04-01,Murmansk Oblast,81,навальный,RU,web
+2021-03-01 2021-04-01,Ulyanovsk Oblast,72,навальный,RU,web
+2021-03-01 2021-04-01,Ivanovo Oblast,64,навальный,RU,web
+2021-03-01 2021-04-01,Republic of Karelia,63,навальный,RU,web
+2021-03-01 2021-04-01,Ryazan Oblast,57,навальный,RU,web
+2021-03-01 2021-04-01,Moscow,55,навальный,RU,web
+2021-03-01 2021-04-01,Tomsk Oblast,53,навальный,RU,web
+2021-03-01 2021-04-01,Lipetsk Oblast,53,навальный,RU,web
+2021-03-01 2021-04-01,Altai Republic,52,навальный,RU,web
+2021-03-01 2021-04-01,Saint Petersburg,50,навальный,RU,web
+2021-03-01 2021-04-01,Tambov Oblast,50,навальный,RU,web
+2021-03-01 2021-04-01,Smolensk Oblast,47,навальный,RU,web
+2021-03-01 2021-04-01,Khabarovsk Krai,46,навальный,RU,web
+2021-03-01 2021-04-01,Tver Oblast,45,навальный,RU,web
+2021-03-01 2021-04-01,Nizhny Novgorod Oblast,43,навальный,RU,web
+2021-03-01 2021-04-01,Vologda Oblast,42,навальный,RU,web
+2021-03-01 2021-04-01,Tula Oblast,42,навальный,RU,web
+2021-03-01 2021-04-01,Krasnoyarsk Krai,41,навальный,RU,web
+2021-03-01 2021-04-01,Perm Krai,40,навальный,RU,web
+2021-03-01 2021-04-01,Yaroslavl Oblast,39,навальный,RU,web
+2021-03-01 2021-04-01,Sakhalin Oblast,39,навальный,RU,web
+2021-03-01 2021-04-01,Omsk Oblast,38,навальный,RU,web
+2021-03-01 2021-04-01,Moscow Oblast,38,навальный,RU,web
+2021-03-01 2021-04-01,Republic of Bashkortostan,36,навальный,RU,web
+2021-03-01 2021-04-01,Sverdlovsk Oblast,36,навальный,RU,web
+2021-03-01 2021-04-01,Altai Krai,35,навальный,RU,web
+2021-03-01 2021-04-01,Saratov Oblast,35,навальный,RU,web
+2021-03-01 2021-04-01,Kursk Oblast,35,навальный,RU,web
+2021-03-01 2021-04-01,Novgorod Oblast,35,навальный,RU,web
+2021-03-01 2021-04-01,Kaliningrad Oblast,34,навальный,RU,web
+2021-03-01 2021-04-01,Chelyabinsk Oblast,34,навальный,RU,web
+2021-03-01 2021-04-01,Khanty-Mansi Autonomous Okrug,34,навальный,RU,web
+2021-03-01 2021-04-01,Kirov Oblast,32,навальный,RU,web
+2021-03-01 2021-04-01,Primorsky Krai,32,навальный,RU,web
+2021-03-01 2021-04-01,Stavropol Krai,32,навальный,RU,web
+2021-03-01 2021-04-01,Voronezh Oblast,30,навальный,RU,web
+2021-03-01 2021-04-01,Krasnodar Krai,30,навальный,RU,web
+2021-03-01 2021-04-01,Tatarstan,30,навальный,RU,web
+2021-03-01 2021-04-01,Samara Oblast,29,навальный,RU,web
+2021-03-01 2021-04-01,Penza Oblast,29,навальный,RU,web
+2021-03-01 2021-04-01,Rostov Oblast,28,навальный,RU,web
+2021-03-01 2021-04-01,Kaluga Oblast,28,навальный,RU,web
+2021-03-01 2021-04-01,Belgorod Oblast,27,навальный,RU,web
+2021-03-01 2021-04-01,Orenburg Oblast,27,навальный,RU,web
+2021-03-01 2021-04-01,Novosibirsk Oblast,26,навальный,RU,web
+2021-03-01 2021-04-01,Sakha Republic,24,навальный,RU,web
+2021-03-01 2021-04-01,Dagestan Republic,24,навальный,RU,web
+2021-03-01 2021-04-01,Tyumen Oblast,23,навальный,RU,web
+2021-03-01 2021-04-01,Leningrad Oblast,23,навальный,RU,web
+2021-03-01 2021-04-01,Volgograd Oblast,23,навальный,RU,web
+2021-03-01 2021-04-01,Komi Republic,22,навальный,RU,web
+2021-03-01 2021-04-01,Irkutsk Oblast,22,навальный,RU,web
+2021-03-01 2021-04-01,Chechnya,19,навальный,RU,web
+2021-03-01 2021-04-01,Arkhangelsk Oblast,19,навальный,RU,web
+2021-03-01 2021-04-01,Astrakhan Oblast,19,навальный,RU,web
+2021-03-01 2021-04-01,Amur Oblast,18,навальный,RU,web
+2021-03-01 2021-04-01,Kemerovo Oblast,18,навальный,RU,web
+2021-03-01 2021-04-01,Udmurt Republic,17,навальный,RU,web
+2021-03-01 2021-04-01,Kostroma Oblast,17,навальный,RU,web
+2021-03-01 2021-04-01,Mordovia,16,навальный,RU,web
+2021-03-01 2021-04-01,Pskov Oblast,16,навальный,RU,web
+2021-03-01 2021-04-01,Adygea,16,навальный,RU,web
+2021-03-01 2021-04-01,Kurgan Oblast,15,навальный,RU,web
+2021-03-01 2021-04-01,Mari El Republic,14,навальный,RU,web
+2021-03-01 2021-04-01,Zabaykalsky Krai,12,навальный,RU,web
+2021-03-01 2021-04-01,Yamalo-Nenets Autonomous Okrug,12,навальный,RU,web
+2021-03-01 2021-04-01,Buryatia,11,навальный,RU,web
+2021-03-01 2021-04-01,Chukotka Autonomous Okrug,,навальный,RU,web
+2021-03-01 2021-04-01,Chuvashia Republic,,навальный,RU,web
+2021-03-01 2021-04-01,Ingushetia,,навальный,RU,web
+2021-03-01 2021-04-01,Kamchatka Krai,,навальный,RU,web
+2021-03-01 2021-04-01,Kabardino-Balkaria,,навальный,RU,web
+2021-03-01 2021-04-01,Karachay-Cherkessia,,навальный,RU,web
+2021-03-01 2021-04-01,Republic of Khakassia,,навальный,RU,web
+2021-03-01 2021-04-01,Kalmykia,,навальный,RU,web
+2021-03-01 2021-04-01,Magadan Oblast,,навальный,RU,web
+2021-03-01 2021-04-01,Nenets Autonomous Okrug,,навальный,RU,web
+2021-03-01 2021-04-01,Oryol Oblast,,навальный,RU,web
+2021-03-01 2021-04-01,North Ossetia–Alania,,навальный,RU,web
+2021-03-01 2021-04-01,Tuva,,навальный,RU,web
+2021-03-01 2021-04-01,Jewish Autonomous Oblast,,навальный,RU,web
+2021-04-01 2021-05-01,Jewish Autonomous Oblast,100,навальный,RU,web
+2021-04-01 2021-05-01,Oryol Oblast,79,навальный,RU,web
+2021-04-01 2021-05-01,Novgorod Oblast,74,навальный,RU,web
+2021-04-01 2021-05-01,Saint Petersburg,63,навальный,RU,web
+2021-04-01 2021-05-01,Karachay-Cherkessia,61,навальный,RU,web
+2021-04-01 2021-05-01,Kaliningrad Oblast,58,навальный,RU,web
+2021-04-01 2021-05-01,Komi Republic,57,навальный,RU,web
+2021-04-01 2021-05-01,Moscow,57,навальный,RU,web
+2021-04-01 2021-05-01,Kurgan Oblast,57,навальный,RU,web
+2021-04-01 2021-05-01,Tula Oblast,56,навальный,RU,web
+2021-04-01 2021-05-01,Tomsk Oblast,53,навальный,RU,web
+2021-04-01 2021-05-01,Yaroslavl Oblast,48,навальный,RU,web
+2021-04-01 2021-05-01,Ivanovo Oblast,47,навальный,RU,web
+2021-04-01 2021-05-01,Chuvashia Republic,47,навальный,RU,web
+2021-04-01 2021-05-01,Republic of Karelia,46,навальный,RU,web
+2021-04-01 2021-05-01,Kaluga Oblast,46,навальный,RU,web
+2021-04-01 2021-05-01,Novosibirsk Oblast,46,навальный,RU,web
+2021-04-01 2021-05-01,Krasnoyarsk Krai,45,навальный,RU,web
+2021-04-01 2021-05-01,Lipetsk Oblast,45,навальный,RU,web
+2021-04-01 2021-05-01,Chelyabinsk Oblast,44,навальный,RU,web
+2021-04-01 2021-05-01,Leningrad Oblast,44,навальный,RU,web
+2021-04-01 2021-05-01,Sverdlovsk Oblast,44,навальный,RU,web
+2021-04-01 2021-05-01,Samara Oblast,43,навальный,RU,web
+2021-04-01 2021-05-01,Mari El Republic,41,навальный,RU,web
+2021-04-01 2021-05-01,Republic of Bashkortostan,41,навальный,RU,web
+2021-04-01 2021-05-01,Voronezh Oblast,41,навальный,RU,web
+2021-04-01 2021-05-01,Kirov Oblast,41,навальный,RU,web
+2021-04-01 2021-05-01,Altai Krai,38,навальный,RU,web
+2021-04-01 2021-05-01,Tver Oblast,37,навальный,RU,web
+2021-04-01 2021-05-01,Tyumen Oblast,37,навальный,RU,web
+2021-04-01 2021-05-01,Irkutsk Oblast,37,навальный,RU,web
+2021-04-01 2021-05-01,Moscow Oblast,37,навальный,RU,web
+2021-04-01 2021-05-01,Murmansk Oblast,37,навальный,RU,web
+2021-04-01 2021-05-01,Omsk Oblast,37,навальный,RU,web
+2021-04-01 2021-05-01,Vologda Oblast,37,навальный,RU,web
+2021-04-01 2021-05-01,Mordovia,37,навальный,RU,web
+2021-04-01 2021-05-01,Tambov Oblast,37,навальный,RU,web
+2021-04-01 2021-05-01,Nizhny Novgorod Oblast,36,навальный,RU,web
+2021-04-01 2021-05-01,Astrakhan Oblast,35,навальный,RU,web
+2021-04-01 2021-05-01,Krasnodar Krai,35,навальный,RU,web
+2021-04-01 2021-05-01,Tatarstan,34,навальный,RU,web
+2021-04-01 2021-05-01,Pskov Oblast,34,навальный,RU,web
+2021-04-01 2021-05-01,Adygea,34,навальный,RU,web
+2021-04-01 2021-05-01,Arkhangelsk Oblast,33,навальный,RU,web
+2021-04-01 2021-05-01,Kemerovo Oblast,33,навальный,RU,web
+2021-04-01 2021-05-01,Kalmykia,31,навальный,RU,web
+2021-04-01 2021-05-01,Republic of Khakassia,31,навальный,RU,web
+2021-04-01 2021-05-01,Rostov Oblast,29,навальный,RU,web
+2021-04-01 2021-05-01,Ingushetia,29,навальный,RU,web
+2021-04-01 2021-05-01,Perm Krai,29,навальный,RU,web
+2021-04-01 2021-05-01,Saratov Oblast,28,навальный,RU,web
+2021-04-01 2021-05-01,Orenburg Oblast,28,навальный,RU,web
+2021-04-01 2021-05-01,Penza Oblast,28,навальный,RU,web
+2021-04-01 2021-05-01,Stavropol Krai,28,навальный,RU,web
+2021-04-01 2021-05-01,Volgograd Oblast,27,навальный,RU,web
+2021-04-01 2021-05-01,Ryazan Oblast,27,навальный,RU,web
+2021-04-01 2021-05-01,Smolensk Oblast,26,навальный,RU,web
+2021-04-01 2021-05-01,Primorsky Krai,26,навальный,RU,web
+2021-04-01 2021-05-01,Kabardino-Balkaria,26,навальный,RU,web
+2021-04-01 2021-05-01,Kostroma Oblast,25,навальный,RU,web
+2021-04-01 2021-05-01,Udmurt Republic,24,навальный,RU,web
+2021-04-01 2021-05-01,Ulyanovsk Oblast,24,навальный,RU,web
+2021-04-01 2021-05-01,Belgorod Oblast,23,навальный,RU,web
+2021-04-01 2021-05-01,Vladimir Oblast,23,навальный,RU,web
+2021-04-01 2021-05-01,Buryatia,22,навальный,RU,web
+2021-04-01 2021-05-01,North Ossetia–Alania,21,навальный,RU,web
+2021-04-01 2021-05-01,Amur Oblast,20,навальный,RU,web
+2021-04-01 2021-05-01,Khanty-Mansi Autonomous Okrug,19,навальный,RU,web
+2021-04-01 2021-05-01,Yamalo-Nenets Autonomous Okrug,17,навальный,RU,web
+2021-04-01 2021-05-01,Bryansk Oblast,17,навальный,RU,web
+2021-04-01 2021-05-01,Kamchatka Krai,16,навальный,RU,web
+2021-04-01 2021-05-01,Zabaykalsky Krai,16,навальный,RU,web
+2021-04-01 2021-05-01,Khabarovsk Krai,15,навальный,RU,web
+2021-04-01 2021-05-01,Chechnya,15,навальный,RU,web
+2021-04-01 2021-05-01,Sakha Republic,13,навальный,RU,web
+2021-04-01 2021-05-01,Dagestan Republic,11,навальный,RU,web
+2021-04-01 2021-05-01,Kursk Oblast,8,навальный,RU,web
+2021-04-01 2021-05-01,Altai Republic,,навальный,RU,web
+2021-04-01 2021-05-01,Chukotka Autonomous Okrug,,навальный,RU,web
+2021-04-01 2021-05-01,Magadan Oblast,,навальный,RU,web
+2021-04-01 2021-05-01,Nenets Autonomous Okrug,,навальный,RU,web
+2021-04-01 2021-05-01,Sakhalin Oblast,,навальный,RU,web
+2021-04-01 2021-05-01,Tuva,,навальный,RU,web
+2021-05-01 2021-06-01,North Ossetia–Alania,100,навальный,RU,web
+2021-05-01 2021-06-01,Ulyanovsk Oblast,67,навальный,RU,web
+2021-05-01 2021-06-01,Khabarovsk Krai,64,навальный,RU,web
+2021-05-01 2021-06-01,Karachay-Cherkessia,57,навальный,RU,web
+2021-05-01 2021-06-01,Vladimir Oblast,51,навальный,RU,web
+2021-05-01 2021-06-01,Mordovia,46,навальный,RU,web
+2021-05-01 2021-06-01,Komi Republic,46,навальный,RU,web
+2021-05-01 2021-06-01,Perm Krai,45,навальный,RU,web
+2021-05-01 2021-06-01,Yaroslavl Oblast,44,навальный,RU,web
+2021-05-01 2021-06-01,Saint Petersburg,42,навальный,RU,web
+2021-05-01 2021-06-01,Moscow,42,навальный,RU,web
+2021-05-01 2021-06-01,Omsk Oblast,41,навальный,RU,web
+2021-05-01 2021-06-01,Leningrad Oblast,38,навальный,RU,web
+2021-05-01 2021-06-01,Nizhny Novgorod Oblast,38,навальный,RU,web
+2021-05-01 2021-06-01,Volgograd Oblast,38,навальный,RU,web
+2021-05-01 2021-06-01,Lipetsk Oblast,36,навальный,RU,web
+2021-05-01 2021-06-01,Krasnodar Krai,34,навальный,RU,web
+2021-05-01 2021-06-01,Yamalo-Nenets Autonomous Okrug,34,навальный,RU,web
+2021-05-01 2021-06-01,Smolensk Oblast,32,навальный,RU,web
+2021-05-01 2021-06-01,Orenburg Oblast,31,навальный,RU,web
+2021-05-01 2021-06-01,Ivanovo Oblast,29,навальный,RU,web
+2021-05-01 2021-06-01,Republic of Khakassia,29,навальный,RU,web
+2021-05-01 2021-06-01,Moscow Oblast,29,навальный,RU,web
+2021-05-01 2021-06-01,Novosibirsk Oblast,28,навальный,RU,web
+2021-05-01 2021-06-01,Penza Oblast,26,навальный,RU,web
+2021-05-01 2021-06-01,Samara Oblast,26,навальный,RU,web
+2021-05-01 2021-06-01,Stavropol Krai,26,навальный,RU,web
+2021-05-01 2021-06-01,Arkhangelsk Oblast,25,навальный,RU,web
+2021-05-01 2021-06-01,Tatarstan,25,навальный,RU,web
+2021-05-01 2021-06-01,Kaluga Oblast,24,навальный,RU,web
+2021-05-01 2021-06-01,Kemerovo Oblast,24,навальный,RU,web
+2021-05-01 2021-06-01,Kabardino-Balkaria,24,навальный,RU,web
+2021-05-01 2021-06-01,Adygea,22,навальный,RU,web
+2021-05-01 2021-06-01,Kirov Oblast,21,навальный,RU,web
+2021-05-01 2021-06-01,Tula Oblast,21,навальный,RU,web
+2021-05-01 2021-06-01,Irkutsk Oblast,21,навальный,RU,web
+2021-05-01 2021-06-01,Pskov Oblast,21,навальный,RU,web
+2021-05-01 2021-06-01,Sverdlovsk Oblast,20,навальный,RU,web
+2021-05-01 2021-06-01,Krasnoyarsk Krai,20,навальный,RU,web
+2021-05-01 2021-06-01,Kaliningrad Oblast,20,навальный,RU,web
+2021-05-01 2021-06-01,Tver Oblast,19,навальный,RU,web
+2021-05-01 2021-06-01,Primorsky Krai,19,навальный,RU,web
+2021-05-01 2021-06-01,Republic of Bashkortostan,19,навальный,RU,web
+2021-05-01 2021-06-01,Belgorod Oblast,18,навальный,RU,web
+2021-05-01 2021-06-01,Republic of Karelia,17,навальный,RU,web
+2021-05-01 2021-06-01,Sakha Republic,17,навальный,RU,web
+2021-05-01 2021-06-01,Tambov Oblast,17,навальный,RU,web
+2021-05-01 2021-06-01,Tomsk Oblast,15,навальный,RU,web
+2021-05-01 2021-06-01,Chelyabinsk Oblast,15,навальный,RU,web
+2021-05-01 2021-06-01,Murmansk Oblast,14,навальный,RU,web
+2021-05-01 2021-06-01,Dagestan Republic,14,навальный,RU,web
+2021-05-01 2021-06-01,Astrakhan Oblast,13,навальный,RU,web
+2021-05-01 2021-06-01,Tyumen Oblast,13,навальный,RU,web
+2021-05-01 2021-06-01,Rostov Oblast,13,навальный,RU,web
+2021-05-01 2021-06-01,Amur Oblast,13,навальный,RU,web
+2021-05-01 2021-06-01,Chuvashia Republic,11,навальный,RU,web
+2021-05-01 2021-06-01,Saratov Oblast,11,навальный,RU,web
+2021-05-01 2021-06-01,Khanty-Mansi Autonomous Okrug,6,навальный,RU,web
+2021-05-01 2021-06-01,Voronezh Oblast,5,навальный,RU,web
+2021-05-01 2021-06-01,Altai Krai,5,навальный,RU,web
+2021-05-01 2021-06-01,Altai Republic,,навальный,RU,web
+2021-05-01 2021-06-01,Bryansk Oblast,,навальный,RU,web
+2021-05-01 2021-06-01,Buryatia,,навальный,RU,web
+2021-05-01 2021-06-01,Chechnya,,навальный,RU,web
+2021-05-01 2021-06-01,Chukotka Autonomous Okrug,,навальный,RU,web
+2021-05-01 2021-06-01,Ingushetia,,навальный,RU,web
+2021-05-01 2021-06-01,Kamchatka Krai,,навальный,RU,web
+2021-05-01 2021-06-01,Kurgan Oblast,,навальный,RU,web
+2021-05-01 2021-06-01,Kalmykia,,навальный,RU,web
+2021-05-01 2021-06-01,Kostroma Oblast,,навальный,RU,web
+2021-05-01 2021-06-01,Kursk Oblast,,навальный,RU,web
+2021-05-01 2021-06-01,Magadan Oblast,,навальный,RU,web
+2021-05-01 2021-06-01,Mari El Republic,,навальный,RU,web
+2021-05-01 2021-06-01,Nenets Autonomous Okrug,,навальный,RU,web
+2021-05-01 2021-06-01,Novgorod Oblast,,навальный,RU,web
+2021-05-01 2021-06-01,Oryol Oblast,,навальный,RU,web
+2021-05-01 2021-06-01,Ryazan Oblast,,навальный,RU,web
+2021-05-01 2021-06-01,Sakhalin Oblast,,навальный,RU,web
+2021-05-01 2021-06-01,Tuva,,навальный,RU,web
+2021-05-01 2021-06-01,Udmurt Republic,,навальный,RU,web
+2021-05-01 2021-06-01,Vologda Oblast,,навальный,RU,web
+2021-05-01 2021-06-01,Jewish Autonomous Oblast,,навальный,RU,web
+2021-05-01 2021-06-01,Zabaykalsky Krai,,навальный,RU,web
+2021-06-01 2021-07-01,Altai Republic,100,навальный,RU,web
+2021-06-01 2021-07-01,Sakhalin Oblast,87,навальный,RU,web
+2021-06-01 2021-07-01,Mordovia,76,навальный,RU,web
+2021-06-01 2021-07-01,Novgorod Oblast,76,навальный,RU,web
+2021-06-01 2021-07-01,Bryansk Oblast,74,навальный,RU,web
+2021-06-01 2021-07-01,Pskov Oblast,68,навальный,RU,web
+2021-06-01 2021-07-01,Leningrad Oblast,67,навальный,RU,web
+2021-06-01 2021-07-01,Tula Oblast,67,навальный,RU,web
+2021-06-01 2021-07-01,Altai Krai,60,навальный,RU,web
+2021-06-01 2021-07-01,Khabarovsk Krai,58,навальный,RU,web
+2021-06-01 2021-07-01,Tambov Oblast,55,навальный,RU,web
+2021-06-01 2021-07-01,Komi Republic,53,навальный,RU,web
+2021-06-01 2021-07-01,Smolensk Oblast,52,навальный,RU,web
+2021-06-01 2021-07-01,Kursk Oblast,51,навальный,RU,web
+2021-06-01 2021-07-01,Saratov Oblast,51,навальный,RU,web
+2021-06-01 2021-07-01,Vladimir Oblast,50,навальный,RU,web
+2021-06-01 2021-07-01,Tomsk Oblast,48,навальный,RU,web
+2021-06-01 2021-07-01,Moscow Oblast,47,навальный,RU,web
+2021-06-01 2021-07-01,Ivanovo Oblast,47,навальный,RU,web
+2021-06-01 2021-07-01,Saint Petersburg,45,навальный,RU,web
+2021-06-01 2021-07-01,Moscow,45,навальный,RU,web
+2021-06-01 2021-07-01,Amur Oblast,42,навальный,RU,web
+2021-06-01 2021-07-01,Nizhny Novgorod Oblast,39,навальный,RU,web
+2021-06-01 2021-07-01,Kaluga Oblast,38,навальный,RU,web
+2021-06-01 2021-07-01,Oryol Oblast,35,навальный,RU,web
+2021-06-01 2021-07-01,Sverdlovsk Oblast,34,навальный,RU,web
+2021-06-01 2021-07-01,Kurgan Oblast,34,навальный,RU,web
+2021-06-01 2021-07-01,Krasnodar Krai,33,навальный,RU,web
+2021-06-01 2021-07-01,Mari El Republic,32,навальный,RU,web
+2021-06-01 2021-07-01,North Ossetia–Alania,32,навальный,RU,web
+2021-06-01 2021-07-01,Sakha Republic,31,навальный,RU,web
+2021-06-01 2021-07-01,Kemerovo Oblast,31,навальный,RU,web
+2021-06-01 2021-07-01,Tyumen Oblast,31,навальный,RU,web
+2021-06-01 2021-07-01,Belgorod Oblast,30,навальный,RU,web
+2021-06-01 2021-07-01,Volgograd Oblast,30,навальный,RU,web
+2021-06-01 2021-07-01,Novosibirsk Oblast,28,навальный,RU,web
+2021-06-01 2021-07-01,Republic of Karelia,28,навальный,RU,web
+2021-06-01 2021-07-01,Irkutsk Oblast,28,навальный,RU,web
+2021-06-01 2021-07-01,Tatarstan,26,навальный,RU,web
+2021-06-01 2021-07-01,Rostov Oblast,26,навальный,RU,web
+2021-06-01 2021-07-01,Primorsky Krai,25,навальный,RU,web
+2021-06-01 2021-07-01,Zabaykalsky Krai,25,навальный,RU,web
+2021-06-01 2021-07-01,Voronezh Oblast,24,навальный,RU,web
+2021-06-01 2021-07-01,Perm Krai,24,навальный,RU,web
+2021-06-01 2021-07-01,Orenburg Oblast,24,навальный,RU,web
+2021-06-01 2021-07-01,Buryatia,23,навальный,RU,web
+2021-06-01 2021-07-01,Chechnya,22,навальный,RU,web
+2021-06-01 2021-07-01,Krasnoyarsk Krai,22,навальный,RU,web
+2021-06-01 2021-07-01,Arkhangelsk Oblast,22,навальный,RU,web
+2021-06-01 2021-07-01,Kaliningrad Oblast,22,навальный,RU,web
+2021-06-01 2021-07-01,Chelyabinsk Oblast,20,навальный,RU,web
+2021-06-01 2021-07-01,Vologda Oblast,19,навальный,RU,web
+2021-06-01 2021-07-01,Tver Oblast,15,навальный,RU,web
+2021-06-01 2021-07-01,Samara Oblast,13,навальный,RU,web
+2021-06-01 2021-07-01,Udmurt Republic,12,навальный,RU,web
+2021-06-01 2021-07-01,Khanty-Mansi Autonomous Okrug,10,навальный,RU,web
+2021-06-01 2021-07-01,Omsk Oblast,9,навальный,RU,web
+2021-06-01 2021-07-01,Stavropol Krai,7,навальный,RU,web
+2021-06-01 2021-07-01,Republic of Bashkortostan,5,навальный,RU,web
+2021-06-01 2021-07-01,Adygea,,навальный,RU,web
+2021-06-01 2021-07-01,Astrakhan Oblast,,навальный,RU,web
+2021-06-01 2021-07-01,Chukotka Autonomous Okrug,,навальный,RU,web
+2021-06-01 2021-07-01,Chuvashia Republic,,навальный,RU,web
+2021-06-01 2021-07-01,Dagestan Republic,,навальный,RU,web
+2021-06-01 2021-07-01,Ingushetia,,навальный,RU,web
+2021-06-01 2021-07-01,Kamchatka Krai,,навальный,RU,web
+2021-06-01 2021-07-01,Kabardino-Balkaria,,навальный,RU,web
+2021-06-01 2021-07-01,Karachay-Cherkessia,,навальный,RU,web
+2021-06-01 2021-07-01,Kirov Oblast,,навальный,RU,web
+2021-06-01 2021-07-01,Republic of Khakassia,,навальный,RU,web
+2021-06-01 2021-07-01,Kalmykia,,навальный,RU,web
+2021-06-01 2021-07-01,Kostroma Oblast,,навальный,RU,web
+2021-06-01 2021-07-01,Lipetsk Oblast,,навальный,RU,web
+2021-06-01 2021-07-01,Magadan Oblast,,навальный,RU,web
+2021-06-01 2021-07-01,Murmansk Oblast,,навальный,RU,web
+2021-06-01 2021-07-01,Nenets Autonomous Okrug,,навальный,RU,web
+2021-06-01 2021-07-01,Penza Oblast,,навальный,RU,web
+2021-06-01 2021-07-01,Ryazan Oblast,,навальный,RU,web
+2021-06-01 2021-07-01,Tuva,,навальный,RU,web
+2021-06-01 2021-07-01,Ulyanovsk Oblast,,навальный,RU,web
+2021-06-01 2021-07-01,Yamalo-Nenets Autonomous Okrug,,навальный,RU,web
+2021-06-01 2021-07-01,Yaroslavl Oblast,,навальный,RU,web
+2021-06-01 2021-07-01,Jewish Autonomous Oblast,,навальный,RU,web
+2021-07-01 2021-08-01,Magadan Oblast,100,навальный,RU,web
+2021-07-01 2021-08-01,Ingushetia,65,навальный,RU,web
+2021-07-01 2021-08-01,Ulyanovsk Oblast,57,навальный,RU,web
+2021-07-01 2021-08-01,Bryansk Oblast,56,навальный,RU,web
+2021-07-01 2021-08-01,Pskov Oblast,54,навальный,RU,web
+2021-07-01 2021-08-01,Kaluga Oblast,46,навальный,RU,web
+2021-07-01 2021-08-01,Leningrad Oblast,39,навальный,RU,web
+2021-07-01 2021-08-01,Khabarovsk Krai,38,навальный,RU,web
+2021-07-01 2021-08-01,Republic of Bashkortostan,37,навальный,RU,web
+2021-07-01 2021-08-01,Krasnoyarsk Krai,37,навальный,RU,web
+2021-07-01 2021-08-01,Astrakhan Oblast,36,навальный,RU,web
+2021-07-01 2021-08-01,Saratov Oblast,35,навальный,RU,web
+2021-07-01 2021-08-01,Tula Oblast,34,навальный,RU,web
+2021-07-01 2021-08-01,Tyumen Oblast,32,навальный,RU,web
+2021-07-01 2021-08-01,Nizhny Novgorod Oblast,31,навальный,RU,web
+2021-07-01 2021-08-01,Yaroslavl Oblast,29,навальный,RU,web
+2021-07-01 2021-08-01,Oryol Oblast,28,навальный,RU,web
+2021-07-01 2021-08-01,Yamalo-Nenets Autonomous Okrug,27,навальный,RU,web
+2021-07-01 2021-08-01,Samara Oblast,27,навальный,RU,web
+2021-07-01 2021-08-01,Moscow,27,навальный,RU,web
+2021-07-01 2021-08-01,Sakha Republic,26,навальный,RU,web
+2021-07-01 2021-08-01,Vladimir Oblast,26,навальный,RU,web
+2021-07-01 2021-08-01,Moscow Oblast,25,навальный,RU,web
+2021-07-01 2021-08-01,Tver Oblast,25,навальный,RU,web
+2021-07-01 2021-08-01,Altai Krai,24,навальный,RU,web
+2021-07-01 2021-08-01,Sakhalin Oblast,23,навальный,RU,web
+2021-07-01 2021-08-01,Krasnodar Krai,22,навальный,RU,web
+2021-07-01 2021-08-01,Tatarstan,21,навальный,RU,web
+2021-07-01 2021-08-01,Murmansk Oblast,21,навальный,RU,web
+2021-07-01 2021-08-01,Zabaykalsky Krai,21,навальный,RU,web
+2021-07-01 2021-08-01,Novosibirsk Oblast,20,навальный,RU,web
+2021-07-01 2021-08-01,Saint Petersburg,20,навальный,RU,web
+2021-07-01 2021-08-01,Voronezh Oblast,20,навальный,RU,web
+2021-07-01 2021-08-01,Kemerovo Oblast,19,навальный,RU,web
+2021-07-01 2021-08-01,Sverdlovsk Oblast,19,навальный,RU,web
+2021-07-01 2021-08-01,Chelyabinsk Oblast,19,навальный,RU,web
+2021-07-01 2021-08-01,Penza Oblast,17,навальный,RU,web
+2021-07-01 2021-08-01,Dagestan Republic,16,навальный,RU,web
+2021-07-01 2021-08-01,Volgograd Oblast,16,навальный,RU,web
+2021-07-01 2021-08-01,Omsk Oblast,15,навальный,RU,web
+2021-07-01 2021-08-01,Vologda Oblast,15,навальный,RU,web
+2021-07-01 2021-08-01,Kirov Oblast,14,навальный,RU,web
+2021-07-01 2021-08-01,Belgorod Oblast,12,навальный,RU,web
+2021-07-01 2021-08-01,Primorsky Krai,12,навальный,RU,web
+2021-07-01 2021-08-01,Stavropol Krai,11,навальный,RU,web
+2021-07-01 2021-08-01,Tomsk Oblast,11,навальный,RU,web
+2021-07-01 2021-08-01,Orenburg Oblast,10,навальный,RU,web
+2021-07-01 2021-08-01,Rostov Oblast,9,навальный,RU,web
+2021-07-01 2021-08-01,Khanty-Mansi Autonomous Okrug,9,навальный,RU,web
+2021-07-01 2021-08-01,Kaliningrad Oblast,8,навальный,RU,web
+2021-07-01 2021-08-01,Perm Krai,6,навальный,RU,web
+2021-07-01 2021-08-01,Irkutsk Oblast,6,навальный,RU,web
+2021-07-01 2021-08-01,Adygea,,навальный,RU,web
+2021-07-01 2021-08-01,Altai Republic,,навальный,RU,web
+2021-07-01 2021-08-01,Amur Oblast,,навальный,RU,web
+2021-07-01 2021-08-01,Arkhangelsk Oblast,,навальный,RU,web
+2021-07-01 2021-08-01,Buryatia,,навальный,RU,web
+2021-07-01 2021-08-01,Chechnya,,навальный,RU,web
+2021-07-01 2021-08-01,Chukotka Autonomous Okrug,,навальный,RU,web
+2021-07-01 2021-08-01,Chuvashia Republic,,навальный,RU,web
+2021-07-01 2021-08-01,Ivanovo Oblast,,навальный,RU,web
+2021-07-01 2021-08-01,Kamchatka Krai,,навальный,RU,web
+2021-07-01 2021-08-01,Kabardino-Balkaria,,навальный,RU,web
+2021-07-01 2021-08-01,Karachay-Cherkessia,,навальный,RU,web
+2021-07-01 2021-08-01,Kurgan Oblast,,навальный,RU,web
+2021-07-01 2021-08-01,Republic of Khakassia,,навальный,RU,web
+2021-07-01 2021-08-01,Kalmykia,,навальный,RU,web
+2021-07-01 2021-08-01,Komi Republic,,навальный,RU,web
+2021-07-01 2021-08-01,Kostroma Oblast,,навальный,RU,web
+2021-07-01 2021-08-01,Republic of Karelia,,навальный,RU,web
+2021-07-01 2021-08-01,Kursk Oblast,,навальный,RU,web
+2021-07-01 2021-08-01,Lipetsk Oblast,,навальный,RU,web
+2021-07-01 2021-08-01,Mari El Republic,,навальный,RU,web
+2021-07-01 2021-08-01,Mordovia,,навальный,RU,web
+2021-07-01 2021-08-01,Nenets Autonomous Okrug,,навальный,RU,web
+2021-07-01 2021-08-01,Novgorod Oblast,,навальный,RU,web
+2021-07-01 2021-08-01,Ryazan Oblast,,навальный,RU,web
+2021-07-01 2021-08-01,North Ossetia–Alania,,навальный,RU,web
+2021-07-01 2021-08-01,Smolensk Oblast,,навальный,RU,web
+2021-07-01 2021-08-01,Tambov Oblast,,навальный,RU,web
+2021-07-01 2021-08-01,Tuva,,навальный,RU,web
+2021-07-01 2021-08-01,Udmurt Republic,,навальный,RU,web
+2021-07-01 2021-08-01,Jewish Autonomous Oblast,,навальный,RU,web
+2021-08-01 2021-09-01,Kamchatka Krai,100,навальный,RU,web
+2021-08-01 2021-09-01,North Ossetia–Alania,82,навальный,RU,web
+2021-08-01 2021-09-01,Smolensk Oblast,69,навальный,RU,web
+2021-08-01 2021-09-01,Zabaykalsky Krai,69,навальный,RU,web
+2021-08-01 2021-09-01,Oryol Oblast,60,навальный,RU,web
+2021-08-01 2021-09-01,Sakhalin Oblast,46,навальный,RU,web
+2021-08-01 2021-09-01,Vladimir Oblast,42,навальный,RU,web
+2021-08-01 2021-09-01,Belgorod Oblast,40,навальный,RU,web
+2021-08-01 2021-09-01,Amur Oblast,38,навальный,RU,web
+2021-08-01 2021-09-01,Chechnya,38,навальный,RU,web
+2021-08-01 2021-09-01,Moscow,36,навальный,RU,web
+2021-08-01 2021-09-01,Kemerovo Oblast,34,навальный,RU,web
+2021-08-01 2021-09-01,Yaroslavl Oblast,34,навальный,RU,web
+2021-08-01 2021-09-01,Lipetsk Oblast,34,навальный,RU,web
+2021-08-01 2021-09-01,Mordovia,33,навальный,RU,web
+2021-08-01 2021-09-01,Kabardino-Balkaria,33,навальный,RU,web
+2021-08-01 2021-09-01,Udmurt Republic,33,навальный,RU,web
+2021-08-01 2021-09-01,Nizhny Novgorod Oblast,32,навальный,RU,web
+2021-08-01 2021-09-01,Ulyanovsk Oblast,32,навальный,RU,web
+2021-08-01 2021-09-01,Sakha Republic,29,навальный,RU,web
+2021-08-01 2021-09-01,Pskov Oblast,28,навальный,RU,web
+2021-08-01 2021-09-01,Moscow Oblast,28,навальный,RU,web
+2021-08-01 2021-09-01,Mari El Republic,27,навальный,RU,web
+2021-08-01 2021-09-01,Tatarstan,27,навальный,RU,web
+2021-08-01 2021-09-01,Saint Petersburg,27,навальный,RU,web
+2021-08-01 2021-09-01,Dagestan Republic,27,навальный,RU,web
+2021-08-01 2021-09-01,Tyumen Oblast,26,навальный,RU,web
+2021-08-01 2021-09-01,Republic of Karelia,25,навальный,RU,web
+2021-08-01 2021-09-01,Komi Republic,24,навальный,RU,web
+2021-08-01 2021-09-01,Tambov Oblast,24,навальный,RU,web
+2021-08-01 2021-09-01,Samara Oblast,22,навальный,RU,web
+2021-08-01 2021-09-01,Kursk Oblast,22,навальный,RU,web
+2021-08-01 2021-09-01,Murmansk Oblast,22,навальный,RU,web
+2021-08-01 2021-09-01,Orenburg Oblast,21,навальный,RU,web
+2021-08-01 2021-09-01,Chelyabinsk Oblast,21,навальный,RU,web
+2021-08-01 2021-09-01,Bryansk Oblast,21,навальный,RU,web
+2021-08-01 2021-09-01,Republic of Bashkortostan,20,навальный,RU,web
+2021-08-01 2021-09-01,Krasnodar Krai,20,навальный,RU,web
+2021-08-01 2021-09-01,Buryatia,20,навальный,RU,web
+2021-08-01 2021-09-01,Altai Krai,20,навальный,RU,web
+2021-08-01 2021-09-01,Arkhangelsk Oblast,19,навальный,RU,web
+2021-08-01 2021-09-01,Leningrad Oblast,19,навальный,RU,web
+2021-08-01 2021-09-01,Ryazan Oblast,18,навальный,RU,web
+2021-08-01 2021-09-01,Kaluga Oblast,17,навальный,RU,web
+2021-08-01 2021-09-01,Chuvashia Republic,16,навальный,RU,web
+2021-08-01 2021-09-01,Vologda Oblast,16,навальный,RU,web
+2021-08-01 2021-09-01,Kirov Oblast,16,навальный,RU,web
+2021-08-01 2021-09-01,Krasnoyarsk Krai,15,навальный,RU,web
+2021-08-01 2021-09-01,Voronezh Oblast,15,навальный,RU,web
+2021-08-01 2021-09-01,Novosibirsk Oblast,15,навальный,RU,web
+2021-08-01 2021-09-01,Perm Krai,14,навальный,RU,web
+2021-08-01 2021-09-01,Tula Oblast,14,навальный,RU,web
+2021-08-01 2021-09-01,Sverdlovsk Oblast,14,навальный,RU,web
+2021-08-01 2021-09-01,Rostov Oblast,14,навальный,RU,web
+2021-08-01 2021-09-01,Tver Oblast,13,навальный,RU,web
+2021-08-01 2021-09-01,Khabarovsk Krai,11,навальный,RU,web
+2021-08-01 2021-09-01,Irkutsk Oblast,11,навальный,RU,web
+2021-08-01 2021-09-01,Khanty-Mansi Autonomous Okrug,9,навальный,RU,web
+2021-08-01 2021-09-01,Primorsky Krai,9,навальный,RU,web
+2021-08-01 2021-09-01,Kaliningrad Oblast,9,навальный,RU,web
+2021-08-01 2021-09-01,Omsk Oblast,8,навальный,RU,web
+2021-08-01 2021-09-01,Volgograd Oblast,8,навальный,RU,web
+2021-08-01 2021-09-01,Adygea,,навальный,RU,web
+2021-08-01 2021-09-01,Altai Republic,,навальный,RU,web
+2021-08-01 2021-09-01,Astrakhan Oblast,,навальный,RU,web
+2021-08-01 2021-09-01,Chukotka Autonomous Okrug,,навальный,RU,web
+2021-08-01 2021-09-01,Ingushetia,,навальный,RU,web
+2021-08-01 2021-09-01,Ivanovo Oblast,,навальный,RU,web
+2021-08-01 2021-09-01,Karachay-Cherkessia,,навальный,RU,web
+2021-08-01 2021-09-01,Kurgan Oblast,,навальный,RU,web
+2021-08-01 2021-09-01,Republic of Khakassia,,навальный,RU,web
+2021-08-01 2021-09-01,Kalmykia,,навальный,RU,web
+2021-08-01 2021-09-01,Kostroma Oblast,,навальный,RU,web
+2021-08-01 2021-09-01,Magadan Oblast,,навальный,RU,web
+2021-08-01 2021-09-01,Nenets Autonomous Okrug,,навальный,RU,web
+2021-08-01 2021-09-01,Novgorod Oblast,,навальный,RU,web
+2021-08-01 2021-09-01,Penza Oblast,,навальный,RU,web
+2021-08-01 2021-09-01,Saratov Oblast,,навальный,RU,web
+2021-08-01 2021-09-01,Stavropol Krai,,навальный,RU,web
+2021-08-01 2021-09-01,Tomsk Oblast,,навальный,RU,web
+2021-08-01 2021-09-01,Tuva,,навальный,RU,web
+2021-08-01 2021-09-01,Yamalo-Nenets Autonomous Okrug,,навальный,RU,web
+2021-08-01 2021-09-01,Jewish Autonomous Oblast,,навальный,RU,web
+2021-09-01 2021-10-01,Chukotka Autonomous Okrug,100,навальный,RU,web
+2021-09-01 2021-10-01,Republic of Khakassia,15,навальный,RU,web
+2021-09-01 2021-10-01,North Ossetia–Alania,15,навальный,RU,web
+2021-09-01 2021-10-01,Ingushetia,13,навальный,RU,web
+2021-09-01 2021-10-01,Lipetsk Oblast,13,навальный,RU,web
+2021-09-01 2021-10-01,Kostroma Oblast,12,навальный,RU,web
+2021-09-01 2021-10-01,Mordovia,12,навальный,RU,web
+2021-09-01 2021-10-01,Saratov Oblast,9,навальный,RU,web
+2021-09-01 2021-10-01,Republic of Karelia,9,навальный,RU,web
+2021-09-01 2021-10-01,Kirov Oblast,9,навальный,RU,web
+2021-09-01 2021-10-01,Komi Republic,8,навальный,RU,web
+2021-09-01 2021-10-01,Vladimir Oblast,8,навальный,RU,web
+2021-09-01 2021-10-01,Kursk Oblast,8,навальный,RU,web
+2021-09-01 2021-10-01,Tatarstan,8,навальный,RU,web
+2021-09-01 2021-10-01,Murmansk Oblast,8,навальный,RU,web
+2021-09-01 2021-10-01,Moscow Oblast,7,навальный,RU,web
+2021-09-01 2021-10-01,Leningrad Oblast,7,навальный,RU,web
+2021-09-01 2021-10-01,Ryazan Oblast,7,навальный,RU,web
+2021-09-01 2021-10-01,Chelyabinsk Oblast,7,навальный,RU,web
+2021-09-01 2021-10-01,Novosibirsk Oblast,7,навальный,RU,web
+2021-09-01 2021-10-01,Perm Krai,6,навальный,RU,web
+2021-09-01 2021-10-01,Moscow,6,навальный,RU,web
+2021-09-01 2021-10-01,Khabarovsk Krai,6,навальный,RU,web
+2021-09-01 2021-10-01,Vologda Oblast,6,навальный,RU,web
+2021-09-01 2021-10-01,Chuvashia Republic,6,навальный,RU,web
+2021-09-01 2021-10-01,Kurgan Oblast,6,навальный,RU,web
+2021-09-01 2021-10-01,Oryol Oblast,6,навальный,RU,web
+2021-09-01 2021-10-01,Saint Petersburg,6,навальный,RU,web
+2021-09-01 2021-10-01,Tula Oblast,5,навальный,RU,web
+2021-09-01 2021-10-01,Republic of Bashkortostan,5,навальный,RU,web
+2021-09-01 2021-10-01,Krasnoyarsk Krai,5,навальный,RU,web
+2021-09-01 2021-10-01,Dagestan Republic,5,навальный,RU,web
+2021-09-01 2021-10-01,Krasnodar Krai,5,навальный,RU,web
+2021-09-01 2021-10-01,Omsk Oblast,5,навальный,RU,web
+2021-09-01 2021-10-01,Sakhalin Oblast,5,навальный,RU,web
+2021-09-01 2021-10-01,Irkutsk Oblast,4,навальный,RU,web
+2021-09-01 2021-10-01,Nizhny Novgorod Oblast,4,навальный,RU,web
+2021-09-01 2021-10-01,Belgorod Oblast,4,навальный,RU,web
+2021-09-01 2021-10-01,Sverdlovsk Oblast,4,навальный,RU,web
+2021-09-01 2021-10-01,Tomsk Oblast,4,навальный,RU,web
+2021-09-01 2021-10-01,Ivanovo Oblast,4,навальный,RU,web
+2021-09-01 2021-10-01,Buryatia,4,навальный,RU,web
+2021-09-01 2021-10-01,Altai Krai,4,навальный,RU,web
+2021-09-01 2021-10-01,Kaliningrad Oblast,3,навальный,RU,web
+2021-09-01 2021-10-01,Chechnya,3,навальный,RU,web
+2021-09-01 2021-10-01,Astrakhan Oblast,3,навальный,RU,web
+2021-09-01 2021-10-01,Kaluga Oblast,3,навальный,RU,web
+2021-09-01 2021-10-01,Samara Oblast,3,навальный,RU,web
+2021-09-01 2021-10-01,Khanty-Mansi Autonomous Okrug,3,навальный,RU,web
+2021-09-01 2021-10-01,Ulyanovsk Oblast,3,навальный,RU,web
+2021-09-01 2021-10-01,Voronezh Oblast,3,навальный,RU,web
+2021-09-01 2021-10-01,Tver Oblast,3,навальный,RU,web
+2021-09-01 2021-10-01,Kemerovo Oblast,3,навальный,RU,web
+2021-09-01 2021-10-01,Primorsky Krai,2,навальный,RU,web
+2021-09-01 2021-10-01,Sakha Republic,2,навальный,RU,web
+2021-09-01 2021-10-01,Stavropol Krai,2,навальный,RU,web
+2021-09-01 2021-10-01,Tyumen Oblast,2,навальный,RU,web
+2021-09-01 2021-10-01,Rostov Oblast,1,навальный,RU,web
+2021-09-01 2021-10-01,Adygea,,навальный,RU,web
+2021-09-01 2021-10-01,Altai Republic,,навальный,RU,web
+2021-09-01 2021-10-01,Amur Oblast,,навальный,RU,web
+2021-09-01 2021-10-01,Arkhangelsk Oblast,,навальный,RU,web
+2021-09-01 2021-10-01,Bryansk Oblast,,навальный,RU,web
+2021-09-01 2021-10-01,Kamchatka Krai,,навальный,RU,web
+2021-09-01 2021-10-01,Kabardino-Balkaria,,навальный,RU,web
+2021-09-01 2021-10-01,Karachay-Cherkessia,,навальный,RU,web
+2021-09-01 2021-10-01,Kalmykia,,навальный,RU,web
+2021-09-01 2021-10-01,Magadan Oblast,,навальный,RU,web
+2021-09-01 2021-10-01,Mari El Republic,,навальный,RU,web
+2021-09-01 2021-10-01,Nenets Autonomous Okrug,,навальный,RU,web
+2021-09-01 2021-10-01,Novgorod Oblast,,навальный,RU,web
+2021-09-01 2021-10-01,Orenburg Oblast,,навальный,RU,web
+2021-09-01 2021-10-01,Penza Oblast,,навальный,RU,web
+2021-09-01 2021-10-01,Pskov Oblast,,навальный,RU,web
+2021-09-01 2021-10-01,Smolensk Oblast,,навальный,RU,web
+2021-09-01 2021-10-01,Tambov Oblast,,навальный,RU,web
+2021-09-01 2021-10-01,Tuva,,навальный,RU,web
+2021-09-01 2021-10-01,Udmurt Republic,,навальный,RU,web
+2021-09-01 2021-10-01,Volgograd Oblast,,навальный,RU,web
+2021-09-01 2021-10-01,Yamalo-Nenets Autonomous Okrug,,навальный,RU,web
+2021-09-01 2021-10-01,Yaroslavl Oblast,,навальный,RU,web
+2021-09-01 2021-10-01,Jewish Autonomous Oblast,,навальный,RU,web
+2021-09-01 2021-10-01,Zabaykalsky Krai,,навальный,RU,web
+2021-10-01 2021-11-01,Republic of Karelia,100,навальный,RU,web
+2021-10-01 2021-11-01,Ulyanovsk Oblast,66,навальный,RU,web
+2021-10-01 2021-11-01,Leningrad Oblast,51,навальный,RU,web
+2021-10-01 2021-11-01,Nizhny Novgorod Oblast,48,навальный,RU,web
+2021-10-01 2021-11-01,Lipetsk Oblast,47,навальный,RU,web
+2021-10-01 2021-11-01,Tula Oblast,46,навальный,RU,web
+2021-10-01 2021-11-01,Volgograd Oblast,46,навальный,RU,web
+2021-10-01 2021-11-01,Kurgan Oblast,41,навальный,RU,web
+2021-10-01 2021-11-01,Tver Oblast,39,навальный,RU,web
+2021-10-01 2021-11-01,Samara Oblast,38,навальный,RU,web
+2021-10-01 2021-11-01,Moscow,34,навальный,RU,web
+2021-10-01 2021-11-01,Altai Krai,34,навальный,RU,web
+2021-10-01 2021-11-01,Saint Petersburg,34,навальный,RU,web
+2021-10-01 2021-11-01,Belgorod Oblast,33,навальный,RU,web
+2021-10-01 2021-11-01,Krasnoyarsk Krai,32,навальный,RU,web
+2021-10-01 2021-11-01,Tomsk Oblast,30,навальный,RU,web
+2021-10-01 2021-11-01,Saratov Oblast,30,навальный,RU,web
+2021-10-01 2021-11-01,Primorsky Krai,30,навальный,RU,web
+2021-10-01 2021-11-01,Tatarstan,28,навальный,RU,web
+2021-10-01 2021-11-01,Yaroslavl Oblast,28,навальный,RU,web
+2021-10-01 2021-11-01,Murmansk Oblast,26,навальный,RU,web
+2021-10-01 2021-11-01,Rostov Oblast,24,навальный,RU,web
+2021-10-01 2021-11-01,Kaluga Oblast,24,навальный,RU,web
+2021-10-01 2021-11-01,Moscow Oblast,23,навальный,RU,web
+2021-10-01 2021-11-01,Chuvashia Republic,22,навальный,RU,web
+2021-10-01 2021-11-01,Republic of Bashkortostan,22,навальный,RU,web
+2021-10-01 2021-11-01,Vologda Oblast,22,навальный,RU,web
+2021-10-01 2021-11-01,Vladimir Oblast,20,навальный,RU,web
+2021-10-01 2021-11-01,Perm Krai,19,навальный,RU,web
+2021-10-01 2021-11-01,Voronezh Oblast,19,навальный,RU,web
+2021-10-01 2021-11-01,Kemerovo Oblast,18,навальный,RU,web
+2021-10-01 2021-11-01,Udmurt Republic,15,навальный,RU,web
+2021-10-01 2021-11-01,Sverdlovsk Oblast,15,навальный,RU,web
+2021-10-01 2021-11-01,Orenburg Oblast,14,навальный,RU,web
+2021-10-01 2021-11-01,Novosibirsk Oblast,14,навальный,RU,web
+2021-10-01 2021-11-01,Khabarovsk Krai,14,навальный,RU,web
+2021-10-01 2021-11-01,Chelyabinsk Oblast,13,навальный,RU,web
+2021-10-01 2021-11-01,Krasnodar Krai,13,навальный,RU,web
+2021-10-01 2021-11-01,Kaliningrad Oblast,13,навальный,RU,web
+2021-10-01 2021-11-01,Khanty-Mansi Autonomous Okrug,11,навальный,RU,web
+2021-10-01 2021-11-01,Irkutsk Oblast,10,навальный,RU,web
+2021-10-01 2021-11-01,Adygea,,навальный,RU,web
+2021-10-01 2021-11-01,Altai Republic,,навальный,RU,web
+2021-10-01 2021-11-01,Amur Oblast,,навальный,RU,web
+2021-10-01 2021-11-01,Arkhangelsk Oblast,,навальный,RU,web
+2021-10-01 2021-11-01,Astrakhan Oblast,,навальный,RU,web
+2021-10-01 2021-11-01,Bryansk Oblast,,навальный,RU,web
+2021-10-01 2021-11-01,Buryatia,,навальный,RU,web
+2021-10-01 2021-11-01,Chechnya,,навальный,RU,web
+2021-10-01 2021-11-01,Chukotka Autonomous Okrug,,навальный,RU,web
+2021-10-01 2021-11-01,Dagestan Republic,,навальный,RU,web
+2021-10-01 2021-11-01,Ingushetia,,навальный,RU,web
+2021-10-01 2021-11-01,Ivanovo Oblast,,навальный,RU,web
+2021-10-01 2021-11-01,Kamchatka Krai,,навальный,RU,web
+2021-10-01 2021-11-01,Kabardino-Balkaria,,навальный,RU,web
+2021-10-01 2021-11-01,Karachay-Cherkessia,,навальный,RU,web
+2021-10-01 2021-11-01,Kirov Oblast,,навальный,RU,web
+2021-10-01 2021-11-01,Republic of Khakassia,,навальный,RU,web
+2021-10-01 2021-11-01,Kalmykia,,навальный,RU,web
+2021-10-01 2021-11-01,Komi Republic,,навальный,RU,web
+2021-10-01 2021-11-01,Kostroma Oblast,,навальный,RU,web
+2021-10-01 2021-11-01,Kursk Oblast,,навальный,RU,web
+2021-10-01 2021-11-01,Magadan Oblast,,навальный,RU,web
+2021-10-01 2021-11-01,Mari El Republic,,навальный,RU,web
+2021-10-01 2021-11-01,Mordovia,,навальный,RU,web
+2021-10-01 2021-11-01,Nenets Autonomous Okrug,,навальный,RU,web
+2021-10-01 2021-11-01,Novgorod Oblast,,навальный,RU,web
+2021-10-01 2021-11-01,Omsk Oblast,,навальный,RU,web
+2021-10-01 2021-11-01,Oryol Oblast,,навальный,RU,web
+2021-10-01 2021-11-01,Penza Oblast,,навальный,RU,web
+2021-10-01 2021-11-01,Pskov Oblast,,навальный,RU,web
+2021-10-01 2021-11-01,Ryazan Oblast,,навальный,RU,web
+2021-10-01 2021-11-01,Sakha Republic,,навальный,RU,web
+2021-10-01 2021-11-01,Sakhalin Oblast,,навальный,RU,web
+2021-10-01 2021-11-01,North Ossetia–Alania,,навальный,RU,web
+2021-10-01 2021-11-01,Smolensk Oblast,,навальный,RU,web
+2021-10-01 2021-11-01,Stavropol Krai,,навальный,RU,web
+2021-10-01 2021-11-01,Tambov Oblast,,навальный,RU,web
+2021-10-01 2021-11-01,Tuva,,навальный,RU,web
+2021-10-01 2021-11-01,Tyumen Oblast,,навальный,RU,web
+2021-10-01 2021-11-01,Yamalo-Nenets Autonomous Okrug,,навальный,RU,web
+2021-10-01 2021-11-01,Jewish Autonomous Oblast,,навальный,RU,web
+2021-10-01 2021-11-01,Zabaykalsky Krai,,навальный,RU,web
