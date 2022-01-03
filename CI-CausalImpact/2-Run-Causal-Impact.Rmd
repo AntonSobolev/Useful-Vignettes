@@ -46,13 +46,9 @@ ggplot(d) +
   geom_vline(xintercept = tweets[1])
 ```
 
-
-
-
 ```{r}
 times <- d$date
 d[,date := NULL]
-
 d <- zoo(d,times)
 ```
 

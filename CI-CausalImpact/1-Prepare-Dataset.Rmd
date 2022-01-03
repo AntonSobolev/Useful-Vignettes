@@ -32,15 +32,10 @@ path <- "0-Data/causal-impact-dogecoin.csv"
 fwrite(d, path)
 ```
 
-
 ```{r}
 tweets <- as.POSIXct(
   c(
-  '2021-01-28 22:47:00 UTC',
-  '2021-02-04 07:29:00 UTC',
-  '2021-02-04 08:15:00 UTC',
-  '2021-02-04 07:57:00 UTC',
-  '2021-02-04 08:27:00 UTC'
+  '2021-01-28 22:47:00 UTC'
   ), tz = 'UTC'
 )
 ```
