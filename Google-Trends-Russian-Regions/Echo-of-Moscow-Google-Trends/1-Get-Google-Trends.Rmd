@@ -1,0 +1,71 @@
+---
+title: "Google Trends: Echo-of-Moscow"
+author: "Anton Sobolev"
+output:
+  html_document: default
+  pdf_document: default
+---
+### Prepare data
+### Packages
+```{r, include=FALSE}
+if (!require("pacman")) install.packages("pacman")
+p_load(data.table, dplyr, tidyr, gtrendsR, drat)
+drat:::add("ghrr") 
+library(gtrendsR)
+library(devtools)
+# install_github('zachokeeffe/gtrendsR',force=T)
+`%+%` <- function(x,y){paste0(x, y)} 
+# devtools::install_github("PMassicotte/gtrendsR@low-search-volume")
+# devtools::install_github('diplodata/gtrendsR')
+```
+### Load data
+
+```{r}
+location <- hits <- keyword <- geo <- gprop <- NA
+d.bin <- cbind(location,hits, keyword,geo,gprop) %>% data.table()
+days <- seq(as.Date("2019-01-01"), as.Date("2021-10-30"), by="days")
+# next.days <- seq(as.Date("2011-12-02"), as.Date("2012-03-31"), by="days")
+dates <- '2019-01-01 2021-02-01'
+	 # paste(days,next.days)
+
+months <- c('01', '02', '03', '04', '05', '06', '07', '08', '09', '10', '11', '12')
+years <- 2019:2021
+day <- '01'
+
+
+year.2019 <- 2019 %+% "-"  %+% months
+year.2020 <- 2020 %+% "-"  %+% months
+year.2021 <- 2021 %+% "-"  %+% months[1:11]
+
+years <- c(year.2019,year.2020,year.2021)
+
+years <- years %+% "-" %+% '01'
+
+years.lag <- years[-1]
+
+dates <- years %+% " " %+% years.lag
+dates <- dates[-length(dates)] 
+
+i = 1
+d.bin <- data.table()
+# dates <- dates[1:2]
+# date.i <- dates[1]
+# date.i <- "2020-01-01 2020-02-01"
+for(date.i in dates[1:2]){
+Sys.sleep(3)
+print(i)
+# trend <- gtrends(c("дворец пут") , geo = "RU",
+#                  time=dates,gprop='web',category=0,onlyInterest = TRUE )
+
+trend <- gtrends(c("фбк"), gprop ='web', geo='RU', time = date.i )
+ 
+trend <- data.table(date = date.i, trend$interest_by_region)
+d.bin <- rbind(d.bin, trend) %>% data.table()
+i = i + 1
+}
+```
+
+```{r}
+fwrite(d.bin,"gtrends-fbk.csv", row.names = F, quote = F, append = F)
+```
+

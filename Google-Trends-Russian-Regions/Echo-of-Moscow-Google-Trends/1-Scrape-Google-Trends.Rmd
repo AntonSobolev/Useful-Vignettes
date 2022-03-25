@@ -1,0 +1,48 @@
+---
+title: "Google Trends: Echo-of-Moscow"
+author: "Anton Sobolev"
+output:
+  html_document: default
+  pdf_document: default
+---
+### Prepare data
+### Packages
+```{r, include=FALSE}
+if (!require("pacman")) install.packages("pacman")
+p_load(data.table, dplyr, tidyr, gtrendsR, drat)
+drat:::add("ghrr") 
+library(gtrendsR)
+library(devtools)
+# install_github('zachokeeffe/gtrendsR',force=T)
+```
+
+```{r}
+path <- '0-Data/country-codes.csv'
+d.codes <- fread(path)
+```
+
+```{r}
+keywords=c("ddos")
+#set the geographic area: DE = Germany
+countries='RU'
+#set the time window
+time=("2014-01-01 2015-01-02")
+#set channels 
+channel='web'
+```
+
+```{r}
+time_trends <- data.table()
+country.i <- countries[1]
+for(country.i in countries){
+trends = gtrends(keywords, gprop =channel, geo=country.i, time = time)
+#select only interst over time 
+time_trend=trends$interest_over_time
+time_trends <- list(time_trends, time_trend) %>% rbindlist()
+}
+```
+
+```{r}
+fwrite(time_trends,"0-Data/google-trends-ddos-by-country.csv", row.names = F, quote = F, append = T)
+```
+
