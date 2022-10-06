@@ -1,5 +1,5 @@
 if (!require("pacman")) install.packages("pacman")
-p_load(data.table, dplyr, plyr, tidyr, devtools, ggpubr) # Packages for text mining
+p_load(data.table, dplyr, plyr, tidyr, devtools, ggpubr, scales,RColorBrewer) # Packages for text mining
 p_load(ggraph, igraph ,gganimate, graphlayouts, patchwork)
 p_load(gifski, ggrepel,transformr)
 p_load(png)  
@@ -13,14 +13,66 @@ theme_set(theme_pubr(border = TRUE))
 library(ggplot2)
 library(gganimate)
 
-path <- 'https://asobolev.com/files/0-classes/2021F-CyberPolicy/0-Data/ransomware-augmented.csv'
+cols <- brewer.pal(n = 8, name = "Spectral")[c(6,1)]
+# display.brewer.pal(n = 8, name = 'Spectral')
+
+# path <- 'https://asobolev.com/files/0-classes/2021F-CyberPolicy/0-Data/ransomware-augmented.csv'
+# d <- fread(path)
+path <- '0-Data/ransom-simulated-1.csv'
 d <- fread(path)
+
+d[, y := 1:.N, by=ransom]
+
+d[,id:=1:nrow(d)]
+
 true_mean <- mean(d$ransom)
+
+set.seed(1)
+n = 10
+sampled.ids <-  sample(d$id, n)
+
+d[,`In Sample` := '-']
+d[id %in% sampled.ids,`In Sample` := '+']
+
+d.simulated <- d
+d.simulated[,frame_i := 1]
+# d.sample.i <- d[id %in% sampled.ids,] # Subset sampled cases
+
+  
+g1 <- ggplot(d.simulated,
+  aes(x = ransom, y = y, fill = `In Sample`)) + 
+  geom_point(shape = 22, size = 15) +
+  scale_fill_manual(values = cols) + 
+  geom_vline(xintercept = true_mean, col = "darkgreen",
+    alpha = .8, size = 2, linetype = 2) +
+  # Animation Part
+  transition_states(
+    frame_i,
+    transition_length = 2,
+    state_length = 1
+  ) +
+  enter_fade() + 
+  exit_shrink() +
+  ease_aes('sine-in-out')
+
+p.anumated <- animate(g1, duration = 1, height = 1200, width = 1200,
+                      fps = 5, res = 200,
+                      renderer = gifski_renderer())
+anim_save("population-1.gif", animation = p.anumated, path = "0-Gif")
+
+
+
+
 set.seed(14)
 sampled.results <- data.table() # create empty bin to store the results
 
+# Theoretical population 1
 
 
+
+
+
+hist(d$ransom)
 
 
 for (i in 1:1000){
