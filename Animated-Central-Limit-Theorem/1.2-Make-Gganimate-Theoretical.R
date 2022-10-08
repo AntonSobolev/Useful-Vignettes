@@ -1,5 +1,5 @@
 if (!require("pacman")) install.packages("pacman")
-p_load(data.table, dplyr, plyr, tidyr, devtools, ggpubr, scales,RColorBrewer) # Packages for text mining
+p_load(data.table, dplyr, plyr, tidyr, devtools, ggpubr, scales,RColorBrewer, ggforce) # Packages for text mining
 p_load(ggraph, igraph ,gganimate, graphlayouts, patchwork)
 p_load(gifski, ggrepel,transformr)
 p_load(png)  
@@ -28,14 +28,20 @@ d[,id:=1:nrow(d)]
 true_mean <- mean(d$ransom)
 
 set.seed(1)
+d.simulated <- data.table()
+samples <- 1:100
 n = 10
+for(sample.i in samples){
 sampled.ids <-  sample(d$id, n)
-
 d[,`In Sample` := '-']
 d[id %in% sampled.ids,`In Sample` := '+']
+  
+d.simulated.i <- d
+d.simulated.i[,frame_i := sample.i]
 
-d.simulated <- d
-d.simulated[,frame_i := 1]
+d.simulated <- list(d.simulated, d.simulated.i) %>% rbindlist()
+}
+
 # d.sample.i <- d[id %in% sampled.ids,] # Subset sampled cases
 
   
@@ -46,33 +52,81 @@ g1 <- ggplot(d.simulated,
   geom_vline(xintercept = true_mean, col = "darkgreen",
     alpha = .8, size = 2, linetype = 2) +
   # Animation Part
+
   transition_states(
     frame_i,
-    transition_length = 2,
-    state_length = 1
+    transition_length = 0,
+    state_length = 3
   ) +
   enter_fade() + 
   exit_shrink() +
-  ease_aes('sine-in-out')
+  ease_aes('sine-in-out') +
+  labs(title = 'Cylinders: {closest_state}')
 
-p.anumated <- animate(g1, duration = 1, height = 1200, width = 1200,
+p.anumated <- animate(g1, duration = 10, height = 1200, width = 1200,
                       fps = 5, res = 200,
                       renderer = gifski_renderer())
 anim_save("population-1.gif", animation = p.anumated, path = "0-Gif")
 
+frames <- unique(d.simulated$frame_i) %>% sort()
+d.simulated.means <- data.table()
+for(frame.i in frames){
+d.simulated.frame.i<- d.simulated[(frame_i %in% frame.i ) & `In Sample` == '+',]
+d.simulated.means.i <- data.table(mean_i = mean(d.simulated.frame.i$ransom), frame_i = frame.i)
+d.simulated.means.i[,mean_i_rounded := round(mean_i, digits = 0)]
+
+d.simulated.means <- list(d.simulated.means, d.simulated.means.i) %>% rbindlist()
+
+}
+
+d.simulated.means[, y := 1:.N, by=mean_i_rounded]
+d.simulated.means[, index := 1:.N]
+
+d.simulated.means.full <- data.table()
+
+indexes <- unique(d.simulated.means$index) %>% sort()
+# index.i = 2
+for(index.i in indexes){
+  d.simulated.means.full.i <- d.simulated.means[1:index.i,]
+  d.simulated.means.full.i[,frame_i := index.i]
+  d.simulated.means.full <- list(d.simulated.means.full, d.simulated.means.full.i) %>% rbindlist()
+
+}
+
+ggplot(d.simulated.means.full[frame_i == 100,],
+  aes(x = mean_i, y = y, fill = "Sample i")) + 
+  geom_point(shape = 15, size = 5, alpha = .5) +
+  scale_fill_manual(values = cols) + xlim(0,10) +
+  geom_mark_hull(concavity = 10)
+
+
+g1 <- ggplot(d.simulated.means.full[frame_i >10,],
+  aes(x = mean_i, y = y, fill = "Sample i")) + 
+  geom_point(shape = 15, size = 5, alpha = .5) +
+  scale_fill_manual(values = cols) + xlim(0,10) +
+  geom_mark_hull() +
+  # Animation Part
+
+  transition_states(
+    frame_i,
+    transition_length = 0,
+    state_length = 3
+  ) +
+  enter_fade() + 
+  exit_shrink() +
+  ease_aes('sine-in-out') +
+  labs(title = 'Cylinders: {closest_state}')
+
+p.anumated <- animate(g1, duration = 10, height = 1200, width = 1200,
+                      fps = 5, res = 200,
+                      renderer = gifski_renderer())
+anim_save("sampling-distribution-1.gif", animation = p.anumated, path = "0-Gif")
 
 
 
-set.seed(14)
-sampled.results <- data.table() # create empty bin to store the results
 
 # Theoretical population 1
 
-
-
-
-
-hist(d$ransom)
 
 
 for (i in 1:1000){
