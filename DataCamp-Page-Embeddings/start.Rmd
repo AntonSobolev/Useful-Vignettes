@@ -7,8 +7,22 @@ output:
 ---
 ```{r}
 if (!require("pacman")) install.packages("pacman")
-p_load(data.table, tutorial) # Packages 
+install.packages('rsconnect')
+p_load(data.table, tutorial, rsconnect) # Packages 
 ```
+
+```{r}
+rsconnect::setAccountInfo(name='xkcd',
+             token='A46C4301A3C45F59471F0328A4BD534D',
+             secret='1fvHSX8rLXBmusPFzO/eHbLQefznEH1hpul28oK/')
+```
+
+```{r}
+library(rsconnect)
+    rsconnect::deployApp('path/to/your/app')
+```
+
+
 
 ```{r, include=FALSE}
 tutorial::go_interactive()
